@@ -7,7 +7,7 @@ from tensorflow.keras.layers import Dense, Activation, Dropout, Flatten
 from sklearn.metrics import f1_score
 from tqdm import tqdm
 
-# Dr. Stephan Raaijmakers
+# written by Stephan Raaijmakers
 
 #preprocessing
 def featurize_data(sentences): 

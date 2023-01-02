@@ -1,0 +1,953 @@
+flights-9e4cdfec-cd94-4b9a-a4e2-b011ffc0192a;0;There will be two passengers.;Just coach.
+movies-64d1158a-8ea3-4332-b15c-87d4cfd9d074;1;Alright I got it. Do you want to buy if from Google Play for $2.99.;Did you want to buy it from the Google Play Store for $2.99.
+flights-5d2c7083-6dc7-4328-b099-51c3a4bd1ea5;0;What's the cheapest flight?;That'll be fine.
+restaurant-84217158-ddeb-4f85-9e36-a9e5a332c431;0;Enjoy your dinner at Sway.;Goodbye.
+flights-8d89c6ec-7a60-4967-84dd-df8336f47a7d;1;No. That's not okay.;Yes.
+flights-597d72f4-f99b-4fe9-848d-bb8343797b94;0;Okay.;Sure. Anything else?
+movies-a8fe5c01-a094-49d1-9ceb-41eba7e3415a;1;That's correct, can you help? I'm looking for a good horror movie. Are there any out?;What?
+flights-2f8c43f6-b78d-47aa-b086-27e19b569087;1;Okay. And I'd rather leave early.;Yes. I'd rather leave in the morning.
+flights-b0499f94-49e7-4858-8289-7f836bc81c36;0;All right, that's great.;Yes, please.
+movies-ab5a21cc-68bd-4c59-a44c-c96733991385;0;7:45 p.m.;You need 2 tickets, is that right?
+flights-ac0892b3-0d9a-4df7-8ec5-1cf86fe7f545;0;I have a Delta flight at 8:20 AM, does that work?;Yes, The Delta airline has one stop in Atlanta, is that okay?
+restaurant-cbf33171-1e6a-405a-8486-e1ab079de7cd;0;Erik's delicafe Casual Cafe teenserve and gourmet deli sandwiches house-made soups salads and baked goods. And, what kind of soups do they have?;Okay. Do you have any that are running any promotional specials right now?
+restaurant-84217158-ddeb-4f85-9e36-a9e5a332c431;0;Okay. What kind of food?;Malaysian?
+food-d9b61dbb-ed30-4bd9-b394-5ee1dc80c0fc;1;Would you mind saying that again?;The condiments.
+movies-7adae3ff-a8e1-4a6c-9d63-1f9c150f2c63;1;How high?;How high of a rating on IMDb?
+food-b365b6c3-2bb5-4ce5-9ca3-065eae811ab8;1;Yes. Can I get a side of tortilla chips and cheese?;A Carne Asada breakfast burrito, no guacamole, a side order of tortilla chips with cheese and a 2-liter bottle of Orange Soda.
+flights-5799d315-e128-451a-a0f5-a4c6eaccdfc2;0;I'll take the first one.;No, That's all. Thank you. You, Too.
+movies-6c0d43d1-eb66-47d7-835e-db326f7e5a2c;0;Okay. I'll go see La La Land tonight at 7:25 PM.;Thank you. Bye.
+flights-c8ebd569-dab5-491c-bb29-1a8227355278;1;Will it just be you flying?;How many people will be traveling?
+flights-3f2491bc-8d1a-4c46-a867-a727f19c7216;0;Cheap would be nice and I don't like layovers.;Yep.
+flights-c87deb79-f36b-4328-8fc1-584766bdd7a6;0;Leaving Houston on United $1764 with First Class and Boeing $737. Departs at 8:45 AM.;And leaving Orlando at 7:27 PM.
+restaurant-3f45c447-b83f-4181-8e01-f73eaa24357c;1;Woodlands Indian Vegetarian Cuisine.;This no-frills Indian restaurant serves meat-free dishes or from a popular lunch buffet.
+flights-a03e07e4-a887-4b6d-adc1-4e2976f5dfc5;0;I would like help finding a flight to Chicago.;One-way.
+flights-69fb5a60-ebad-4cf6-ae1e-54fa5cdf99bc;0;You're departing flight will be leaving at 3:03 P.M. on Friday, March 17th with a layover in Atlanta and your return flight will be leaving at 5:15 A.M., on March 22nd with a layover in Atlanta.;Great, anything else?
+restaurant-b66b2fc8-7e0a-4237-b4fd-d891a4495812;1;One moment please, while I gather that information.;One moment please, Let me check that for you.
+movies-e7337b7c-590d-4802-ba53-1d38de797e23;0;There are 3 IMAX 3D showings at AMC Mercado 20. 3:40 p.m., 6:40 p.m. and 9:40 p.m.;Okay.
+restaurant-38258bde-9496-4ac8-9813-4bd9f79059dc;1;I was thinking about an American one.;Yes.
+flights-6bbb2dc7-531b-40ae-bf94-c3639ee53bc4;1;I want the flight that is the least expensive but a Non-Stop flight.;Yeah, non-stop flight.
+restaurant-898a4c42-64ef-469b-85f7-b3e044998cfd;1;Pie, please.;Pie.
+movies-f6cff8b5-958c-4570-b519-b4b423687ef7;0;Okay. I would like to watch it on XFINITY.;No. That's fine, thank you very much for your time.
+flights-6b71498f-d25f-4856-a495-49c3bb25ea58;1;Yeah, I'm going to need it on March 3rd. I'd prefer to fly out in the morning sometime before 11:00 a.m, if at all possible.;Yeah, I said I would like to fly out sometime on March 3rd. I would like to fly out sometime before 11:00 a.m. If possible.
+flights-b44224e5-a5d2-4bb8-a130-63e2df24e49e;1;It needs to be first class and a window seat.;It needs to be first class.
+flights-df4b5e26-b3f3-4bf9-b405-740f66bfdcd9;0;$787, Okay.;Okay.
+restaurant-1a550360-6cde-4980-bc58-21aa09c9ccbf;1;Yes, kids are coming.;Kids are coming with me.
+flights-05f6996b-96a7-4a35-a5d7-97365c96773f;0;Okay, that would be great.;Delta.
+flights-ba5f9ff1-e342-4e35-9fb5-915c738cc8f6;0;I want to leave and return in the evening.;Yes. That's correct.
+flights-7a6f3e7e-9084-42a5-bf42-78b4dbc8c0f9;0;Delta.;I'm open to the price.
+food-710ed009-3311-4ae4-b8d3-77918a5002cb;1;With mustard and chili on it. And I'd like an order of large fries with that. For the second order, I need a mushroom Swiss burger.;A mushroom Swiss burger.
+movies-64d1158a-8ea3-4332-b15c-87d4cfd9d074;0;Yes, sure I'll. Here is a sentence for Star Wars the Force awakens. Thirty years after the defeat of the Galactic Empire, the galaxy faces a new threat from the evil Kylo Ren (Adam Driver) and the First Order. When a defector named Finn (John Boyega) crash-lands on a desert planet, he meets Rey (Daisy Ridley), a tough scavenger whose droid contains a top-secret map. Together, the young duo joins forces with Han Solo (Harrison Ford) to make sure the Resistance receives the intelligence concerning the whereabouts of Luke Skywalker (Mark Hamill), the last of the Jedi Knights.;Sure thing. The top-rated drama movies out right now are The Godfather, The Dark Knight Batman, and Pulp Fiction.
+food-e301c748-ab62-4e4c-ae00-0087a446bd61;0;Yes.;Awesome, I appreciate your help. Thank you.
+movies-3de2a6e8-1688-433d-a487-fb0b4ed1432c;0;There are no adam sandler movies out right now.;20 miles from sunnyvale, is that what you said?
+movies-f97dbdcd-d376-46f3-8670-0aefc0c599b2;1;Sorry. Yes, technology plain takes 2D movies, Oakland Mall.;It should be a 2D movie.
+flights-05f6996b-96a7-4a35-a5d7-97365c96773f;0;There are several airlines to fly with Frontier, JetBlue, American, Virgin America, Delta.;Alright, there is only one flight.
+flights-26e06311-ac29-4ce1-b210-b53a93acd847;0;Great, you'll fly back with American Airlines, is that okay?;You'll leave at 7:45 AM and arrive back in New York City at 4:07 PM.
+food-bd7d2df1-5e1b-4fd9-a93e-b63f5a6f9007;1;Hi, I like to order one dish of butter chicken. And some rice on the side and the large coke, please.;I have butter chicken, rice and the large coke.
+flights-36c99955-bf30-4b6b-9a99-64a0c56c8148;0;Honolulu, Hawaii.;I need coach tickets.
+restaurant-11aa187b-33ed-4007-afa0-543f19498414;1;Same parameters.;Parameters.
+movies-9cee8c61-f377-435f-9fbe-060487eba83f;0;Tell me more.;What's the movie rating?
+restaurant-ccda99c3-2b05-4d51-8c0c-3f86ea794315;1;So, one of the best-reviewed hamburger places, four stars or higher maybe. Someplace that takes credit card. It would be great if it take reservations, but that's not necessary.;I said it would be great if it take reservations, but it's not necessary.
+movies-544ab496-739e-4141-9acf-88e928f811ff;1;Do you think I should watch it?;Should I watch that movie?
+restaurant-64bd46da-724f-4ac1-aff4-4df0c1345c39;0;Yes, they do.;Sunny with a high of 64 degrees.
+flights-cf7a9d8e-be75-48ed-adc0-feb8877a45c8;0;Okay. Is that everything?;Okay. Let me send you the flight details.
+movies-544f1676-362e-4560-9271-0859e5274a88;1;Give me information on Hidden Figures, please.;What are the movie times and location for Hidden Figures?
+flights-15921954-e628-4c23-ac84-243563fa7ebc;1;And at what time I will be back?;At what time I will be back in New York?
+flights-ef12d593-a7e1-4ea5-a1a0-695ae1cc3fb7;0;The morning would be best.;That works.
+movies-d07172ad-ccbb-43d9-a357-49c337835061;0;Hi. Okay.;What do you like? and what else?
+restaurant-31577305-c063-4fa8-9864-9689696c6bf6;0;The Sandwich Spot at 1010 Pacific Avenue.;That information is not available.
+movies-9ae361fc-5a7a-4e59-ad5c-d60ed0d961f5;0;Great! Does it give a synopsis for the movie?;Yes. Please.
+movies-3de2a6e8-1688-433d-a487-fb0b4ed1432c;0;Hello, How can I help you?;Okay. Okay, What kind of movie?
+restaurant-358e5d50-4e69-4c9d-bc67-25c96a6b8e50;0;Okay here is your pizza order. I have sent you the information to your mail. Let's try.;Making this up.
+flights-a392e505-86cf-4ef9-a7d9-3da0e22ffd68;1;Whatever it is in the morning. That'll work.;Whatever has a morning departure and return.
+movies-aefc40aa-5316-489f-9313-197bec5e8952;1;Okay. Okay. What are the showing times tomorrow for the third choice?;In the list that you gave me of dramas. What are the top four? what are the top four?
+movies-9a574d6b-bd85-4e0e-a8da-e7e9fb214290;0;Scarlett Johansson, Kate McKinnon and Zoe Kravitz.;It has been out since Friday.
+movies-115011ae-3a73-43cd-89c0-89252b89795a;1;Can you tell me that who are the actors in Split?;Who are the actors in the movie Split?
+flights-e134e57c-89c9-4e18-82d6-c6c0328f6019;0;I am flying back on March 8, 2017.;I would prefer I would prefer to sit in economy class.
+restaurant-517ab28b-7c29-430c-85a5-1dea297e1f67;1;Anytime after 6:00 tonight would be fine.;I need a place after 6:00 PM.
+flights-cf7a9d8e-be75-48ed-adc0-feb8877a45c8;0;With the cheapest price right now, they only leave at night 6:55 P.M and 7.25 P.M.;You will arrive in sfo at 9:53 P.M.
+restaurant-cab23d82-6b05-4a6f-b219-ab37625d56d7;1;Hot dog.;Yeah. Hot dog.
+food-35a7859f-7c7a-44d8-b9e3-48d505a53218;0;2 orders of spicy green papaya salad - 3 orders of chicken and coconut soup - 3 orders of fried rice - 2 orders of thai style noodles - 3 large waters.;Okay. I have your personal details on file. Your order will be ready for pick-up in about 20 minutes.
+movies-d27379b4-746b-4917-b00d-a77ad2b967b4;0;Okay, is it available on iTunes?;Alright. I'll take that one.
+movies-0c57b6b9-2b92-4b2f-95ff-22b10fa0e198;1;Action-adventure or a comedy if that movie any showing in a theater.;Well, I like to see action-adventure movies.
+flights-0e6687fa-5af7-4d20-8539-a645fcc80e98;1;I'm thinking from February 28th through March 7th.;I would like to fly out on February 28th through March 7th.
+food-967c0f62-38c3-4357-bd1e-a56011a60e1c;0;And I want the beef burrito wrapped with only guacamole on it.;Okay, Right. And for the third order I need a bean burrito.
+flights-0c8d7acc-4d56-44ce-98e6-1da52998d9d2;1;No, I want a round-trip returning on July 1st.;Yes, I want a round trip and I would like to return back on July 1st.
+movies-9f148577-9e9f-43f2-bde4-4c33e4d4076e;0;Okay, I think that's all I need. Thank you so much.;Thank you.
+flights-2806bcfe-9aab-4121-96ae-2b144cafc3df;1;Thursday August 3, 2017th, and return on Saturday August 5th, 2017.;August 3, 2015 to August 5, 2017. Just 2 days.
+movies-97b66e53-51e6-4ee8-9dc6-efdec440217b;1;Something latest.;Upcoming.
+flights-4d3acba1-d6b6-40e2-b16e-fb692b8555ed;0;What?;There are two airports in San Diego. San Diego International or McClellan Palmoar.
+movies-dee729a3-d94e-415c-955a-2700f962d70b;1;Can you tell me who the actors are in it?;What's Rogue One about? What's the synopsis of Rogue One? Can you tell me about the actors?
+flights-eed11e84-0da6-427f-b852-03ed50404521;1;If possible, can the time be early in the morning?;If possible, can the flight be earlier in the morning?
+flights-9ff4de7a-8c5b-415b-a4e2-70d4dcd07b3f;1;The return trip leaves at 6:25 a.m, it is a 33 hour flight with two stops.;33 hours and 25 minutes.
+movies-3f7951f8-371d-4b18-b938-93efa78c12c8;1;That sounds great. Is that in IMAX or 3D, by chance?;Is that an IMAX or 3D?
+flights-c5207f91-84ae-49d4-b2e1-abcb9ce32c98;0;I would like help finding a flight from LA, California.;London, England.
+restaurant-14cd5da3-209c-469a-9c4b-59a1ee177764;0;Alright. Alright, You need what?;Okay. Okay, Alright and so what time did you want toe at?
+flights-f767bd74-5e6f-421a-aa9a-7cb325dc9c49;0;I would like to fly at 5:00 in the morning.;Yes, first class please.
+restaurant-cbf33171-1e6a-405a-8486-e1ab079de7cd;1;That information is not available.;Unfortunately that information is not available.
+flights-673c1e74-872b-458f-b227-4a664607b8c7;1;Yes. Let me see, please hold. For $1560 I found flights with United Airlines.;$1560.
+movies-b8734204-fcb2-4bfb-8b16-42663f96ff0d;1;I want it to be within 10 miles from my house.;I want the movie theater to be within 10 miles.
+movies-64f91c94-24f8-404c-8a6a-8bdb74485731;1;4:40 p.m is perfect.;4:40 p.m is good time to go see movie.
+restaurant-599788fe-195f-4801-a2af-e1102be08b11;1;Yes, I would like the restaurant not to noisy.;I would like a restaurant that is not too noisy.
+restaurant-eb229fe0-c5da-43ea-9903-ad10ae79a756;0;Okay.;What are the options again?
+flights-7e73b4de-45f6-4d6c-962c-3cd4d3132e38;1;Okay and what is my total for both?;What is my total amount for both flights?
+flights-42392247-3179-437e-a3d9-07bbb8a4317b;0;Okay. You will arrive in Houston at 11:49 AM.;There are two times to leave and get back in the evening time.
+food-390fced1-e7c2-4165-b63b-7713b631dc74;1;Well, so on the hot dogs, I want one hot dog with just ketchup, one taco dog with lettuce, cheese, and tomatoes. And one hot dog with chili and coleslaw.;And one dog with lettuce, tomato, and cheese. And salsa on that one.
+movies-544ab496-739e-4141-9acf-88e928f811ff;0;What is the name of the theater?;How long is it?
+flights-6b2481e1-16f5-4db3-877b-5f662ee5deab;0;Hi, How may I help you? To where?;Okay. And what else?
+movies-6c0d43d1-eb66-47d7-835e-db326f7e5a2c;1;No. How is Matthew Menaul? No, I just need the drama.;Just looking for a drama picture, please.
+movies-43ca506d-3ce0-4c8b-8909-0cc0ef205849;0;Okay, what are the ratings?;Okay, that sound great. And what is the showtime?
+movies-0e923085-2c43-460f-85d7-bbd5c793a2f4;1;That's great. Can you give me showtimes for tonight?;Can you tell me tonight's showtimes for Planet of the Apes at Regal Cinema, Fenway?
+flights-b833870d-b604-4ea0-ac53-0409f87431d9;0;There's just flying and that's all.;That would be nice.
+flights-55fad729-a3f2-430d-ba6a-2a3bf0b245eb;1;I'd like to leave on February 22nd and return on February 27th.;That's correct. I'm sorry. The date is 23rd March not 22nd March.
+movies-01f6fb00-f372-49eb-b1d7-d53479da0f06;0;I will be going with a friend. I would like it to be near a place where we are at right now.;Will you please repeat what you just said?
+flights-b833870d-b604-4ea0-ac53-0409f87431d9;0;Okay. So, there are several airlines. American, Alaska and United. Which one do you like?;American airlines is priced at $667.
+restaurant-85a8e322-3591-4836-9fdc-e245be7237b3;0;What are their ratings?;Okay, and how about price range?
+movies-c464d272-14c6-4a23-961a-0fe9d01dbd1d;1;Yeah, I was thinking about an action movie. Something with a lot of good reviews.;Yeah, I was thinking about an action movie. Something with good reviews.
+movies-99a301e8-0070-4a89-8156-6dc2774e2f1c;0;Okay.;Cal Lynch travels back in time to 15th-century Spain through a revolutionary technology that unlocks the genetic memories contained in his DNA. There, he lives out the experiences of Aguilar de Nerha, a distant relative who's also a member of the Assassins, a secret society that fights to protect free will from the power-hungry Templar Order. Transformed by the past, Cal begins to gain the knowledge and physical skills necessary to battle the oppressive organization in the present. Okay, movie times are 7:50 p.m.
+movies-98188549-4576-42bb-bbd7-08e3ca3009a1;1;I'll choose American Made then.;I'll choose American Made.
+flights-f59fbddb-c6ea-4780-8afa-fd788d6fc604;0;So you told me you want to leave Los Angeles to Houston June 2nd then you told me again you want to leave from Los Angeles to Houston the next day, that is impossible.;And when day do you want to come back from Orlando to Los Angeles?
+movies-4cda3ce6-da98-4419-b9a3-1b30402cec2e;1;Okay, that sounds funny. How long is it?;How long is the movie?
+restaurant-f9d1273d-5cd8-4de1-ba12-284281f4d4db;0;Okay Mexican it is. What else are you looking for in a restaurant?;Sure thing.
+flights-a2376ccb-4666-4ef4-b121-16b399d7b2f6;0;Sure. The lowest price of first-class ticket is $1,143 leaving at 7 a.m. to Delta Airlines.;Yes, let me check that for you. There is a premium economy class ticket for $791 leaving at 11:15 a.m. or there's another ticket for $803 leaving at 7 a.m. What would you like me to do next?
+movies-9ae361fc-5a7a-4e59-ad5c-d60ed0d961f5;1;No more than $10 per ticket.;$10 per ticket.
+flights-1d16d762-4851-49e7-8155-463e357f91ff;0;Okay.;That's okay. I'm a very rich man.
+restaurant-2e06fcc1-2143-435b-8b86-f251b43a0346;1;Yes, Is there something near the theater?;Yes, Family restaurant near a theater.
+restaurant-652933af-b0af-41be-8568-09713b4c38d8;0;Sorry, what did you say?;Okay and anything else you would like to add?
+movies-52b0e424-7a41-48d7-a677-5f62887f36f9;0;Okay.;Yes, it's fine.
+restaurant-bc039e37-4aee-417a-ab91-b280d3fe5bca;1;Is there a dress code for Park Winters?;Is there a dress code in for Park Winds restaurant?
+restaurant-b8b31804-757d-4fcc-8eea-83e5c158a68f;1;Okay, How's the atmosphere there?;Yeah, How's the atmosphere there?
+flights-f9216363-995d-47be-9582-8ea183622f28;1;There are 3 airlines flying premium economy and nonstop for around $4000.;The airlines to choose from are British Airways, Air New Zealand and Virigin Atlantic.
+restaurant-e61ad1cc-c9bc-40dd-a6a3-cd2649270a30;1;For Hogan's Hideaway is 2 dollars signs.;The burger is 1 dollar sign.
+flights-05f6996b-96a7-4a35-a5d7-97365c96773f;0;That would be okay.;Okay. That sounds good. Are they economy?
+movies-cb83ca53-0a15-4b85-88f9-e8b188ff5dfb;1;I'm looking for newest release movie in the closest theater.;Yes, a new released movie. That is right.
+flights-d15a2433-c7ee-41d9-8b91-ad5b04ce30c2;0;Okay, the booking has been done and the details have been emailed to you.;You're welcome. Goodbye.
+movies-2fc5ddba-aaf4-439e-8591-f0d78e008361;0;Sure, which movie are you picking?;That is at 8:40 at the Varsity Theater.
+movies-b8734204-fcb2-4bfb-8b16-42663f96ff0d;0;3:30 PM sounds good.;What's the name of the theater?
+restaurant-250d9191-837d-4294-9701-ea4e256f64f9;0;Is there anything else you need? Knödel, or Klöße are boiled dumplings commonly found in Central European and East European cuisine.;Got it. Talk to you next time. Bye.
+flights-77ad5338-e1c9-4d67-ab03-26fcf129cbd6;0;ICA the first flight at 11:30 a.m. does that work for you?;The next flight I see at 8:10 a.m. does that work for you?
+restaurant-cbf33171-1e6a-405a-8486-e1ab079de7cd;0;Okay. Do you have any that are running any promotional specials right now?;Could you repeat that?
+flights-5e27adde-80bd-490d-897b-f86ffab1691a;0;I'd prefer to leave in the evening. Have evening flights if possible. And I need a business-class ticket.;Great. Is there a business class available for that?
+restaurant-20e5510d-1ff3-4ad1-80e4-92e0acd875e0;1;Okay. I have 2 restaurants for you to choose from. The first is called Roaring Fork. Wood-fired steaks & slow-roasted pork, plus cocktails & dessert in the InterContinental Hotel. The second is called Eureka. Burger bar also pouring craft beer & small-batch whiskeys in a historic space with woodsy flair. Which one do you want?;Repeat? Okay. The first is called Roaring Fork. Wood-fired steaks & slow-roasted pork, plus cocktails & dessert in the InterContinental Hotel. The second is called Eureka. Burger bar also pouring craft beer & small-batch whiskeys in a historic space with woodsy flair.
+restaurant-98013d49-bc15-4cf6-a750-d11c28d94a34;1;Okay. What types of appetizers do they offer?;What types of appetizers do they offer?
+flights-5e27adde-80bd-490d-897b-f86ffab1691a;0;Yes. The airline is Air France.;Yes, non-stop both ways.
+flights-4c4f48b4-649f-4ba5-b082-c3a9807653a4;0;Choose what?;Which one, the non-stop flight or the 1 stop flight?
+restaurant-21536787-2f76-43d7-aedd-f8b2556a6e5d;1;Hello, I'd like help finding a restaurant in Chicago, Which offers Italian cuisines and has got special reviews and is one of the highly-ranked restaurants. DocuSign special.;I'd like help finding a restaurant in Chicago, Which has got special desserts and some special offers for today.
+movies-6a1a576a-12c1-4591-a9ac-bf6f5c9a1045;0;IMBD.;Full.
+flights-df4b5e26-b3f3-4bf9-b405-740f66bfdcd9;1;Let me tell you the timings again 7:25 A.M., 9:55 P.M., 8:15 P.M. and 5:11 P.M. The total cost of this trip is $877 which is above your $700 limit.;It's $877.
+movies-87cd75c5-a955-4605-8933-ee35fb7366bf;1;I would like the film genre to be comedy. All about Jonah to be comedy. And I would like to have rating of three or higher.;On ratings.
+flights-da943ef3-ceb5-4a5b-a08f-bc569e365ae4;0;And it will leave Madrid at 11:40 p.m on the 19th.;That is the earliest with the cheapest price.
+movies-8e4bec31-e67d-40a3-b67b-6630dc0c1e89;0;Sounds good.;7:00 P.M.
+restaurant-b7ed4e7f-98c4-477a-b80f-9859e5ef809b;0;I would like the second one.;Yes.
+flights-4964883c-ee54-4906-8d3e-a0fa2556e3d7;1;I have a $3,000 budget.;I have $3,000 to spend on the flight.
+flights-44e95223-b4f4-4c9c-b81a-193b639c462f;1;There is only one time to fly.;8:30 AM. Is that okay?
+flights-aedc3b46-b354-4fd4-b0d5-d837ba8c000a;1;I'd like to fly on the 25th of April, and I want to return on the 2nd of May.;Yes, I want to fly on the 23rd of April and return on the 2nd of May.
+restaurant-d422c8d7-0c23-4eb8-8484-7ef3f2ca5830;1;Four people.;Take out, I'm sorry. Yeah, go out but I'd like that takeout today.
+movies-6a1a576a-12c1-4591-a9ac-bf6f5c9a1045;1;Is there anything?;Is there movie tickets available now?
+flights-9cace285-48bb-4410-b810-2c84000a6f04;0;Alright.;Here are the times. This is an economy flight with Delta.
+movies-347ad169-8039-4be1-bc71-402d8e8d6320;0;No that's the name of the movie.;Fantastic beasts and where to find them. That's a movie.
+flights-71f5306c-76ea-4ccc-a8eb-14fd84e4fef4;0;Yes, please.;Under $500 round-trip.
+movies-2813b3e0-02f9-4dca-975b-aa6c5e2a73f9;0;Can you repeat that, please?;The nearest theater would be the AMC Mercado 20 which is 5.1-miles away from you.
+movies-7c14ef10-5289-4f51-b1f7-b8bcbd473e99;1;Sure. I can help with that. Here’s a list of three popular ones playing nearby. First, there is the Lego Batman Movie, number one at the box office. Next, we have John Wick: Chapter 2, a crowd favorite. And then there is Arrival, a popular sci-fi thriller. Do any of these interest you?;It is very highly rated by fans.
+movies-3e94826c-4c04-4069-9ee4-f652a5ff4a89;1;Okay, great. AMC Van Ness theater is playing this movie. AMC Van Ness theater is playing this movie. Standard showing is at 7:10 p.m. and 9:45 p.m.;9:45 p.m.
+restaurant-9ef77429-e20d-4563-8ddc-dd60506ddabd;1;What is your rating limit?;Correct.
+flights-b44224e5-a5d2-4bb8-a130-63e2df24e49e;0;I need to leave in the morning.;Coming back in the evening.
+movies-b944c3c5-2f45-44c6-92ff-8c3f4c38be64;1;No.;No other restrictions.
+movies-103d2a6d-de2f-4c02-87d8-f47f3cfef5f3;1;Just one moment. There are Raees and Split with high ratings.;The movie is called Raees. Or there is Split.
+movies-43ca506d-3ce0-4c8b-8909-0cc0ef205849;1;A morning show.;I would like to watch movie in the morning.
+restaurant-fd55af24-1612-4bff-a025-4810da995aa1;1;I want the mealtime time around 7.;I'd like the mealtime to be around 8:30 p.m.
+movies-347ad169-8039-4be1-bc71-402d8e8d6320;1;Fantastic beasts and where to find them. That's a movie.;Okay, let me get the showtimes for star wars.
+restaurant-f55e0888-1553-4400-8b45-f8a3cfcbd4c1;1;What would you like to eat tonight?;Vegetarian or does it matter?
+flights-8d89c6ec-7a60-4967-84dd-df8336f47a7d;0;Okay, business class will start at $3559.;Is that okay?
+movies-09542fab-6dec-45bf-a512-c7e8f52dfef3;0;Okay. And what kind of ratings?;Okay. And how about actors?
+flights-9c7ca139-3a58-41e1-82f4-50ef6380c160;0;You'll be back in Houston at 11:28 PM.;Total for the trip is $1292. Sound's good?
+restaurant-1c8e27d6-0f94-42a6-bbae-ebd66c71ace2;0;Address: 30872 Coast Hwy, Laguna Beach, CA 92651.;Is there anything else you'd like to know about the restaurant?
+movies-78fdcd79-eb79-4448-a733-5765f527619f;0;I would like help finding a movie to go see in a theater. Alpine movie theater.;I'd like to see a horror movie.
+flights-73ecad62-b458-4ad0-992a-f4ae602e76b1;0;Round trip to Paris will be a total of $867.;Of course, anything else?
+flights-0f2ff2ee-697e-447f-ade3-6ced8148c620;1;I think that's it.;I think that covers everything I need.
+flights-a03e07e4-a887-4b6d-adc1-4e2976f5dfc5;1;Yeah, I'd like nonstop.;Nonstop, please.
+restaurant-7195bcec-f3ca-4598-8920-3e677a426bfb;1;Okay, how about a bar?;How about a bar?
+movies-038a15a1-2d66-4fc1-adb6-d620264089b0;1;And if there's any I would like a movie that's close to my location, too, within walking distance.;I'd like a movie that is within walking distance of my location.
+flights-a48a0067-0ffa-49e5-85d6-ef7596e5ec0e;0;Okay, that's fine. And what are the timings for both?;I will prefer to go with United Airlines at 11:35 p.m.
+flights-b8c0949f-8fe6-4a83-bcfb-6eecd5e35742;0;It should be under $1,000.;I like not more than two stops.
+movies-d70a2803-dd5a-4853-b69f-459c494624bf;1;I want it to be within 20 minutes distance from me.;I'd like the movie theater to be within 20 minutes.
+flights-a812040a-3746-4961-aa69-d7c2a9660a36;0;When would u like to leave?;And when will u come back?
+movies-0c57b6b9-2b92-4b2f-95ff-22b10fa0e198;1;How good on IMDB?;How high?
+movies-cb4176b5-ae8d-4e08-9ff2-0b7d96bce090;1;Okay. That sounds perfect. Can you make sure that the tickets cost less than $12?;I don't want to pay more than $12 for the tickets. Can you find tickets for $12 or cheaper?
+flights-0833e6d0-812d-444b-9bcc-4d6d448f4fb0;0;Do you want first class or coach?;Do you want non-stop or other?
+flights-c5931b0a-e17e-4f84-86b0-c5da6dfcc767;0;Okay and what else?;Okay and what else did you say?
+flights-e10a7333-9343-48ff-a1f6-7e885fe78434;1;Okay which states will you be traveling to Dublin Ireland?;On what dates you will be traveling to Dublin Ireland?
+movies-c067e6cc-1ef0-4766-8273-6a5ba828e727;1;I also have Captain Underpants the first Epic Movie.;Captain Underpants the first Epic Movie.
+flights-669d53f7-2966-4447-8707-0c69f2cb4191;1;I'd like it to be connecting and coach.;I don't have to be non-stop.
+flights-f9216363-995d-47be-9582-8ea183622f28;0;The airlines to choose from are British Airways, Air New Zealand and Virigin Atlantic.;There are two times to leave 4:35 p.m and 8:55 PM.
+restaurant-b937515b-c7b0-4aaa-a846-928c76d24612;1;Which one of these were you interested in?;Which restaurant are you most interested in?
+food-84d4020c-a0e5-4240-b268-ee81bd548f7d;1;I'd like one to be a shrimp burrito with white rice and black beans.;One shrimp burrito with white rice. Black beans and pico de gallo.
+movies-d70a2803-dd5a-4853-b69f-459c494624bf;0;Okay, cool. What time?;I need a night time show.
+flights-d43f1f8d-6795-4530-8f54-213e78b19ea6;1;Okay, can I get a return flight in 4 days?;I'd like a return flight in 4 days.
+flights-a8c8cc2a-a4c4-4e20-9983-132965cc8727;0;Not more than $10,000.;And I need a flight with Wi-Fi.
+flights-57cb8d87-3df4-4018-8191-0bfda8469ef2;1;Okay, sounds good.;The cheapest one. The 12:42 PM, I think.
+flights-0f2ff2ee-697e-447f-ade3-6ced8148c620;1;And you just told me they were $1,300 a piece, at least.;$2,000.
+movies-2813b3e0-02f9-4dca-975b-aa6c5e2a73f9;1;Very good, what time does the movie start? What theater is it playing at? Only receive a 93% rating on Rotten Tomatoes.;What theater is it playing at?
+flights-83662c6b-47a0-4ec3-baf3-cdf07792370c;0;I'm going to be leaving on the 4th of March, and I hope to come back on 10th.;I'm looking to fly economy. I'm looking to spend upwards of $200 to $1,000.
+flights-9c7ca139-3a58-41e1-82f4-50ef6380c160;1;Specific pricing information for the flight.;I'd like help trying to find a flight and to determine the price.
+flights-d1e3ffe0-edb9-4c2d-8990-be3faa9acfb5;0;Thank you.;Sounds great.
+movies-347ad169-8039-4be1-bc71-402d8e8d6320;1;And fantastic beasts and where to find them.;No that's the name of the movie.
+flights-7359e742-7d43-4b52-b2e3-7309e1eb39b4;1;And, if possible, I'd like to have a window seat.;I'd like to have a window seat, please, on the flight.
+restaurant-d422c8d7-0c23-4eb8-8484-7ef3f2ca5830;0;What would you like to order for take out and for how many people?;I'm sorry you said take out or go out?
+flights-74f81c81-4c99-44ef-97ca-4546499bfbf9;1;I like to go today and return in 4 days and I like it to be the morning the departure and the return. I also want the cheapest.;I'd like to leave today and return in 4 days.
+flights-eef0a0b7-db5b-4293-8e0a-50640fa7fda5;0;You will arrive in Eugene at 10:48 P.M.;Total for this flight is $294 with Delta.
+restaurant-f35ccc50-1087-446a-bb75-b16aa0cec723;1;I'm looking for one in Austin Texas.;I'm looking for Indian food in Austin.
+flights-e11de364-0a20-46dc-9ee7-fcf9aa4ca5b8;0;Sure thing.;So, do you want a nonstop flight?
+food-f87cd47b-d75b-4003-b5f4-fcca624fe0d1;1;I'd like to order a sweet potato burrito with egg whites, black beans and avocado. Sausage, tomato, egg burrito, the second one. And last, chorizo, red pepper and Monterey Jack burrito.;Okay. The first order would be a sweet potato burrito with egg whites, black beans and avocado. The second order would be a sausage, tomato, egg burrito. Third is chorizo, red pepper, Monterrey Jack burrito.
+flights-94131566-6a25-454d-9226-e650fc48d76c;0;That will be it.;Okay.
+flights-34b3952d-c302-40b5-8978-fc6897e81dae;1;alright You will have a 1 hour and 30-minute layover in Dallas. Then you will arrive back in Seattle at 12:39 AM the next day.;it's a 4 hour flight time from dallas to seattle
+movies-3cfbb25d-7ae7-45bc-bdcf-006198ad2a0d;1;A romantic comedy would be nice.;A romantic comedy.
+movies-589e5318-b136-471e-ab33-799133c9c9ac;1;Yes, I have one movie and the movie name is Suicide Squad.;Yes, the movie name is suicide squad I think that is action adventure.
+flights-e0ee39e4-c6be-4fe5-ae1f-b3f33b8041d7;0;Yeah, I think that's it.;Okay. What is the airlines?
+movies-11bfd5ac-9cc5-40a1-9771-60a28d751ba7;0;Captain America: Civil War.;Yes from $2.99.
+restaurant-e74a8ebe-2879-4e50-bbbb-a3971eaadab0;1;First off, are they open for dinner on Sunday?;Is Mother going to be open for dinner on Sunday?
+flights-44ee016e-6e66-487f-a725-9b145cde0423;1;Early morning, I got it. Any other preferences?;Non-stop?
+food-739e9cda-24fa-4c49-af86-845da237478f;1;I'm looking to get two large burritos with sausage, egg, and cheese. And that would be it.;Yes. I'm looking to get two large burritos. They're both going to have eggs sausage, egg, and cheese on it, and that's it.
+movies-a8fe5c01-a094-49d1-9ceb-41eba7e3415a;0;Do the 11:30 pm.;Sure 11:30 pm. At the same times for both theaters?
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf;1;Okay. Does that one serve alcohol?;Yes, do they serve alcohol?
+movies-0a6e5f70-0780-4d01-aaa9-9789904dbc99;0;That sounds good. What's the Rotten Tomatoes score?;That sounds solid. Yeah. Is that airing anywhere near me?
+movies-9a574d6b-bd85-4e0e-a8da-e7e9fb214290;1;Okay, great. I don't know the theaters around here, is there a showtime near me for tonight?;I'm sorry, is there a showtime near me tonight?
+flights-55fad729-a3f2-430d-ba6a-2a3bf0b245eb;1;That's correct. I'm sorry. The date is 23rd March not 22nd March.;February, I'm sorry.
+movies-e8c9200d-8522-49b9-817c-591c87f75939;1;Which movie would you like to see the trailer?;Goat, Me Before You and Crown Heights.
+flights-68ddd9b2-65f1-45fd-8c09-b3bace92450b;0;Okay.;American.
+flights-e134e57c-89c9-4e18-82d6-c6c0328f6019;0;I am flying on March 1st, 2017.;It is going to be a round-trip.
+flights-42392247-3179-437e-a3d9-07bbb8a4317b;0;I would like to leave in the morning and return in the evening at any time.;I would like the flight to cost less than $1,000.
+flights-2b2bd437-f969-4371-ae11-ff8aafddbccd;1;San Francisco.;US.
+flights-ab5097c7-c6c5-47ea-b48a-83d502cd867e;0;Excellent, thank you.;Bye.
+flights-4c4f48b4-649f-4ba5-b082-c3a9807653a4;0;And what else do you need in a flight? Economy, business, first class, which one?;How much did you want to spend on first-class?
+flights-4d7ce6c1-1dfb-4c8b-b70e-8c1e90929b9d;1;My preference would be business class, and I want to be by a window. Can you help me with that?;Oh, I want to come back in 6 days.
+movies-96bda2ac-b7a0-43e9-8653-370382093737;1;Looking for something in the crime genre that has a female lead actor.;Genre of crime. Plus a lead female actor.
+restaurant-f209f55b-db7a-4713-a4e5-5626a0c95f83;1;Give me somewhere that has live music, as well.;Yeah, somewhere with live music, please. Nice atmosphere.
+food-d9b61dbb-ed30-4bd9-b394-5ee1dc80c0fc;1;Okay, make that two sides of fries and one of those i need mushroom Chilli and onions and the other one just ketchup and two large cokes.;What?
+flights-1161433b-97ae-499a-a951-4ef122d404dd;0;Okay, that sounds fine.;Thank you.
+flights-7372d8fc-b362-4f04-845b-78046b14b3bd;0;Of course. Do you want me to send it to your email?;Got it. the departing flight is Delta 4909, returning flight is Delta 4902 both flights are nonstop.
+flights-621f2c00-d3d5-48f0-9213-bf1f63322ea0;1;Any non-stop flight today?;Non-stop flights only.
+flights-42392247-3179-437e-a3d9-07bbb8a4317b;0;Does that mean the cheapest?;Okay. United airlines will be the cheapest and it's non-stop.
+flights-d1a32bbf-1d30-4eed-8c9f-97ec14067e3b;0;Book me that one, then. Thank you.;Is that the same day?
+flights-9ccb2bad-dec2-4910-a53c-34d8f4b54608;1;Yes. I'd prefer to fly in the morning, although it doesn't make a big difference.;I'd prefer to leave in the morning, but it doesn't make a big difference.
+flights-8804e17b-5ce1-4fcf-a772-b47709559edb;0;Okay, Would you like to go to Miami round-trip?;When would you like to leave?
+flights-68ddd9b2-65f1-45fd-8c09-b3bace92450b;0;Alright. Total for these nonstop economy flights is $609.;I'll send you the details.
+flights-4c4f48b4-649f-4ba5-b082-c3a9807653a4;1;Okay, it's more comfortable for me, so choose that and book the ticket soon.;I would like to choose that airline, so please book the ticket now.
+flights-34b3952d-c302-40b5-8978-fc6897e81dae;1;I don't understand why there's a day difference there. There shouldn't be. If I leave at 1:00 in the afternoon Well, let's say 2:00 in the afternoon, and spend an hour in Dallas, that would put me at like maybe 3:00 or 4:00. And then it's only from Dallas to Baltimore. Should only be about 2 hours flight time. And then give, you know, 3 hours difference in in time. That's not enough time to put it into the next day I don't think. and why there's a date understand difference there shouldn't be that one afternoon say 2 o'clock and noon Dallas and spend an hour and would put me at like me there for;3 minutes away from where she talked to both of my be about lights a few hours I'm in and you know it's different time three hour than its next step into the I don't know If Okay, say it's 4 hours. 4 hours plus 3 hours with the time difference is only 7 hours. That's not enough to put it into the 1st of of May flying out, so I was wondering why.
+flights-276f6723-9399-4e17-8fea-3b378bb44317;1;I'll go for the other one, just for the leaving time.;I'll go with the 10:00 am one.
+movies-09542fab-6dec-45bf-a512-c7e8f52dfef3;0;Okay. Ticket prices are $12. Is this okay?;Okay.
+flights-c5207f91-84ae-49d4-b2e1-abcb9ce32c98;0;On February 10th.;February 13th.
+flights-66a3b2bf-f380-4690-9da5-d69da0b85bea;0;May the 20th leaving LAX To Houston.;I prefer to fly in the morning.
+movies-038a15a1-2d66-4fc1-adb6-d620264089b0;0;Showtimes are 4:25 P.M., 6 P.M., 7:25 P.M., 9 P.M. and 10:25 P.M.;Okay. Goodbye.
+movies-c28388bc-470e-4679-a156-993800f01d4a;1;Okay. May I suggest the movie Titan A.E?;Titan A.E.
+flights-1bf18a83-ddd5-488d-b838-6c58b36a1706;1;Okay, I will check for you. Just one moment. The least expensive flight to Paris non-stop is $1,600.;Yes this is a nonstop flight.
+food-7138b58b-8f79-42d8-92a6-04e97cb31929;1;I would like gyros.;I would like two gyros.
+restaurant-e6d8f584-73a6-4abd-b772-95bcdae871e3;0;Are you looking for a high-end steak house?;Okay. Did you say 5th street?
+flights-4fadf26c-e950-4ac5-9156-d6e9b5e54e2c;1;For the return flight, you can leave with United or Lufthansa. Which one do you need?;Lufthansa or United?
+flights-4fd5f44c-441c-4baa-b0de-7cc9623a161e;1;Ok, what are those dates?;What are those dates?
+restaurant-517ab28b-7c29-430c-85a5-1dea297e1f67;0;Okay and what else?;Okay.
+flights-f0e020c3-d3e3-4f30-b6ef-c00c316c3e70;1;Alright, please send me the details and book the flight.;Please book the flight and send me the details.
+flights-df4b5e26-b3f3-4bf9-b405-740f66bfdcd9;1;Flying back you have several choices 7:25 A.M., 9:55 P.M., 8:15 P.M., and 5:11 P.M. Which one would you like to prefer?;What?
+flights-a812040a-3746-4961-aa69-d7c2a9660a36;1;Yes, Economy flight.;Yes, Economy.
+movies-1db80473-ccf0-4aed-8fac-bd6ee2f5ee62;0;Oh, okay. Can you give me a synopsis?;Okay, That sounds fun. What time does it play?
+movies-940a907b-3aa3-4ff2-a243-58e166d80eea;0;Do you have any showings later than that?;Do you mean 7:05?
+flights-e0e46813-b2b9-4d84-8343-2b991dcdd2cb;1;I would like a pair of headphones.;Headphones.
+flights-f0188a87-e7da-48e7-81df-d6af6d8d928d;0;How does 7:26 A.M. sound?;Perfect and you got a window seat again?
+movies-2813b3e0-02f9-4dca-975b-aa6c5e2a73f9;0;The nearest theater would be the AMC Mercado 20 which is 5.1-miles away from you.;The next showing for La La Land is 6:50 p.m or 9:50 p.m.
+flights-c8b3a14a-b562-4a54-acb3-73a37b080e62;0;That would be all.;Yes.
+restaurant-b9321f8a-cdeb-4070-92b7-761e9304444e;0;Okay, And how high of a rating?;Okay, And is there anything else?
+flights-05f6996b-96a7-4a35-a5d7-97365c96773f;0;March 27th.;Okay, that would be great.
+movies-ab5a21cc-68bd-4c59-a44c-c96733991385;0;Awesome. I'll be waiting for them. Enjoy your day.;You're welcome and thank you again. Bye.
+restaurant-8553dd38-e835-4dc8-8f64-2b9cbea60fba;0;5 p.m. to 9:30 p.m.;Let me look. That is not stated on their website.
+restaurant-7195bcec-f3ca-4598-8920-3e677a426bfb;0;Well, I have 5 of them to choose from actually.;Now it could be a lot of my label them all too, so how would you like me to label them to you?
+flights-2a18ae58-38ee-4a4d-9c27-7d86eb08c2ef;1;Do you know the time difference?;Yes.
+movies-a8fe5c01-a094-49d1-9ceb-41eba7e3415a;1;Huh what?;You are looking for what?
+movies-84b7def6-273e-42fd-8726-ed0db1ec6657;1;Okay, Real Life?;It was a question. Do you want a Real Life one or Animated?
+movies-1913bc16-d087-4d07-a20f-2c21374af92c;1;Kindly fetch the ticket prices nearby.;Fetch the ticket prices nearby.
+flights-01ff0a9f-8602-462a-affc-28039002fe80;0;Sorry, February 21st to February 28th.;Okay and what else?
+flights-e5fcc632-5563-44d0-a132-41d7b7611bb7;0;Is that the earliest flight from Denver? Excuse me, from Seattle?;That's better, let's do that one.
+flights-80c69103-b73f-413c-9593-1c6c134250d3;1;We'd like a flight that has entertainment onboard.;Yeah.
+flights-9e4cdfec-cd94-4b9a-a4e2-b011ffc0192a;0;That cost you around 600$ for you.;Your all set, have a nice day.
+restaurant-f82f8cc0-2f8f-4b9f-9340-8aec75cc3076;0;That's it.;Two people.
+movies-01f6fb00-f372-49eb-b1d7-d53479da0f06;1;Okay. What kind of showing?;Would you like to watch it in Standard, IMAX, or 3-D?
+movies-8de10dc5-fb0a-4ea9-ba5c-43d12d5cfeb5;1;Yeah, okay. Ticket price maximum $300.;Yeah.
+movies-3e94826c-4c04-4069-9ee4-f652a5ff4a89;0;Sure. I can help with that. It looks like the Lego Batman Movie, a box office hit, is playing nearby. Are you interested in seeing that?;Okay, great. Let me see what theater is playing near your area. Let me see what theater is playing near your area.
+flights-7b522e99-4ca2-4cb2-ba11-9ac453dd5b59;0;Anything else?;There aren't any non-stop flights.
+flights-e10a7333-9343-48ff-a1f6-7e885fe78434;0;First class.;One.
+movies-7adae3ff-a8e1-4a6c-9d63-1f9c150f2c63;1;Okay. What is the movie time?;What is the movie time?
+movies-810517ca-557b-4ac8-a256-736bb7483b0b;0;Find the locations for Murder on the Orient Express.;Book that theater at 9:55 p.m.
+flights-056398d6-0a47-4c48-9e30-007b837fd909;1;Hi, Let me find that flight for you. Is an overnight flight okay?;The flight is Non-Stop it leaves at 11 p.m. and arrives at 6 a.m.
+flights-c8b3a14a-b562-4a54-acb3-73a37b080e62;1;I would like to leave this morning and return in 2 days.;Yes.
+movies-940a907b-3aa3-4ff2-a243-58e166d80eea;1;7:05 is the latest showing in Santa Barbara.;Yes, 7:05 p.m.
+movies-589e5318-b136-471e-ab33-799133c9c9ac;0;Great. Okay, one more thing. That movie have any technology like IMAX or 3D?;Great. Okay. And that movie has Golden Globe and Oscar nominations awards?
+restaurant-5490a7ec-2a8a-4eb9-a3b5-63ca1298bd6b;0;Okay, what else can you tell me?;Okay, Sushi and what else?
+restaurant-009ff778-5f45-4736-9167-aec3d76c903f;0;They are open from 5 P.M - 9 P.M.;I'm not seeing any details for desserts.
+flights-892dccf8-b75c-44c9-9ff6-d5034a0bdecf;1;How about the third one?;The third option from landing in Buffalo.
+restaurant-2a837f10-0c33-4846-a7c4-ecc2d4ec6f45;1;Is there a dress code?;Yes, sorry about that. Is there a dress code?
+flights-aedc3b46-b354-4fd4-b0d5-d837ba8c000a;0;The prices comes out to $1,020.;Yes.
+movies-dd2223e2-f32b-45a3-b8e1-6fd9122f16ce;0;6:35 PM show  sounds good.;Sounds great.
+flights-9ccb2bad-dec2-4910-a53c-34d8f4b54608;0;Okay, Houston to Lisbon?;Alright, and what else?
+flights-b6b616a4-77c0-41d1-8973-9255191f3acb;1;I'm sorry can you repeat what days you will be traveling?;Can you repeat what days you will be traveling?
+movies-f6cff8b5-958c-4570-b519-b4b423687ef7;0;Hi, Sure. I can help you with that.;Anything else?
+flights-af43c8d9-380d-4b55-b896-cd769d952b72;1;I want to fly first class, so the cheapest first class ticket.;The cheapest first class ticket.
+movies-9c81b576-4f58-4de5-b30f-f894f3052128;0;Price is $19.;Could you say that again?
+restaurant-e61ad1cc-c9bc-40dd-a6a3-cd2649270a30;1;The burger is 1 dollar sign.;Both restaurants are fairly cheap.
+flights-2806bcfe-9aab-4121-96ae-2b144cafc3df;0;Nonstop, please.;No preference.
+movies-1194e0d8-fb66-40f0-9c56-cef3d47c0c3d;1;Kindly look into the IMDb rating and romantic.;Can you look into the IMDb rating and romantic.
+flights-0833e6d0-812d-444b-9bcc-4d6d448f4fb0;1;How can we narrow this down?;Do you want first class or coach?
+restaurant-e74a8ebe-2879-4e50-bbbb-a3971eaadab0;0;All right. And last question is, what is the weather forecast going to be like, where Mother is located, for the weekend?;All right. Sounds good. Thank you very much.
+food-1860e83e-b218-47a8-9c21-b7e0307e8628;0;Okay. One moment. Your 2nd order is half rack chicken breast barbecued with macaroni and cheese and and baked potato. Your 3rd order is half rack chopped barbecue with coleslaw and baked potato.;I'm sorry, what was the last order?
+flights-c5931b0a-e17e-4f84-86b0-c5da6dfcc767;0;Okay and up to how much did you want to spend on first-class?;Okay and wherein France do you want to go?
+restaurant-45009716-9e1c-43be-904c-003f5387c72a;1;Do they have lunch specials?;Can you please list number one sandwich shop lunch specials?
+flights-a812040a-3746-4961-aa69-d7c2a9660a36;1;I will go with 4:00 p.m.;Yes, 4:00 p.m. is okay with me.
+movies-f4cc5df8-8bc3-437a-bfd8-407a74f0fd84;1;Give me one moment. I pulled up the best movie on IMDb out in theaters right now is la la land.;The best movie out right now according to IMDb is la la land.
+movies-ec20ec18-2a79-4da3-b605-8a9558f4fc94;1;Could you show me the trailer?;Can you show me a trailer?
+movies-48b0ba2f-c202-410d-b4f6-de6935783243;1;I wanted the theater to at least be within 5 miles from my house.;I want it to be within 5 miles of my house.
+restaurant-46fd02f2-8e67-429c-b691-568a1a888958;0;Rating should be 4 stars and up.;Anywhere in town.
+flights-44ee016e-6e66-487f-a725-9b145cde0423;1;Okay, the 20th. Do you have any preferences for the flight?;A price point maybe?
+food-1860e83e-b218-47a8-9c21-b7e0307e8628;1;Okay. And can I get three house salads with that, ranch and Thousand Island. And three large teas, sweetened.;I need three house salads, to go with those orders. Two with ranch and one with Thousand Island. And then three large sweetened iced teas.
+flights-c3050de6-87bb-433e-8723-6cf2e702aeec;1;Something under $1,000 per seat. Also, if you have a night flight, that would be best.;Yes.
+flights-e11de364-0a20-46dc-9ee7-fcf9aa4ca5b8;0;Okay, what else?;Sure thing.
+flights-779422ae-0e14-4579-a526-15cccd69a55a;0;Want to leave in the evening. About the cheapest economy plus fare.;Okay, tell me more. What is the airline?
+restaurant-bb914109-f289-4a83-a0b3-e464d4272ec6;1;Next the Sandwich Spot, at 1010 Pacific Avenue.;Here is the next one.
+movies-8ecad6ba-1bcb-4af3-b759-ad2f88a42266;1;Hello. Can you give me some details about this movie?;Can you give me some information about this movie?
+movies-87645cd4-74d5-4794-ae9e-8ed87e0f4d1f;0;Okay. Is there 3-D showing somewhere?;How about a regular 3-D or regular showing?
+restaurant-f6e0ac5b-19bd-4b19-904a-7ea3363e456e;1;With some luscious string beans.;String beans.
+flights-3cda9e0e-2597-4121-8579-d1b6ef0c76a3;0;Okay, great.;That's perfect, that'll work great.
+flights-969dd3fd-44d4-410a-8530-345c07edef34;0;Total for this economy flight with Alaska is $1101.;That's right.
+flights-76be32bb-e231-464e-8f23-f323834f3692;0;That's correct. I'm sorry there's nothing that was before noon.;Okay. Is there anything else I can help you with?
+movies-e8c9200d-8522-49b9-817c-591c87f75939;0;All right, great.;All right, now show me the trailer for the second one.
+movies-5d81b425-bfcd-4c9b-bb24-f1398919c3b5;1;I'm looking at fantasy or action movies. Jumanji sounds interesting to watch. Can you play a trailer for that, please?;Jumanji sounds interesting. Can you play a trailer for that, please?
+food-f87cd47b-d75b-4003-b5f4-fcca624fe0d1;1;Okay. The first order would be a sweet potato burrito with egg whites, black beans and avocado. The second order would be a sausage, tomato, egg burrito. Third is chorizo, red pepper, Monterrey Jack burrito.;Chorizo, red pepper, Monterey Jack burrito.
+restaurant-ef23b498-467e-4ec9-96c6-cef0fd462a3e;1;Could you tell me the hours, please?;I need a restaurant that would be open for lunch, please.
+movies-11bfd5ac-9cc5-40a1-9771-60a28d751ba7;1;No.;Nope. Just something that lasts less than 2 hours.
+movies-3ce65dfb-c67c-4b36-b6c3-24dae34fd0e2;1;How does that sound? Okay, Let me find a theater for you.;Where would you like to watch?
+movies-038a15a1-2d66-4fc1-adb6-d620264089b0;0;Alright.;Could you say that again?
+flights-b66be9d3-fd02-46e6-9baa-17e0271525dd;0;Right.;That's okay.
+movies-fbd78d2f-276b-413a-ac20-23d1a1df9bd7;0;That sounds good. Find a movie theater close to my location.;I would like to see a movie at 8:00 p.m.
+flights-f9216363-995d-47be-9582-8ea183622f28;0;Okay.;Okay. And coming back?
+movies-6a1a576a-12c1-4591-a9ac-bf6f5c9a1045;0;Yes there are. What else are you looking for in a movie? Are you a fan of reviews? Like rotten tomatoes? Or IMDB?;Okay. How big of an IMBD rating do you want?
+flights-f59fbddb-c6ea-4780-8afa-fd788d6fc604;1;2 days later. And then, a flight from Houston to Orlando, Florida. From Houston to Orlando, Florida. And then a flight from Orlando back to LA.;No. I want to leave from Los Angeles to Houston on Friday. And then, on Sunday, I want to go from Houston to Orlando.
+movies-347ad169-8039-4be1-bc71-402d8e8d6320;0;I would go with Downtown Central Cinema.;I would like to watch movie at 3:35 PM.
+flights-ab980361-ed0e-4d06-bbad-940db0513b54;1;There's no price limit.;That is correct, Business class.
+movies-cfeae7b1-d750-483f-9aaf-5b021023e969;1;I am thinking if there is any movie by the director Kubrick.;I was trying to find if there is any movie of director Kubrick.
+movies-06ce5be0-488a-4bd4-b3d4-ea9fedb3e8c1;0;Ticket prices?;Actors in Guardians of the Galaxy? Who is the director of Guardians of the Galaxy Vol. 2?
+movies-f191ed00-c5c4-4454-8daf-af82147afc99;1;Yeah, that sounds like a good movie. Does it available for streaming?;Can I get it on Redbox?
+movies-f4937356-70f2-40d9-83cb-08c3283c346e;0;Okay.;Could you give me another choice?
+flights-9dc6f8a6-da6e-4eed-a1ab-9d5c57d1ca37;1;A layover, please. And that's about it.;A layover.
+restaurant-8f388a69-c837-43b2-92f3-4b1d5f65f905;0;Can you help me book the Thai Brothers, then?;All right. Sounds good. I'll walk in, then.
+flights-5221497b-d18b-497d-913d-d9bd569d884b;1;I found a seat on Air Canada for $8,564. Business-class.;Yes.
+restaurant-b5f76a13-e4f0-4248-9c34-e8dac93fad20;0;Cafe bernardo have it.;Yes, it offers full bar.
+flights-3b084e4d-e8e6-429d-9843-9ccbdcbeea6a;1;Okay, You got it. Wow. It looks like you can actually pay 700 dollars if you leave on Wednesday October 18th and come back on Sunday October 22nd because the starting price for the ticket is $2,665. Totally up to you.;The cheapest flight flying on Sunday is $1,501 and for the other flight it would cost $721.
+flights-f4dd3923-5e44-4f2d-81bb-2e97f7e3e526;1;I need non-stop flights, if possible.;I need the non-stop one, if possible.
+flights-5b1fae0c-b9f9-4ff1-876d-37e95e9312f8;0;That is business class and it's non-stop.;It does have Wi-Fi.
+flights-276f6723-9399-4e17-8fea-3b378bb44317;0;I want to leave this Sunday, and I want to return on the 7th.;I'm looking to leave in the evening if possible.
+flights-71f5306c-76ea-4ccc-a8eb-14fd84e4fef4;0;And under how much again?;Okay. You will have to sit in economy. Is that okay?
+movies-1913bc16-d087-4d07-a20f-2c21374af92c;0;Fetch the ticket prices nearby.;Yes, I'm in California.
+flights-4c4f48b4-649f-4ba5-b082-c3a9807653a4;1;Which flight is available soon? I need to attend my office meeting tomorrow, so I need a flight to go to.;I have a meeting tomorrow, so I need to attend that meeting. So, kindly book that ticket.
+restaurant-13fc84e7-1af1-4118-b634-15d768c99500;1;Can you find the restaurant with the cheap fare for me?;Can you find me a restaurant with cheap fare, which is open for lunch?
+flights-9f34d6eb-5170-4c40-bc33-cba0d4e6fece;0;Next Monday, The 20th, And coming back Thursday, The 23rd.;I would like to fly first class, nonstop.
+movies-1b868703-a2cc-4cf3-9ef4-2b4717a3530c;1;Oh, that sounds great. And who is the director of the movie?;Who is the director of the movie?
+movies-8fdd8bb3-fdb7-4f08-9a8a-4546d6aac808;1;Less than $50.;Less than $50 ticket price.
+restaurant-96f2d9f1-e535-4059-b095-7412ec98969c;0;Here are the restaurants that I found. Deanie's Seafood Restaurant. Red Fish Grill. Oceana Grill. Royal House. And NOLA Poboys.;I'm seeing that the Red Fish Grill has a 4.1-star rating from 370 reviews.
+flights-cf7a9d8e-be75-48ed-adc0-feb8877a45c8;1;Okay. What time does the flight leave?;What time does the flight leave?
+flights-9cace285-48bb-4410-b810-2c84000a6f04;1;Excellent. I would like to book this flight.;Book the flight.
+flights-05f6996b-96a7-4a35-a5d7-97365c96773f;1;And then I'd like to fly from Orlando to back to LA Martin 7:20.;The first date would be the 25th for LA and then to Orlando.
+flights-2b2bd437-f969-4371-ae11-ff8aafddbccd;1;To US.;America.
+flights-1450042a-7d3a-463f-9a6b-ff0b8501982c;0;You will have a 2 hours layover in Minneapolis.;You will arrive in Memphis at 06:50 PM.
+restaurant-b66b2fc8-7e0a-4237-b4fd-d891a4495812;0;One moment please, Let me check that for you.;At the moment, they have Duckhorn Merlot Napa Valley Three Palms Vineyard, K Syrah Walla Walla Valley Powerline Estate, and Chateau Coutet Barsac plus many others.
+restaurant-0e4a5ea0-2477-459c-a9d1-97127fe35edc;0;The first burger joint is called Suzie Burger.;Enjoy your meal.
+movies-347ad169-8039-4be1-bc71-402d8e8d6320;1;I will go with Downtown Centre Cinema.;I would go with Downtown Central Cinema.
+movies-3547c4a4-f399-4430-a100-f2d160358f19;0;Adult tickets are $11.70.;Booked tickets for you. Do you need anything else?
+flights-05f6996b-96a7-4a35-a5d7-97365c96773f;0;How much is the cost for the spirit and for the United?;Okay. And then from Orlando back to LA that evening on the 25th. What time would I be able to leave in the evening?
+restaurant-10079e55-ec06-473e-9538-cbb7f5c09475;0;4521 Sharon Rd Suite 175, Charlotte, NC 28211.;Reservations are not necessary.
+restaurant-e373911f-250c-46d4-abfe-20292b797c95;1;Yes, please. I was thinking pizza.;Say again?
+movies-6c0d43d1-eb66-47d7-835e-db326f7e5a2c;0;Could you name the top three?;What are the times playing for La La Land?
+flights-8a9814c8-68fb-4e82-8976-c42e855cf24f;1;$990 leaving at 7 a.m 7 hours travel time for one stop. Will that work?;Total price.
+flights-9c7ca139-3a58-41e1-82f4-50ef6380c160;0;Okay up to how much did you want to spend, prices start at $1265.;Okay. I found 5 flights.
+flights-01ff0a9f-8602-462a-affc-28039002fe80;1;Okay. February 21st to February 30th?;Sorry, February 21st to February 28th.
+movies-819fc478-72a3-4d45-9880-c51129e744b0;1;Okay. The name of the theater?;Can I know the name of the theater?
+movies-ab5a21cc-68bd-4c59-a44c-c96733991385;1;Sure thing, it looks like Wonder Woman is playing at the AMC 6 p.m. in 3-D or 7:45 p.m. in the standard screen.;7:45 p.m.
+restaurant-f9d1273d-5cd8-4de1-ba12-284281f4d4db;1;What are the atmospheres for the restaurants that you just told me about?;What type of atmosphere do these restaurants have?
+movies-b76cb8a1-1f4e-485a-be1b-aa433d470f4d;1;Ok what genre?;What movies genre?
+movies-8de10dc5-fb0a-4ea9-ba5c-43d12d5cfeb5;1;Then anywhere Mr. Bean movie?;Mr. Bean.
+flights-3cda9e0e-2597-4121-8579-d1b6ef0c76a3;1;One second. I found a flight that leaves at 8:00 a.m and arrives at 4:05 p.m.;I found a flight that leaves at 8:00 a.m and arrives at 4:05 p.m.
+restaurant-1f72bea2-838e-45cf-b9bc-7b4a6fffba24;1;Tell me about some of the appetizers.;Yeah, tell me about some of the appetizers. Or what's on the weather forecast list?
+movies-347ad169-8039-4be1-bc71-402d8e8d6320;0;There are several movies.;Rouge the Star War.
+restaurant-c3eab716-eb6c-4a2e-81ac-e3e41cb4c781;0;Yes, they have vegetarian dishes.;Please repeat?
+movies-39d3b365-41f9-40af-99db-2266f5d24bc1;1;Okay. How far from you in SF?;How far from you are SF?
+movies-e8c9200d-8522-49b9-817c-591c87f75939;1;May I suggest the movies Goat, Me Before You or Crown Heights?;Which movie would you like to see the trailer?
+food-768037e6-1c20-486d-8a60-a71877e68253;1;Do you like to have two Greek Coffee?;Yes. Would you like to have Greek coffee?
+movies-7adae3ff-a8e1-4a6c-9d63-1f9c150f2c63;0;Are you asking if this movie is nominated?;It's not nominated for anything.
+flights-6d516787-77e9-45fb-9007-bd775a5afa33;1;What city?;What city in Jamaica?
+flights-a19789a3-ce5e-42c2-8e82-3fb5ac4971c0;0;Okay. You have 2 times to fly out on May 2nd. 4:31 P.M or 5:29 P.M. Both flights have 2 layovers.;Earlier one, Okay. 4:31 P.M?
+restaurant-98013d49-bc15-4cf6-a750-d11c28d94a34;1;Okay, how long is the drive from Fairfield, California to this restaurant?;How long does it take to reach there from Fairfield?
+food-06af4900-e9c9-4526-9621-7f4c102cf662;0;Yes, a can of Mountain Dew.;All right. Sounds delicious.
+flights-4c4f48b4-649f-4ba5-b082-c3a9807653a4;0;Okay, Cheapest price I see is $635 with 1 layover.;You can go up to $765 for a non-stop flight.
+flights-8d89c6ec-7a60-4967-84dd-df8336f47a7d;0;But, it has a 15 hour layover in Zurich.;You will fly with the Swiss back home. You will leave Paris at 8:45 p.m. and you will arrive in Los Angeles at 4:20 p.m., is this okay?
+flights-892dccf8-b75c-44c9-9ff6-d5034a0bdecf;0;What?;7:30 P.M.
+flights-0e6687fa-5af7-4d20-8539-a645fcc80e98;0;That would be perfect.;Just an early morning flight.
+restaurant-be1593d6-7bfd-4f37-9950-bd7edeb07139;1;How about Thai food?;Thai food.
+movies-b455277c-26b2-4e62-8fcc-d7195266c09e;1;I am looking for in a theater, but I'm not looking for something a little different, not just the big blockbusters.;Well, less mainstream or maybe a little unusual.
+flights-cde7c43d-89ae-4bce-9e79-36013ced0d29;1;There are three times. There's at 6 a.m, 9:05 a.m and 12:29 p.m.;9:05 a.m. For the return flight did you want to leave in the morning or night time?
+food-de19c4e0-23c4-43d5-996b-737985fe9bc0;1;I'd like to order some Italian food. Spaghetti plate with Italian bread and cheese packets on the side. And a large Coke.;Yes. Spaghetti plate with Italian bread and cheese packets on the side. And a large coke.
+flights-c5207f91-84ae-49d4-b2e1-abcb9ce32c98;0;And come back when?;Okay, and what else can you tell me?
+flights-cb55f0dd-be89-461b-ad72-5493b009f32b;1;Are there no available seats for the 19th?;On either day.
+movies-c301675a-a11e-4926-aa4f-09f85158204a;1;Is it playing anywhere close to me?;Is Richard Gere movies playing anywhere close to me?
+restaurant-b937515b-c7b0-4aaa-a846-928c76d24612;0;Sure thing, let me look that up for you.;I have Piatti located at 2182, Avenida de la playa Barbarella Restaurant & Bar located at 2171, Avenida De La Hoya and Karina's restaurant located at 7408 La Jolla Boulevard.
+movies-6c0d43d1-eb66-47d7-835e-db326f7e5a2c;0;Okay. There are several nominated drama films right now.;Yes. The top three are Hidden Figures, Sing and La La Land.
+flights-4d7ce6c1-1dfb-4c8b-b70e-8c1e90929b9d;0;Alright.;Yes, sure.
+flights-c8b3a14a-b562-4a54-acb3-73a37b080e62;0;Got it. I'll look that for you. Anything else?;I have found you a business class ticket with United Airlines. The cost of this ticket is $951. It is a nonstop flight that leaves tomorrow morning at 6:30 a.m. and arrives in Chicago at 8:59 a.m. for the return flight on Saturday June 31st. It leaves at 6:30 a.m. and arrives back in LAX at 8:59 a.m. this is also a non flight stop. Does this flight plan suit your needs?
+flights-cbcd64f6-55e9-4a59-8e0b-74219e3f8ef5;0;Yeah, I don't mind layovers. And I would like the flights to be early. I'm also looking for the cheapest one I can get.;Okay, that's not bad. That sounds good.
+movies-d27379b4-746b-4917-b00d-a77ad2b967b4;1;I'm looking to buy or rent a movie at home that is kid friendly and it should be something like Fast Times at Ridgemont High.;I'm looking to rent or buy a movie at home. I'm looking for a movie that is kid friendly and is like Fast Times at Ridgemont High.
+flights-d1e3ffe0-edb9-4c2d-8990-be3faa9acfb5;0;Is there any nonstop on the way back?;Okay. We'll go with the cheaper option then.
+flights-14123a6a-d064-47c0-88e4-e1c4d54ad93f;1;I'd like the one-way fare to be under $200.;No. I want each flight to be under $200, so total $400.
+flights-e0e46813-b2b9-4d84-8343-2b991dcdd2cb;0;Okay.;Affirmative.
+restaurant-b9321f8a-cdeb-4070-92b7-761e9304444e;1;Yes, One with both, possibly.;Yes, children-friendly.
+flights-71f5306c-76ea-4ccc-a8eb-14fd84e4fef4;0;Flight time on May 24 is at 8 AM.;You will arrive in Seattle at 11:32 AM.
+restaurant-e373911f-250c-46d4-abfe-20292b797c95;0;Something with bacon.;Yes. Perfect. And something downtown as well, if possible.
+flights-3497c9f1-3672-4464-800f-45528e9f7ad8;1;Do you want to pay Flight for your return trip to?;Would you like a late flight for your return trip to?
+movies-1d525f43-01bb-4ccc-bbae-6a61984ea036;0;What is Black Panther rated? Is it PG 13 PG?;Yeah, they're too young for that. Are they any PG movies out?
+flights-0dca3d6c-2181-43a8-8da2-10f0b7a5785b;0;Okay. Goodbye.;Okay.
+restaurant-ac3e2c96-717a-42e6-be89-3aa9875bd319;0;Okay, 4 stars and up. And anything else?;Okay. I have 2 restaurants for you.
+movies-cb83ca53-0a15-4b85-88f9-e8b188ff5dfb;1;I'm looking for a newest movie with IMDb ratings.;I'm looking for newest release movie in the closest theater.
+flights-b391bbe3-dc9b-4efd-b7f0-45c46dd052ea;1;I have found many flights for you. Do you have any preferences on the flight?;Facing times, Seating class, layover One-Stop, Type of plane, Airports.
+flights-57cb8d87-3df4-4018-8191-0bfda8469ef2;0;The Prices range from $900 to $1,137.;All of them have at least one-stop. Some of them have two-stops.
+restaurant-4fc82f95-4138-460f-a66f-f8b6a4827508;1;And, also I needed desserts.;Dessert.
+restaurant-46fd02f2-8e67-429c-b691-568a1a888958;1;Anywhere in town.;Anywhere in town is fine.
+movies-1913bc16-d087-4d07-a20f-2c21374af92c;0;Could you say that again?;Do you want a theater near you?
+flights-0dca3d6c-2181-43a8-8da2-10f0b7a5785b;1;What time does it leave?;When does the American flight leave?
+flights-c6d47500-e1a6-43ed-8ff4-34c1eaa882e8;1;$825 leaving at 7 AM with one stop.;$825 leaving at 1:28 PM with one stop.
+flights-a241be28-f6b9-45dc-9ff1-2d69af956f07;0;Okay. There are two airlines.;British airways and American.
+restaurant-8f388a69-c837-43b2-92f3-4b1d5f65f905;1;Hi. I'm looking for a place to have dinner tonight.;I'm looking for a place to have dinner tonight.
+flights-b0499f94-49e7-4858-8289-7f836bc81c36;1;Hold on just a second. I'm sorry but I can't see any non-stop flights and economy business or first class.;There are no non-stop flights to Dublin.
+flights-aedc3b46-b354-4fd4-b0d5-d837ba8c000a;0;Yeah. That's perfect. What about the prices?;Okay, perfect. That actually works really well and is the return flight a non-stop as well?
+flights-4c4f48b4-649f-4ba5-b082-c3a9807653a4;0;Yes, I need to fly today evening.;Okay, tell me the details about the airline.
+restaurant-4fc82f95-4138-460f-a66f-f8b6a4827508;0;Dessert?;Okay.
+restaurant-f55e0888-1553-4400-8b45-f8a3cfcbd4c1;0;Vegetarian or does it matter?;This will just be a second. I have campfire pepperoni pizza, BBQ chicken grilled pizza and buffalo style chicken pizza.
+restaurant-c163efc3-715b-41a3-85a2-932e5e0332d0;0;Okay.;It's located on 1900's clinton ave. Any questions?
+flights-7dd08d76-05f0-4121-aecb-1c9501512eee;1;Good. Okay. I have a date on next Tuesday. Is there any flights available on that date in the morning?;5th February. I fixed the February
+movies-65b2a49f-ea27-4c9d-b37e-d3df3abce966;0;Who are the actors? Jordan.;Who's the director?
+flights-8d89c6ec-7a60-4967-84dd-df8336f47a7d;0;Okay, there are 2 times to fly out. 8:45 a.m. or 12:40 a.m.;Okay, this flight will be around $4000. Is that okay for a business class?
+flights-ff09606e-0a7f-44b3-b31f-07daabe715c3;1;Cheapest I found is with $334 price leaving at 6:03 p.m.;The cheapest nonstop flight leaves at 6:03 p.m.
+flights-8804e17b-5ce1-4fcf-a772-b47709559edb;1;I would like to fly coach nonstop.;Yes.
+flights-f59fbddb-c6ea-4780-8afa-fd788d6fc604;0;Yes. Hi. I was wanting to get a flight from LA to Houston this Friday afternoon after 3:00 pm. I would like it to be nonstop.;Great.
+movies-06ce5be0-488a-4bd4-b3d4-ea9fedb3e8c1;0;Who were the Golden Globe nominations?;Yes.
+flights-9f34d6eb-5170-4c40-bc33-cba0d4e6fece;0;I am going to find the best flight for you.;I found a nonstop flight from Seattle that leaves at 10:50 p.m and arrives in Atlanta at 6:35 a.m.
+movies-544ab496-739e-4141-9acf-88e928f811ff;0;Okay. I will go to watch it. Thank you.;No.
+movies-99a301e8-0070-4a89-8156-6dc2774e2f1c;1;I want something with some good action in it, preferably an R-rated movie. I would definitely want to like that.;Preferably an R-rated movie. Okay, I want it to be around 8:00 p.m if possible.
+restaurant-bd255707-e67f-4cbe-b28f-1b48b0b4b68f;0;I see. I think I prefer the second one better.;All right. Thank you.
+food-35a7859f-7c7a-44d8-b9e3-48d505a53218;1;I'd like two orders of tom yum goong, three orders of pad Thai. Three orders of khao pad and three water bottles, please.;Okay, I'll say it in English. Can I get two orders of spicy green papaya salad. Three orders of chicken and coconut soup. Three orders of fried rice and two orders of Thai-style fried noodles with three large water bottles. And that should be it.
+movies-661f4b74-ac54-425f-824b-187518b0505f;1;It is -Why Him?;The movie is called, Why Him?
+restaurant-123a71dc-5925-4b5b-b30a-73242c92e0a5;0;Yeah, so the beach is actually all around it.;Yeah, sure thing. Is it just one person?
+movies-637d0291-5765-40ff-b6d1-e8c49d1f4129;1;Okay. I think that's the one I want. Can I get that on Google Play?;Yes. Can I get that on Google Play? I want the last movie you told me.
+flights-f0e020c3-d3e3-4f30-b6ef-c00c316c3e70;1;I want to leave on February 11th. Return on the 16th. I want the earliest possible flight both ways.;February 11 to 16.
+movies-1d56a8e0-3134-402b-9de0-4d0230bf038f;1;I'm sorry?;I'm looking for a comedy that is rated R. Could you help me find a comedy?
+restaurant-e0368f1a-0fb3-47c9-b551-927ba699e2f2;0;Yes.;Yes, I would.
+flights-ac0892b3-0d9a-4df7-8ec5-1cf86fe7f545;0;In the morning. And if I can get that non-stop, that would be great.;Yes. And no more than $2,000 for this whole flight.
+movies-b57e66aa-882f-4a4d-ba9e-1f5772081bc7;1;Okay. Well, that sounds like a lot of fun. I think I'd enjoy that. Can you give me one other film to choose from possibly? Another contender?;Yeah, could you give me one other suggestion, one other new release to choose from?
+restaurant-a36ee14f-7e23-433c-b040-c18cfbfe5395;1;I would like to spend $400 at night.;I will pay for a meal around $200.
+flights-1161433b-97ae-499a-a951-4ef122d404dd;0;Oh, business class, please.;Yes, if that's possible.
+flights-8945c0f6-0d06-4e64-b8f5-fdbaa859132f;0;And when would you like to return like at what time of day?;Okay, in that time frame there are no ticket prices under $900 and the least expensive one is $1167.
+restaurant-21536787-2f76-43d7-aedd-f8b2556a6e5d;1;I'd like help finding a restaurant in Chicago, Which has got special desserts and some special offers for today.;I'd like help finding a restaurant in Chicago, Which is near by a beach.
+flights-8ce35f70-60ed-44bf-85e7-865e45ffe00b;0;You will arrive back in Los Angeles at 9:40 AM.;Total for these flights is $315.
+flights-71f5306c-76ea-4ccc-a8eb-14fd84e4fef4;0;Okay. You will have to sit in economy. Is that okay?;Alright. What else can you tell me?
+flights-344110d8-e667-48c6-a2bc-e418005d5700;1;Hi. Can you give me some specifications?;Dates/ Price limit/Coach or First class.
+flights-0a559552-4aa3-44a6-85d3-7a1ee1f8a134;1;Not important. But I do need the earliest possible flight you can find.;I need the first possible flight that you can find.
+movies-3e94826c-4c04-4069-9ee4-f652a5ff4a89;1;9:45 p.m.;Yes, for this movie.
+movies-01e76dc2-6292-4d1b-a13a-a48fd359fbff;0;Any other preferences?;Okay, how about the Martian?
+movies-3ce65dfb-c67c-4b36-b6c3-24dae34fd0e2;1;Where would you like to watch?;Let me find a movie theater for you. Where would you like to watch it?
+movies-52b0e424-7a41-48d7-a677-5f62887f36f9;1;Okay. The Eagle Huntress. Would you like to watch it?;What do you want to do?
+movies-f97dbdcd-d376-46f3-8670-0aefc0c599b2;0;And what will I'm planing towards to movie around 5:00 P.M, are there any time-specific times after 5:00?;That sounds great, I would like to watch at 7:50 P.M.
+movies-5f73309e-d1b0-4af2-bb73-c13d3cdec2e6;0;I'm looking for a thriller.;No particular actors.
+movies-7c14ef10-5289-4f51-b1f7-b8bcbd473e99;0;For an adult the ticket price is $12.99.;Alright, I'll do it and send you the information now.
+movies-06ce5be0-488a-4bd4-b3d4-ea9fedb3e8c1;0;Is there a 3D for Guardians of the Galaxy?;What horror films are playing?
+restaurant-b2985357-c707-4ffe-9fa8-8a984c6369d6;1;Okay. That sounds like a good place. Wouldn't mind listening to some jazz. How about giving me the location?;Can you give me the address, please?
+movies-1d525f43-01bb-4ccc-bbae-6a61984ea036;1;Okay, is there a trial for that?;Is there a trailer for Peter Riley?
+flights-b833870d-b604-4ea0-ac53-0409f87431d9;1;I'm just traveling alone.;I will be travelling alone and I would really like to have first class.
+restaurant-b5b1a67c-5006-4b54-b9af-ceb6fbc983f9;1;Well, that's works for both of us. I'm planning to drive out there on Sunday. Can you tell me how long the drive is from Santa Rosa, California to this restaurant?;Yes, how long is the drive from Santa Rosa, California to The Larrupin Cafe in Trinidad, California?
+flights-673c1e74-872b-458f-b227-4a664607b8c7;0;Yes, I do. Is it going to be on the same airline?;Okay. Everything sounds fine, then. Can you book it for me?
+flights-c5207f91-84ae-49d4-b2e1-abcb9ce32c98;0;That's fine.;Okay.
+flights-eef0a0b7-db5b-4293-8e0a-50640fa7fda5;0;Okay.;The 4:30 P.M flight?
+movies-5bbafc83-8166-4364-a39f-3cff0dddf922;1;On which platform?;Ratings from where?
+restaurant-38258bde-9496-4ac8-9813-4bd9f79059dc;1;I'd like something casual, medium and up.;Price should be medium and up.
+flights-211dfb0f-5ed8-4f14-a4cf-8e8a489f44c0;0;Can it be business class, please?;That sounds great. Thank you.
+food-1860e83e-b218-47a8-9c21-b7e0307e8628;0;The order includes 3 house salads with ranch and thousand Island dressing and three sweeten ice teas.;Okay. I have your personal details on file. Your order will be ready for pick-up in about 20 minutes.
+restaurant-bb914109-f289-4a83-a0b3-e464d4272ec6;1;Here is the next one.;Zoccoli's Delicatessen, at 1534 Pacific Avenue.
+movies-9f148577-9e9f-43f2-bde4-4c33e4d4076e;0;What time is the latest showing of Split tonight?;Is it showing at an IMAX anywhere? What format is it showing in?
+flights-b66be9d3-fd02-46e6-9baa-17e0271525dd;0;The earliest, please.;Right.
+restaurant-c3eab716-eb6c-4a2e-81ac-e3e41cb4c781;0;Please repeat?;Just a moment. The Citizen hotel is 0.08 miles away. And the Hyatt Regency is 0.1 miles away.
+flights-4c4f48b4-649f-4ba5-b082-c3a9807653a4;0;Yes, it's so good. Thank you.;Okay.
+flights-34b3952d-c302-40b5-8978-fc6897e81dae;1;No. Even at 8 hours then, starting at 2:00 in the afternoon, that's only 10 hours. It would have to be 12 hours or more.;Oh, No. I'm talking about the first flight. That leaves at 1:42 in the afternoon.
+movies-9cee8c61-f377-435f-9fbe-060487eba83f;1;What genre?;What genre of movie?
+movies-dfeefe11-a8c4-4e64-9733-419cd1a66ec6;0;That's right at 99%.;Perfect, I'll get that book for you. Have a wonderful night and enjoy your movie.
+flights-2b2bd437-f969-4371-ae11-ff8aafddbccd;1;US.;San Francisco.
+movies-52b0e424-7a41-48d7-a677-5f62887f36f9;1;I need a movie that will be interesting for me in real life.;A real-life movie. Like, a documentary type movie.
+flights-c8ebd569-dab5-491c-bb29-1a8227355278;0;The return flight is at 10:40 PM and that is for $1,279.;You got it.
+movies-1194e0d8-fb66-40f0-9c56-cef3d47c0c3d;1;What kind of movie romantic movie recently released more than seven IMDb.;Kindly look into the IMDb rating and romantic.
+flights-05d51c01-262c-4d0d-889f-361a5ec66e1c;1;Let me look. Just a moment. I have a flight on Virgin America for $513, leaving at 9:35 am.;Roundtrip was $513.
+flights-8250bf08-5ae7-40bf-af7d-387a665deb54;0;Yes.;You got it. Enjoy your flight.
+flights-1924e35e-6f39-4a37-b879-8249130832b1;1;Hold on. There are no non-stops just one or two stops.;One or two stops.
+flights-9c7ca139-3a58-41e1-82f4-50ef6380c160;0;You'll have a 4 hours layover in Dublin.;And then a 2 hour and 35 minutes layover in Chicago.
+restaurant-5490a7ec-2a8a-4eb9-a3b5-63ca1298bd6b;1;What is the price of Sushi Rolls.;What is the average price?
+food-718b4288-8025-434e-8133-27f9d22cbdb6;0;Side order of garlic bread.;Okay, perfect. Thank you.
+movies-f97dbdcd-d376-46f3-8670-0aefc0c599b2;0;Could you say that again?;There are two showtimes after 7 P.M, 7:50 P.M and 10.35 P.M, which one?
+restaurant-b9321f8a-cdeb-4070-92b7-761e9304444e;0;Okay, And what else?;Okay.
+flights-1161433b-97ae-499a-a951-4ef122d404dd;1;Wonderful. I need to find a round-trip ticket airline flight, please, from San Francisco to Houston, and I'm going to be departing today and return in 3 days, and I would like to leave in the afternoon for the departure and return.;I'm traveling from San Francisco to Houston, Texas.
+flights-e11de364-0a20-46dc-9ee7-fcf9aa4ca5b8;0;Alright. Okay.;I'll say "Hi" to my girlfriend from you.
+restaurant-8c304321-f8a0-45f4-961a-a5ecb342a852;0;And what was the name of the third one again?;Okay, and do you have any that specialize in specialty meats?
+flights-b8c0949f-8fe6-4a83-bcfb-6eecd5e35742;1;I want to have an on-flight meal.;I would like to have a meal.
+flights-5e27adde-80bd-490d-897b-f86ffab1691a;0;Okay. Is that all?;Okay. I found a flight departing at 3:40 p.m with Air France Non-Stop.
+restaurant-5c01431d-df39-4e05-9eed-93a49e8ba5d4;1;That sounds good. How's the atmosphere over there?;How about the atmosphere at the restaurant?
+movies-d6e980f3-f599-4f7e-b9a6-070ee12e96eb;0;Okay, definitely.;I'll make sure the movie shows in IMAX.
+movies-3735b3c2-670a-4760-b45f-2a54e9599b70;1;Could you tell me who what the latest Mel Gibson picture is that he's directing?;Mel Gibson directing.
+flights-0dca3d6c-2181-43a8-8da2-10f0b7a5785b;0;Sure.;Okay, no problem. I will look up for you now.
+restaurant-7195bcec-f3ca-4598-8920-3e677a426bfb;1;How about a bar?;Okay.
+restaurant-ef23b498-467e-4ec9-96c6-cef0fd462a3e;0;I need a restaurant that would be open for lunch, please.;Kid-friendly. You know three-star, casual.
+movies-544ab496-739e-4141-9acf-88e928f811ff;0;How far away is the movie theater?;Okay. Thank you very much.
+movies-09a5fc15-062c-4b07-95ad-e8b1b83d8db3;0;Okay, hold on for a second please.;There is a movie called the Revenant which came out in 2015, it is based on a true story. Would you be interested in this title?
+flights-0c8d7acc-4d56-44ce-98e6-1da52998d9d2;0;Is it on 18th?;Yes, there are flights available.
+movies-c464d272-14c6-4a23-961a-0fe9d01dbd1d;0;Hello. Got it. Anything else?;Please repeat that.
+flights-3eb78d47-193c-4c0e-9244-48e5573587a8;1;Alright, so what are the legs specifically?;I'm sorry. What are the specifics for both flights? Like the departure time.
+movies-99740651-8f95-4894-bf06-3c4f6d7c936e;0;What time is that playing?;Okay.
+flights-68ddd9b2-65f1-45fd-8c09-b3bace92450b;0;That's great.;Thank you. Goodbye.
+restaurant-31577305-c063-4fa8-9864-9689696c6bf6;0;Sure, let me check that for you. Okay, I found five places.;Zoccoli's Delicatessen at 1534 Pacific Avenue.
+restaurant-a36ee14f-7e23-433c-b040-c18cfbfe5395;0;Okay.;Taste from India. What do you want to know?
+restaurant-52842fc3-4292-42fe-a986-db9d8c69d3f2;0;I think outdoor is not important and organic choice is the most important thing for me, so could I go back to the one you mentioned before.;Could you get me the address?
+flights-af6b884f-1114-4b1a-be6e-fa0a17677a71;0;Could you look up the time and the price of the ticket on Southwest airlines, please?;New York City.
+flights-cf7a9d8e-be75-48ed-adc0-feb8877a45c8;0;A dog, okay?;Yes, the airlines accommodating dogs are frontier, united, delta and american.
+movies-f4937356-70f2-40d9-83cb-08c3283c346e;0;Okay. How does sausage party sound?;Okay, hold on for a while.
+flights-4d3acba1-d6b6-40e2-b16e-fb692b8555ed;1;Hi, I'd like to book a flight to San Diego, please.;I would like to book a flight to San Diego.
+flights-b0499f94-49e7-4858-8289-7f836bc81c36;0;Yes.;Thanks.
+flights-94a4c45b-9a3c-45f5-8b4d-6e7a68c6b7fd;0;I found a seat on Delta airlines for $832.;Do you need anything else?
+flights-eaa4a9c8-4ab9-4f2e-ab2e-d9a0faecae22;0;What seating class?;What price range?
+movies-7adae3ff-a8e1-4a6c-9d63-1f9c150f2c63;0;Yeah.;Okay, that's it.
+movies-13f1e3ff-1754-4a83-b0c6-9522ddc4ec8d;0;I'd like some help finding a movie to rent to watch at home.;Science fiction. And I want something that's kid friendly.
+restaurant-10079e55-ec06-473e-9538-cbb7f5c09475;0;Give me the location, please.;Are reservations necessary?
+flights-da943ef3-ceb5-4a5b-a08f-bc569e365ae4;1;Okay. $1,225. Okay. What food do they offer in flight?;I'm sorry. What food do they offer in flight like peanuts?
+restaurant-0eaca968-eb11-47a9-b8fc-6e62d0f87ed0;1;I can help with that. Would you like to order in, Go out or cook at home?;Would you like to order in, Go out or cook at home?
+restaurant-e6d8f584-73a6-4abd-b772-95bcdae871e3;1;I'd like American food. Something with steak, preferably aged steak.;I'd like American food, preferably a restaurant that can offer at least 18 days of aged steak. They usually sell it at a high-end restaurant.
+movies-2d921aa0-ef94-4678-8b2a-3e29c33f89e5;1;I'd like to watch a documentary. If possible, rated PG-13.;A documentary that's possibly rated PG-13.
+movies-3284774b-3b7c-4620-a5b7-1c946f89ce50;0;One second. How about a comedy movie?;Here's what I found.
+flights-a19789a3-ce5e-42c2-8e82-3fb5ac4971c0;1;Again, Just the earliest one.;9:30 a.m.
+flights-f3763cf3-29ef-445a-850c-0c4206cc803e;1;How would you like me to sort them?;We have a handful of flights.
+flights-8250bf08-5ae7-40bf-af7d-387a665deb54;0;I found a flight for you at JetBlue Airlines, departs at 11:45 PM and arrives at 3:41 AM and return flight departs at 4:52 AM and arrives at 8:48 AM.;3 hours and 56 minutes.
+flights-7a6f3e7e-9084-42a5-bf42-78b4dbc8c0f9;1;The first one.;The first 1 hour.
+flights-6b71498f-d25f-4856-a495-49c3bb25ea58;0;Okay, Seattle to Miami.;Sorry, I didn't catch that.
+food-390fced1-e7c2-4165-b63b-7713b631dc74;0;And one dog with lettuce, tomato, and cheese. And salsa on that one.;For the one with coleslaw, that one also needs to have chili.
+movies-e569cbe7-143a-473c-a547-d18fc94e91f2;1;IMAX.;IMAX theater.
+movies-661415e9-3c8f-4354-8ce3-214a20b5be1c;1;Can you show me action-adventure films currently playing?;Can you show me current action-adventure films playing?
+movies-7adae3ff-a8e1-4a6c-9d63-1f9c150f2c63;0;Is there any comedy movies in town?;Okay. I want the best reviewed comedy movie. I want IMDb review.
+flights-8804e17b-5ce1-4fcf-a772-b47709559edb;0;Do you mean economy class?;And what was the other preference?
+restaurant-1c8e27d6-0f94-42a6-bbae-ebd66c71ace2;0;I'm looking for a place to have dinner tonight.;Okay.
+movies-661415e9-3c8f-4354-8ce3-214a20b5be1c;0;What are the closest movie theaters to me?;Which theater has the lowest ticket price?
+movies-5cf0501d-f658-455a-b2f4-255a455dfa6d;1;I'm looking to go tomorrow night or during the day.;I'm looking to go either tomorrow night or tomorrow during the day.
+flights-e0e46813-b2b9-4d84-8343-2b991dcdd2cb;0;How much did you want to spend on a flight?;Okay. There are no non-stop flights. Is that okay?
+restaurant-91fb550f-3d83-4c96-b98b-821d535e01e5;1;The second one.;Three Forks.
+movies-ee8eb04d-86e4-4351-a30a-076b9a751f02;1;How about 7:30?;Around 7:30 p.m.
+flights-7372d8fc-b362-4f04-845b-78046b14b3bd;0;Hi, I'm looking for a cheap commercial airline flight. I need to go from San Francisco to LAX, okay? I'm leaving on 25th and coming back on 28th.;Could you just get me some flights first?
+movies-9cb39472-b605-45aa-be47-c833c3ce9c98;1;What is the ratings of a thriller movie a good thriller movie?;What's the name of a thriller movie that's out right now?
+flights-8a9814c8-68fb-4e82-8976-c42e855cf24f;1;No nonstops in economy class.;No nonstops.
+movies-f191ed00-c5c4-4454-8daf-af82147afc99;0;What genre are you in the mood for?;I have found a few options for you.
+flights-14123a6a-d064-47c0-88e4-e1c4d54ad93f;0;I prefer either United or American.;Let's see what we got with that.
+movies-96bda2ac-b7a0-43e9-8653-370382093737;0;Please repeat that.;The story of Betsy Ross.
+movies-c28388bc-470e-4679-a156-993800f01d4a;0;I'm sorry, what's that again?;Titan AE, not familiar with that. Can you tell me something about it or a synopsis?
+movies-600aef98-874c-469e-887a-444bb3062ac8;1;Hi! Today I need your help finding a movie to go see in a theater. Right now I'm in Tacoma, Washington, near the University of Puget Sound.;Right now, I'm located in Tacoma, Washington. I'm near the University of Puget or Puget Sound.
+flights-b6b616a4-77c0-41d1-8973-9255191f3acb;0;The total for the two flights comes out to $298, do you want me to book these flights for you?;Flights have been purchased and your itinerary as well as boarding passes have been sent to you via email.
+movies-3e15bc67-b443-48fa-9edd-9f355233585a;1;And what are they rated as?;Yea.
+flights-169f0404-9256-471b-8193-505f93d4a2c3;1;Sure, what classes you like to fly?;Sure, what class would you like to fly?
+restaurant-b9321f8a-cdeb-4070-92b7-761e9304444e;0;The first is called new Orleans Creole Cookery. It has 4 stars. Classic Cajun-Creole dishes are the draw at this upscale eatery with a courtyard patio & live jazz. The second is called Eat New Orleans. it has 4.4 stars. Sunny, BYOB-friendly space serving farm-to-table Cajun-Southern meals, plus brunch on weekends. Which one do you want?;Okay Eat New Orleans. Goodbye.
+restaurant-f209f55b-db7a-4713-a4e5-5626a0c95f83;0;Sending information.;Bye. See you later.
+restaurant-bc039e37-4aee-417a-ab91-b280d3fe5bca;0;I'm sorry, can you repeat the question?;Yes, the dress code is classy.
+movies-aa5f4bb7-2914-467c-bbef-70eb9ab1e8e9;1;I was wondering if you'd help me pick out a movie to see tonight at home. I'm looking to watch something that is film critic big.;Yeah, Sorry. Wondering if you'd help me pick out a movie to see at home. I'm looking to see something that's beloved by critics.
+restaurant-f35ccc50-1087-446a-bb75-b16aa0cec723;0;Not too expensive and I'm somewhere downtown.;Well, I'd like something pretty good luck.
+flights-6b2481e1-16f5-4db3-877b-5f662ee5deab;1;Okay, What types of seats are those?;What type of seats can I get for $2,150?
+flights-3497c9f1-3672-4464-800f-45528e9f7ad8;0;Okay how many tickets do you need?;Please tell me now what preferences you want me to search for on this flight.
+movies-d6f9b0f1-fbbb-4d56-b13c-df383cce8109;1;The 6:55 p.m. showing.;Tickets to the 6:55 p.m. showing.
+flights-cb351d56-8800-4150-96dd-9473b574f843;0;Least expensive or fastest?;It's for $200 leaving at 9:37 pm with North American Airlines.
+flights-c36ed152-e15f-40b3-b6aa-66177241c939;1;You got it. Take care of the airline.;Excuse me. Do you care what airline it is?
+movies-9cb39472-b605-45aa-be47-c833c3ce9c98;0;Action.;I want a movie that Denzel Washington plays in.
+movies-f6cff8b5-958c-4570-b519-b4b423687ef7;0;No. That would be fine.;Yes, tell me about the film.
+flights-3d3155d2-099d-4b74-922b-d6e8d66f8d05;0;Do you prefer to leave in the morning or afternoon?;What type of class seating do you prefer?
+flights-d43f1f8d-6795-4530-8f54-213e78b19ea6;0;Any price, I just need to return in 4 days.;I'd like an evening departure.
+restaurant-4fc82f95-4138-460f-a66f-f8b6a4827508;1;Air condition.;I need a buffet system, also.
+flights-eef0a0b7-db5b-4293-8e0a-50640fa7fda5;0;Sure thing.;That won't be possible. Only 2 stop flights under $750.
+movies-cb4176b5-ae8d-4e08-9ff2-0b7d96bce090;0;I sure can, but there is one thing.;There are no horror movies with ryan reynold right now. Playing in theaters.
+flights-df080198-d963-473c-889d-3500d8d7e977;1;Yes. And the airport I'm going to be leaving out of is JFK.;I'm looking to be leaving out of JFK Airport.
+movies-266adde5-55f3-4c8e-9db7-82450edf7923;1;Alien: Covenant, is there anymore films by the same director?;Yeah. Is it playing near me right now?
+flights-3f7caa2a-3893-44a7-9398-b38ede9e9cd6;1;Are there any available seats on that at 9:15 A.M?;Is any seat available on the 9:15 A.M flight?
+food-e301c748-ab62-4e4c-ae00-0087a446bd61;1;Awesome! I'm looking one large red curry and two pad Thai;Yes, that was Ped's Thai.
+flights-14123a6a-d064-47c0-88e4-e1c4d54ad93f;1;I'd like the fare to be under $200 one-way.;I'd like the one-way fare to be under $200.
+flights-ba5f9ff1-e342-4e35-9fb5-915c738cc8f6;1;And both will be in the evening.;I want to leave and return in the evening.
+flights-597d72f4-f99b-4fe9-848d-bb8343797b94;0;The range is perfect. Can you list may be the first three?;Well, I don't have any luggage concerns. Pricing is important. I would prefer to leave in the morning. Returning is not so important. But leaving on the 24th, I want to leave as early as possible.
+flights-c3050de6-87bb-433e-8723-6cf2e702aeec;1;Returning flight could be in the morning.;The returning flight in the morning.
+flights-16bc9bb3-c60e-4858-8e82-5ba517d9ff84;0;What preferences do you have for that flight?;And is that all?
+movies-99a301e8-0070-4a89-8156-6dc2774e2f1c;0;Okay, and I also want it to have at least a seven rating on IMDb, and that's all I really need.;Alright. Thank you.
+flights-8f233203-edd6-4a92-a655-1c7f335a2502;0;A business class. And if I could get a window seat, that would be nice.;Either one is fine.
+movies-5c5e7433-7f65-4120-9a06-3fbb03c0ee4e;1;I was thinking about a little fantasy movie.;A fantasy movie.
+movies-3ce65dfb-c67c-4b36-b6c3-24dae34fd0e2;0;What are the times? Okay. What are the nearest one time after 8:30 p.m.;La La Land. Oh, sounds great. $14 per member, right?
+flights-25a60fc1-d1be-4229-bee5-1e78eba87753;1;I would like to fly in the afternoon or leave in the afternoon if possible.;I would like to leave in the afternoon if possible.
+movies-3547c4a4-f399-4430-a100-f2d160358f19;0;What kind of movie would you like to watch?;One second.
+flights-ab5097c7-c6c5-47ea-b48a-83d502cd867e;0;I have found one-stop flight that is departing New York at 9 p.m with a layover in Atlanta and arrives Kingston at 6:30 p.m.;It's a one stop flight.
+flights-8d89c6ec-7a60-4967-84dd-df8336f47a7d;0;Alright, the total price will be $4392 for business.;I'll send you the flight details.
+flights-3f7caa2a-3893-44a7-9398-b38ede9e9cd6;0;Okay. I can help you with that. Just one moment. I can help you with that. Just one moment.;Can you give me a sec?
+restaurant-6ecc713c-99d8-4c8a-981a-51d3dd95cf91;1;Let's say a lot of reviews and a lot of four-star reviews.;A restaurant with a lot of reviews and lots of high ratings.
+restaurant-21536787-2f76-43d7-aedd-f8b2556a6e5d;1;In Chicago.;Yeah.
+movies-661f4b74-ac54-425f-824b-187518b0505f;0;The ticket prices are $12.75 for adults and $10 for children.;Century Cinema 16.
+movies-2d921aa0-ef94-4678-8b2a-3e29c33f89e5;0;13th.;Yes.
+flights-9e4cdfec-cd94-4b9a-a4e2-b011ffc0192a;1;Just coach.;Economy class.
+movies-d0cdfa1b-b2d2-44bc-840e-81183f7721b6;1;Romantic comedy movies that rate over 75% or higher in theater.;I'm looking for a romantic comedy movie that matches that rating criteria.
+movies-347ad169-8039-4be1-bc71-402d8e8d6320;1;There should be great use of technology in the movie.;It should be an action movie with Belmond erector.
+flights-8ede5b9c-6c74-4a4c-b90b-5875741bb799;0;Okay, let's go with Does the later flight the 7:47 p.m. have a window seat available?;Perfect, I'll go with that.
+movies-1524ad8a-d67a-4605-ae4f-9152c2b6ae20;1;I probably want to go see a romantic comedy with a friend tonight with a three or better rating and it doesn't matter about the actors or directors.;At least a three star rating out of five maybe.
+movies-db3dab7d-6625-4ce9-8e91-6365eca5031b;1;Okay. What theater is that?;I just said what's the name of the theater?
+flights-eef0a0b7-db5b-4293-8e0a-50640fa7fda5;0;4 P.M sounds better, I'd prefer 4:00 P.M.;Okay, I want to leave on October 25th and it's just a one-way flight.
+movies-2fc5ddba-aaf4-439e-8591-f0d78e008361;0;Sure. Is there a genre you want to hear about or high ratings?;That is the only one.
+flights-0a559552-4aa3-44a6-85d3-7a1ee1f8a134;0;How about Southwest?;Okay. That'll do.
+restaurant-4ef8d6e8-07e5-4308-b0a9-b5c18da9cbf7;1;I would like it to be more than four stars on Yelp.;Please find a restaurant with more than four stars on Yelp.
+flights-5e27adde-80bd-490d-897b-f86ffab1691a;0;Yes, non-stop both ways.;Okay.
+flights-0f2ff2ee-697e-447f-ade3-6ced8148c620;0;I think that covers everything I need.;And you just told me they were $1,300 a piece, at least.
+flights-7dd08d76-05f0-4121-aecb-1c9501512eee;1;Is there any executive class?;Is executive class available?
+flights-3497c9f1-3672-4464-800f-45528e9f7ad8;0;Okay, anything else?;Just a moment. I have an 11:05 p.m. flight tonight for $746 with United Airlines. How does that work for you?
+restaurant-7195bcec-f3ca-4598-8920-3e677a426bfb;0;I'm sorry.;A bar? No, more of like a family sit-down restaurant.
+restaurant-8226aa6d-d7a4-41d7-8fc6-be17ad41c3de;0;Yes. Could you check to see what time it opens?;Perfect.
+flights-e134e57c-89c9-4e18-82d6-c6c0328f6019;0;Oh, I was saying it's still okay. Everything there is okay.;Sure, no problem.
+restaurant-7195bcec-f3ca-4598-8920-3e677a426bfb;0;Let me get you that address.;123 Baronne St, New Orleans, LA 70112.
+flights-8dc8b5f9-3600-4160-8671-b80188102c35;1;Hi, I'm looking to book a round-trip commercial airline flight from Los Angeles to Southlake city. I want to leave today and return in 4 days and on both days in the afternoon.;I am looking for a round-trip flight from Los Angeles to Southlake city. I want to leave today and return in 4 days and I prefer to leave for both flights to be in the afternoon.
+restaurant-1c8e27d6-0f94-42a6-bbae-ebd66c71ace2;1;Okay, Would you like to address?;Would you like their address now?
+movies-0718d578-e20e-4bd5-83a5-c4f75bd27345;0;There are 2 movie theaters near you Century Cinemas 16 and Amc Cupertino.;Could you say that again? Which theater?
+flights-5799d315-e128-451a-a0f5-a4c6eaccdfc2;0;I found a seat on American Airlines for $2,939.;Yes that is the lowest fare.
+movies-3cfbb25d-7ae7-45bc-bdcf-006198ad2a0d;0;Name of the closest theater to you is Century Cinemas 16.;Yes, the times are. 6:05 PM. 7:40 PM. And 9 PM.
+flights-6708db16-ec49-436f-b43d-d60308e747b0;1;I'd like to find a flight.;I need a flight from Los Angeles to New York City leaving today.
+restaurant-8c304321-f8a0-45f4-961a-a5ecb342a852;0;Okay, was that the last selection?;And what was the name of the third one again?
+food-ee074302-6e7b-4875-8d20-2823991567be;1;I like to eat Chinese food.;I would like to order Chinese food.
+flights-c36bfbe7-d2e5-43dd-9e29-72361ea84d3b;0;That sounds good.;Okay.
+movies-1524ad8a-d67a-4605-ae4f-9152c2b6ae20;0;Maybe $10 to $15 a ticket.;No preference. PG-13 or R.
+flights-71f5306c-76ea-4ccc-a8eb-14fd84e4fef4;0;Is there any way that I could get a window seat and will there be WiFi on the plane?;Is there any extra fee for luggage?
+flights-8ce35f70-60ed-44bf-85e7-865e45ffe00b;0;Alright. What else can you tell me?;Okay what else?
+movies-118e2435-baba-4101-bb1f-4a2ea045bf25;0;Let me check for you. One moment. All Eyes on Me is playing at the Regal Davis Stadium 5. Showtimes are 3:55 p.m., 7:00 p.m. and 10:00 p.m. One moment. All Eyes on Me is playing at the Regal Davis Stadium 5. Showtimes are 3:55 p.m, 7:00 p.m and 10:00 p.m.;You got it. Enjoy your movie.
+restaurant-31577305-c063-4fa8-9864-9689696c6bf6;1;Four stars out of 9505 reviews.;125 Beach St, Santa Cruz, CA 95060.
+movies-6de83167-0470-4acb-8d5a-2b2dae253128;1;I'd like to see a fantasy at the nearest Times Square. It's for two people.;I'd like to see something that's very close by Times Square and any fantasy movie. It's for two people.
+flights-a1d58781-a0e7-49df-9d47-e355a0818eb5;0;Hello!;I'm good and yourself?
+flights-eef0a0b7-db5b-4293-8e0a-50640fa7fda5;1;Okay, I want to leave on October 25th and it's just a one-way flight.;I want to leave on October 25th and I just want a one-way flight.
+flights-8a9814c8-68fb-4e82-8976-c42e855cf24f;1;7 hours and 22 minutes, it is the fastest.;No nonstops in economy class.
+movies-f97dbdcd-d376-46f3-8670-0aefc0c599b2;1;Okay, which Theater?;Which Theater?
+movies-43ca506d-3ce0-4c8b-8909-0cc0ef205849;0;Sure thing.;But, I couldn't find any 3D movies in the morning.
+flights-25a60fc1-d1be-4229-bee5-1e78eba87753;0;Afternoon on Apr 1st and Apr 5th?;Before what time in the afternoon?
+movies-8fdd8bb3-fdb7-4f08-9a8a-4546d6aac808;0;Okay, what kind of movie?;Alright and which actors?
+restaurant-5c01431d-df39-4e05-9eed-93a49e8ba5d4;0;Let me check that for you. This is a walk-in restaurant. This is a walk-in restaurant.;Let me get that for you. It is located at 3001 E Independence Blvd, Charlotte, NC 28205. It is located at 3001 E Independence Blvd, Charlotte, NC 28205.
+restaurant-e61ad1cc-c9bc-40dd-a6a3-cd2649270a30;1;Please speak English.;Can you tell me what that means?
+movies-ad0aa05e-cdd2-4353-8a79-01a199a21690;1;Can I also get one that's directed by a woman? I was feeling some female power.;Could you make sure that the movie is directed by a woman?
+flights-d1a32bbf-1d30-4eed-8c9f-97ec14067e3b;1;Hello. I need a cheap flight to Paris, Europe.;I need to get cheap flight ticket to Paris on March 15th.
+flights-77ad5338-e1c9-4d67-ab03-26fcf129cbd6;0;No.;Thanks.
+flights-a03e07e4-a887-4b6d-adc1-4e2976f5dfc5;0;That's fine.;Okay.
+food-1b21a56a-66be-4586-9560-427bd537f2d6;1;Okay. The second-order.;Do you want the second-order?
+movies-25c67efe-057e-49c6-a28d-405683b835e5;0;Okay.;Top rated ones are Rogue One: A Star Wars Story and Arrival.
+movies-f4cc5df8-8bc3-437a-bfd8-407a74f0fd84;1;Could you give me a synopsis?;What is the synopsis for the movie?
+movies-3d32d379-93c3-4fe7-9c3f-d78cc550b73d;1;I'm looking for one at least 8 out of 10.;Rotten Tomatoes.
+movies-0c57b6b9-2b92-4b2f-95ff-22b10fa0e198;1;How high of a rating?;How high of a rating? Give me a number.
+flights-2a18ae58-38ee-4a4d-9c27-7d86eb08c2ef;0;Great.;Okay. 6:46 PM, please.
+flights-344110d8-e667-48c6-a2bc-e418005d5700;0;Dates/ Price limit/Coach or First class.;What are those dates?
+flights-15921954-e628-4c23-ac84-243563fa7ebc;0;I need to leave on March 15th and return on March 20th. I'd like it to be nonstop if possible.;Okay, why don't we try from April 8th and return on April 16th?
+restaurant-f55e0888-1553-4400-8b45-f8a3cfcbd4c1;0;This will just be a second. I have campfire pepperoni pizza, BBQ chicken grilled pizza and buffalo style chicken pizza.;I have sent the recipe to your email. Did you need anything else?
+restaurant-c163efc3-715b-41a3-85a2-932e5e0332d0;0;And, thanks for assistance.;Okay, good.
+flights-da6c3827-61b1-4d48-90ac-b4347ab8a8e4;1;I'm going in the morning and I want an evening flight to return.;Both morning flight.
+flights-83662c6b-47a0-4ec3-baf3-cdf07792370c;0;The return trip is at 1:10 PM with one stop for one hour. It has Wi-Fi.;I'll send you the itinerary, would you like me to repeat it?
+flights-f767bd74-5e6f-421a-aa9a-7cb325dc9c49;1;I need two seats.;I need two seating reservations.
+movies-01f6fb00-f372-49eb-b1d7-d53479da0f06;0;Do you have any movie suggestions?;I will watch La La Land. Where it is playing?
+flights-5c8e22ed-6b6d-499b-a6e6-7e3395b5c686;0;I will be back in one week.;I need a non-stop flight, please.
+flights-0dca3d6c-2181-43a8-8da2-10f0b7a5785b;1;I have to leave on the 20th, and I have to get back on the 28th.;Oh, yes.
+restaurant-a36ee14f-7e23-433c-b040-c18cfbfe5395;1;I would like to spend $400 per night.;I would like to spend $400 at night.
+movies-e708a664-179a-48a4-9348-31f93ce37052;1;Yes, They do.;Which one?
+restaurant-4fc82f95-4138-460f-a66f-f8b6a4827508;1;I need a buffet system, also.;Buffet.
+flights-e0ee39e4-c6be-4fe5-ae1f-b3f33b8041d7;0;There is a non-stop flight with Delta going to Boston. There will be one stop while coming back. There will be one stop while coming back.;Yes.
+restaurant-f9d1273d-5cd8-4de1-ba12-284281f4d4db;0;I sure do. Address: 1701 E Cesar Chavez St, Austin, TX 78702.;Thank you. Goodbye.
+flights-8250bf08-5ae7-40bf-af7d-387a665deb54;1;$250 a ticket, minimum.;Minimum, yes.
+flights-7b522e99-4ca2-4cb2-ba11-9ac453dd5b59;1;Okay, LaGuardia. What else can you tell me?;What else can you tell me?
+movies-1d525f43-01bb-4ccc-bbae-6a61984ea036;1;Think they're like animated films, I was wondering if there are any animated films out?;Yes, that's animated. I don't know if any are out. And the highest rated like on Rotten Tomatoes.
+movies-1194e0d8-fb66-40f0-9c56-cef3d47c0c3d;1;Standard showtimes are 6p.m, 7:30p.m, 9 p.m, and 10:30 p.m. What did you say?;Showtimes are 6p.m,7:30p.m,9 p.m,and 10:30 p.m.
+movies-430a6eff-d49e-4949-b786-0aef16f36dd7;0;What movie?;There are a lot of action movies out right now: XXX, Monster Trucks, Rogue One, Sleepless, Underworld, Passengers and Assassin's creed.
+flights-2f8c43f6-b78d-47aa-b086-27e19b569087;0;That will work.;You can email it.
+restaurant-87029586-574d-4fda-8472-2ac5fe02477a;1;And how about the weather forecast? How is it looking that Sunday? Well for the weekend I guess, cuz I don't know, cuz i'm going specifically on Sunday.;Yes. For the weekend Saturday and Sunday, how is the weather looking in Park Winters?
+flights-a48a0067-0ffa-49e5-85d6-ef7596e5ec0e;1;I see that you have only one time to fly back on March 24th. It is at 5:45 PM with Alaska, is that okay? There will be an 11 hour and 25-minute layover in New York.;11 hours. Yes.
+restaurant-e373911f-250c-46d4-abfe-20292b797c95;0;Just make sure they're open tonight until at least 9:00 pm. Other than that, I think that's it.;Got it.
+flights-e0ee39e4-c6be-4fe5-ae1f-b3f33b8041d7;1;Yeah, And I'd like to travel in business class.;I'd like a business class ticket on my flight.
+movies-589e5318-b136-471e-ab33-799133c9c9ac;0;The acting games is Jennifer Lawrence and Chris Pratt.;The director is Morten Tyldum.
+movies-65b2a49f-ea27-4c9d-b37e-d3df3abce966;1;What is a crisis? I'd like to go see this movie.;How to make CSGO silver pictures movie to see? At what time does available?
+flights-b22e526f-49cc-4cf7-8626-0a82507d0045;0;First class. Direct flight.;Meal service.
+movies-d0cdfa1b-b2d2-44bc-840e-81183f7721b6;1;Okay. How high on Rotten Tomatoes?;How many percentage points?
+restaurant-b7d8a7f4-20ed-44f6-a621-b41804174883;1;Near any big tourist locations.;How about near the mall?
+movies-2994a1ec-1d67-4661-8b96-9f4e52613d8c;1;Oh, 5:15 p.m. Two tickets.;5:15 P.M.
+movies-3de2a6e8-1688-433d-a487-fb0b4ed1432c;0;Okay. Okay, So at least a 60%?;And any actors?
+flights-eaa4a9c8-4ab9-4f2e-ab2e-d9a0faecae22;1;I'm going to leave from Sacramento and travel to Denver.;I'm leaving from Sacramento, California traveling to Denver, Colorado.
+movies-9f148577-9e9f-43f2-bde4-4c33e4d4076e;0;Adult tickets are $1349 and $1049 for children at the AMC Mercado 20.;A horror movie that is playing is Split. While the mental divisions of those with dissociative identity disorder have long fascinated and eluded science, it is believed that some can also manifest unique physical attributes for each personality, a cognitive and physiological prism within a single being. Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him - as well as everyone around him - as the walls between his compartments shatter apart.
+flights-3b79a77b-ed24-4cfe-bd92-b7a327826dad;0;Okay, looking for flights to Boston from Seattle.;Sure.
+flights-1d16d762-4851-49e7-8155-463e357f91ff;1;No, May 19th. May 19th to May 26th.;May 19th to May 26th.
+flights-6f2a81a3-030b-4df5-8f3a-ba301af8d7f7;1;I'd like to take that one.;Can you book that one?
+movies-d6e980f3-f599-4f7e-b9a6-070ee12e96eb;1;I've seen it, but Is there a drama that fits the same categories?;Is there a drama that fits the same categories?
+movies-fbd78d2f-276b-413a-ac20-23d1a1df9bd7;1;They are $12.99 for adults and $9.99 for children.;Vallco Shopping Mall, 10123 N Wolfe Rd #3000, Cupertino, CA 95014.
+flights-8ce35f70-60ed-44bf-85e7-865e45ffe00b;0;I prefer to fly in the morning. The cheapest ticket and coach class.;That's it.
+movies-6e991867-4fb8-430a-93ad-855b988b25e3;1;And what will be the showtime?;Can you tell me the showtime for Underworld?
+movies-01f6fb00-f372-49eb-b1d7-d53479da0f06;1;What if it's a movie with Jessica Lang in it?;I would like to see a movie with Jessica Lange in it.
+movies-e708a664-179a-48a4-9348-31f93ce37052;1;Which one?;All 3 movies have a lead female.
+restaurant-123a71dc-5925-4b5b-b30a-73242c92e0a5;1;Looking pretty good. Sounds interesting. Is there any attractions nearby?;Journey attractions nearby.
+movies-f97dbdcd-d376-46f3-8670-0aefc0c599b2;1;That sounds great, I would like to watch at 7:50 P.M.;I would like to watch it after 7:00 P.M.
+movies-42dd7834-ae67-4785-ae2a-f0a05f246c24;0;I'm going to check the movie timings for Hidden figures. Wait for a moment.;Hidden Figures is playing at 4:00 p.m, 7:00 p.m and 10:10 p.m today.
+movies-282b9468-5ab1-4020-a4ee-ca05608f9891;0;What are the romantic comedy names?Antique comedy night, La La Land, Why him, Passengers and the resurrection. What's the name of the theater playing La La Land? Antique comedy night, La La Land, Why him, Passengers and the resurrection. What's the name of the theater playing La La Land?;I'd like tickets for that at 7:00 P.M.
+flights-66a3b2bf-f380-4690-9da5-d69da0b85bea;1;I will be starting in LA. On May the 20th, I want to fly to Houston. And then on May 22nd.;May the 20th leaving LAX To Houston.
+movies-a4eca757-c205-445d-91ba-9d3570f637bb;1;What is the synopsis for Rogue One?;What is the synopsis for Star Wars?
+movies-0c57b6b9-2b92-4b2f-95ff-22b10fa0e198;0;Do you want showtimes?;But for a standard showing or a 3D showing?
+movies-8ecad6ba-1bcb-4af3-b759-ad2f88a42266;1;It's a adventure movie.;Yes.
+flights-d15a2433-c7ee-41d9-8b91-ad5b04ce30c2;1;Okay, I haven't found a One-Stop flight that has the shortest duration.;I'm sorry, I have found the one stop flight.
+restaurant-8226aa6d-d7a4-41d7-8fc6-be17ad41c3de;1;Perfect. Could you check at what time it opens?;Yes. Could you check to see what time it opens?
+flights-8a9814c8-68fb-4e82-8976-c42e855cf24f;0;You mean there is no nonstops?;Okay, is there a business class nonstop?
+movies-9ae361fc-5a7a-4e59-ad5c-d60ed0d961f5;0;Okay. So there are a lot of action and adventure films out right now. Perhaps you can help me narrow it down.;Yes, I do.
+movies-9466bab2-9a3e-4361-9c73-b4906c1f1824;0;Wonderful, you are all. Is there anything else I could help you with?;Have a wonderful evening and enjoy your movie.
+movies-5bbafc83-8166-4364-a39f-3cff0dddf922;0;Ratings from where?;Okay, above how many points?
+movies-043b6547-fc0c-40e2-8c7e-4f2fc186bb3b;0;Okay. Is that everything? Any other questions?;Okay, thank you. Goodbye.
+movies-46de538c-d16d-4c39-b1ad-c813c7a1107c;0;Okay great, it is at any theater in Santa Barbara.;Okay, I have one showing at 8:30 p.m.
+restaurant-ac90480b-0c53-4bbf-8b87-b6e927472081;1;Do they have a good seafood dish?;Do they serve Tuna seafood dish? Fish, that's all I was looking for.
+flights-6be29749-8b88-4374-95fd-df957aa2f7e6;0;Great. I'll be traveling on April 2nd and returning on April 8th. I'd like to fly coach with not more than one layover.;I'd like to leave in the morning and return in the afternoon. I'm going to visit my sister.
+flights-1d16d762-4851-49e7-8155-463e357f91ff;1;I would like to leave Friday, May 9th and come back Friday, May 26th.;No, May 19th. May 19th to May 26th.
+flights-f9216363-995d-47be-9582-8ea183622f28;0;Okay. How much did you want to spend on first class for 2 people?;Sorry, could you say that again?
+flights-5799d315-e128-451a-a0f5-a4c6eaccdfc2;1;What's seating class would you like?;What seating class would you like?
+movies-b57e66aa-882f-4a4d-ba9e-1f5772081bc7;0;Can you repeat that, please?;How about "All eyes on me the untold true story about Tupac"?
+flights-3f2491bc-8d1a-4c46-a867-a727f19c7216;1;Alright. Did you get a meal?;Yes, you will get a meal onboard.
+movies-6ce779f3-5f98-4681-9da9-aaf59c552c87;1;Can you find one with ticket prices less than $20? But near Sunnyvale, California.;Can you find a theater near me that's screening Star Wars Rogue One that's within 30 mi of my location in Sunnyvale, California?
+movies-ad0aa05e-cdd2-4353-8a79-01a199a21690;0;Yes, no problem. There is an action movie called Zero Dark Thirty directed by Kathryn Bigelow. Would this movie interests you?;Sure, one moment please. Here is the trailer.
+flights-b44224e5-a5d2-4bb8-a130-63e2df24e49e;0;You will leave at 6:30 A.M and arrive in Seattle at 8:46 A.M. On the way back, do you want to leave 5 PM or 7 PM.;Okay. You will be back in SFO at 9:10 PM total cost of the flight is $735. Is that okay?
+restaurant-d15f88e9-83ce-41d8-9b16-ca5838796c3d;1;Within the city. I need donuts. Price limit is $50.;Donuts and Price limit is $50. Restaurant style should be sit-down with good air condition.
+restaurant-38258bde-9496-4ac8-9813-4bd9f79059dc;0;Is it american food?;Are you in Sacramento?
+movies-ad0aa05e-cdd2-4353-8a79-01a199a21690;0;Sure, one moment please. Here is the trailer.;You're welcome, would you like anything else?
+restaurant-c163efc3-715b-41a3-85a2-932e5e0332d0;1;Yeah. I'd like to know the hours of the restaurant and meal time.;Good. And, anything special on that restaurant?
+movies-ab5a21cc-68bd-4c59-a44c-c96733991385;0;Okay. Which one is rated the highest out of those?;Okay. Yeah, I heard some good things about Wonder Woman but wasn't really sure. I would be interested in that. I'm looking to get two tickets. I just need to know what time it's playing?
+movies-45bd57e8-d25e-406d-bb92-7d5e27621c60;0;What's the rating on Rotten Tomatoes?;What's the latest showing?
+flights-cb55f0dd-be89-461b-ad72-5493b009f32b;1;There's no opening for the 19th?;Are there no available seats for the 19th?
+movies-7adae3ff-a8e1-4a6c-9d63-1f9c150f2c63;0;What?;4.15 on IMDb.
+movies-ec20ec18-2a79-4da3-b605-8a9558f4fc94;0;Any particular year?;Okay. How about the movie Citizenfour or the last days in Vietnam?
+flights-344110d8-e667-48c6-a2bc-e418005d5700;0;Probably the next day.;Could we do somewhere after lunch? Anytime after lunch.
+movies-db3dab7d-6625-4ce9-8e91-6365eca5031b;0;That looks good. Is it playing in a theater near me? Could you tell me. Can you look up a few showtimes?;Okay. What theater is that?
+flights-aedc3b46-b354-4fd4-b0d5-d837ba8c000a;0;I definitely want a non-stop, if possible. If I could do it within the price range, that's certainly how I want that. Non stop if possible I want to search if I can do it with a friend Predator. Okay and what time does that arrive?;10:10. Yeah, that'll be fine. What about the return? What's the best you can find me?
+restaurant-b5f76a13-e4f0-4248-9c34-e8dac93fad20;1;Does El Toro Bravo have pub food?;What restaurants have pub food?
+flights-b8c0949f-8fe6-4a83-bcfb-6eecd5e35742;1;I would like to have a meal.;Yes.
+flights-a8c8cc2a-a4c4-4e20-9983-132965cc8727;0;Yes, that's possible.;Sure thing. And for when do you need the flight?
+flights-6bbb2dc7-531b-40ae-bf94-c3639ee53bc4;1;Well, That is literally impossible.;There are none.
+restaurant-7e9b05ad-2036-40f3-8869-a4e7fb3dc217;1;Yeah, normal including.;Excuse me, I meant formal.
+flights-e5fcc632-5563-44d0-a132-41d7b7611bb7;1;Hi, could you help me to find round-trip airline ticket?;I need a round-trip airline ticket.
+flights-3d3155d2-099d-4b74-922b-d6e8d66f8d05;1;What type of class seating do you prefer?;Do you prefer first class or economy class?
+movies-1abf00ce-149f-47e0-9919-667c27933789;0;How many tickets do you need?;I have purchase 2 tickets for 8:40 PM for Guardians of the Galaxy.
+restaurant-52842fc3-4292-42fe-a986-db9d8c69d3f2;1;Do you know if it has a outdoor thing as well?;Does it have outdoor seating?
+flights-d1e3ffe0-edb9-4c2d-8990-be3faa9acfb5;0;Yes, I would.;Is there any nonstop on the way back?
+restaurant-898a4c42-64ef-469b-85f7-b3e044998cfd;0;Noon, please.;What are they?
+movies-ef061074-8a50-4b87-960f-03a504fcfc4c;1;Can I see a trailer for that, please. Okay, looks pretty good, Is that available on Redbox?;Is that available on Redbox?
+flights-34b3952d-c302-40b5-8978-fc6897e81dae;1;plus 1 hour and 30 minute for the layover;It's a 9 hour and 20 minute flight from 6:20 PM
+movies-042f1dff-3048-4d8a-ad9c-40bf5c38ea5c;1;Is there a certain year you are looking for?;Certain year you are looking for?
+movies-1883ec5d-bdff-4b14-9173-cb65bca255ef;1;I want a multiplex.;Find a theater nearby.
+movies-159ac47d-d7f5-4b23-8891-ac6fdbdbe6f0;0;No more than $20.;Yes.
+movies-ad0aa05e-cdd2-4353-8a79-01a199a21690;0;Netflix.;Can I also get one that's directed by a woman? I was feeling some female power.
+flights-57cb8d87-3df4-4018-8191-0bfda8469ef2;0;Okay, are you referencing February?;Just a moment, please. I found some flights for your there, any other preferences you have for the flight?
+restaurant-d422c8d7-0c23-4eb8-8484-7ef3f2ca5830;1;How many orders of Spaghetti? Would you like some meat sauce or meatballs along with spaghetti.;How many orders? Anything else? Is that it?
+flights-f3763cf3-29ef-445a-850c-0c4206cc803e;1;Alright, how would you like them?;Let me help you understand.
+restaurant-984a6d46-258a-4159-84f5-c4893e347ce3;1;I'd like something really fruity like a fruit salad.;Can you get a recipe for fruit salad?
+restaurant-66bf5432-ca3b-4db6-8e40-077b95621e97;1;It does not matter.;I have no spending limit.
+flights-cde7c43d-89ae-4bce-9e79-36013ced0d29;0;The total does come out to $195 and you'll be flying American Airlines.;It was $195 for round trip.
+movies-f97dbdcd-d376-46f3-8670-0aefc0c599b2;1;Standard and what kind of movie?;Okay, what else do you like in a movie?
+movies-e8c9200d-8522-49b9-817c-591c87f75939;0;Playing at the Century Cinemas 16.;Showtimes are 4:50 p.m. and 9:40 p.m.
+movies-b944c3c5-2f45-44c6-92ff-8c3f4c38be64;1;Let's see what that comes up with.;No.
+movies-2b0457ee-6786-48f8-bb9c-ec38996264e9;0;That sound's great. Is it on Redbox?;Perfect. I like that choice. Thank you very much for your help.
+restaurant-652933af-b0af-41be-8568-09713b4c38d8;0;Okay, anything else?;Sure thing, what time did you want to eat?
+flights-7359e742-7d43-4b52-b2e3-7309e1eb39b4;0;I'd like to fly business class and I don't want to spend more than $5,000 on the flight.;If possible, I'd like a flight with no layovers.
+movies-1d56a8e0-3134-402b-9de0-4d0230bf038f;1;I'm sorry, can you repeat the question?;Can you repeat your question?
+restaurant-2a837f10-0c33-4846-a7c4-ecc2d4ec6f45;0;Bye. Okay. What would be the weather forecast for this Sunday?;Okay. Thank you for all your help. I appreciate it. Have a nice day.
+restaurant-d422c8d7-0c23-4eb8-8484-7ef3f2ca5830;1;Go out. I'd like to go out to dinner tonight. Yeah.;Four people.
+restaurant-ac3e2c96-717a-42e6-be89-3aa9875bd319;1;American.;I'd like you know, just plain old American meals.
+movies-87cd75c5-a955-4605-8933-ee35fb7366bf;0;sounds good.;Alright. Thank you.
+flights-6be29749-8b88-4374-95fd-df957aa2f7e6;0;That's okay. What else do you have? Okay. Can you tell me about Delta's flights?;Nothing cheaper?
+restaurant-1f72bea2-838e-45cf-b9bc-7b4a6fffba24;1;Okay. Cool. What's the weather going to be like this weekend?;What's the weather this weekend?
+movies-a8fe5c01-a094-49d1-9ceb-41eba7e3415a;1;What?;A horror movie.
+food-a1ea2b46-a610-45cb-9272-ada01c9fde98;1;Like two beef burritos with Mexican style rice, beans, lettuce, saucer, guacamole and cheese.;I would like 2 beef burritos.
+flights-287db94d-7e75-4c97-a38f-b31d68d2c8db;1;Business-class. And I would also like it to be a one-stop flight. I don't want it to be a nonstop flight. I want it to be a one-stop or a two-stop flight.;There's no nonstop flight, right?
+flights-3b79a77b-ed24-4cfe-bd92-b7a327826dad;1;What time would you like the return flight to be?;What time of day?
+flights-cb55f0dd-be89-461b-ad72-5493b009f32b;0;I'm not familiar with the different airports there.;Do you know what the quickest would be from where I am at?
+flights-15921954-e628-4c23-ac84-243563fa7ebc;0;What time does the plane leave?;And return time?
+flights-c36bfbe7-d2e5-43dd-9e29-72361ea84d3b;0;Alright. And what else?;Sounds good. Anything else?
+flights-16bc9bb3-c60e-4858-8e82-5ba517d9ff84;1;I need a flight from Houston that flies out on the 28th of March. And I need Preferably on American Airlines in the morning again.;Yes, with Economy class seating.
+flights-0833e6d0-812d-444b-9bcc-4d6d448f4fb0;0;That sound's great. And what will be the price?;Okay, that sound's good. No, that's it. That sound great. Thank you so much for your help.
+movies-c301675a-a11e-4926-aa4f-09f85158204a;0;Yes.;What Richard Gere film is playing currently in the theater?
+flights-05f6996b-96a7-4a35-a5d7-97365c96773f;1;Okay. And then from Orlando back to LA that evening on the 25th. What time would I be able to leave in the evening?;March 27th.
+restaurant-9fef5422-50e1-4e33-b741-9d03027085a7;1;Okay, fine. Can you please suggest me the name?;Can you please tell me the name of the restaurant?
+restaurant-9fef5422-50e1-4e33-b741-9d03027085a7;0;And the second is China Town, Dark-wood & red dining room for homestyle Chinese cooking with emphasis on Hunan dishes & dim sum.;Din Ho Chinese BBQ?
+flights-e11de364-0a20-46dc-9ee7-fcf9aa4ca5b8;0;It looks like there aren't any nonstop flights.;That's right. You'll have to stop at least once.
+movies-78fdcd79-eb79-4448-a733-5765f527619f;1;I'd prefer something that was well rated.;I prefer something with good ratings.
+movies-fce7538a-bc85-4c73-9db9-ecc2e9cc44e7;1;Can I see one in 3D?;Can I watch it in 3D?
+flights-44ee016e-6e66-487f-a725-9b145cde0423;0;Okay.;Do you know the best way to deal with a jet lag?
+movies-0c57b6b9-2b92-4b2f-95ff-22b10fa0e198;1;How high?;How high of a rating?
+restaurant-c3eab716-eb6c-4a2e-81ac-e3e41cb4c781;1;And what about any other hotel nearby within walking distance?;Are there any hotels nearby, at a walking distance?
+movies-9ae361fc-5a7a-4e59-ad5c-d60ed0d961f5;0;Okay. And around what time?;And how much did you want to spend?
+flights-d741629f-4b70-44ef-8955-6b9b7f08216a;1;Okay. Does it have any layovers?;Non-stop in other words.
+movies-3735b3c2-670a-4760-b45f-2a54e9599b70;0;Oh, that's excellent. Okay.;No, thank you.
+flights-5d2c7083-6dc7-4328-b099-51c3a4bd1ea5;0;$419.;Okay. Okay. What time?
+flights-36c99955-bf30-4b6b-9a99-64a0c56c8148;0;I'm sorry, where would you like a flight to?;How can we narrow down your flight options?
+flights-68ddd9b2-65f1-45fd-8c09-b3bace92450b;0;Yeah, that's fine. Thanks.;That's great.
+flights-44ee016e-6e66-487f-a725-9b145cde0423;0;Okay, let me find the best flight for you. One moment. Okay, I found a flight that leaves on 5th at 1:55 pm and arrive at 11:30 am.;And for coming home?
+movies-0c57b6b9-2b92-4b2f-95ff-22b10fa0e198;1;Okay, good. And also, I like to know the showtime of that movie.;Yes, I want a showtimes.
+flights-9cace285-48bb-4410-b810-2c84000a6f04;0;Thank you.;Thank you. Goodbye.
+flights-8330cc14-3fae-4300-a9ef-7d85eb578124;0;On the way back you will leave at 3:55 P.M and arrive at 5:25 P.M.;Great! Let me send you the flight details.
+flights-57cb8d87-3df4-4018-8191-0bfda8469ef2;0;All of them have at least one-stop. Some of them have two-stops.;You're welcome. The best deals $900 for one-stop leaving at 7:45 AM and arriving at 6:20 PM with United. Would you like me to book one of this flights for you?
+restaurant-b7ed4e7f-98c4-477a-b80f-9859e5ef809b;1;Yes, anything with desserts.;Anything that has desserts.
+restaurant-85f097df-94da-4d72-8e20-f7f3eabc26c7;0;Yes, they take reservations.;Yes, they do.
+movies-1524ad8a-d67a-4605-ae4f-9152c2b6ae20;1;About average maybe $10 to $15 a ticket.;Maybe $10 to $15 a ticket.
+flights-58b9a1af-bd51-4092-90f7-2b7d98174bc4;0;Okay, Thanks. What airport in Washington DC does that arrive and depart from? Washington Horton the seed?;Okay, Fantastic. I'd like to book the tickets, please.
+movies-0c57b6b9-2b92-4b2f-95ff-22b10fa0e198;0;How high of a rating? Give me a number.;On IMDB?
+flights-c8b3a14a-b562-4a54-acb3-73a37b080e62;1;In 2 days.;Saturday.
+movies-430a6eff-d49e-4949-b786-0aef16f36dd7;1;How much is the ticket price at this theater?;How much does this cost?
+movies-0908405c-879a-4302-b3b4-6c2c7f056510;0;Well, thanks.;Thank you.
+movies-0c57b6b9-2b92-4b2f-95ff-22b10fa0e198;1;And the actor's name is William.;Vin Diesel.
+food-3f14f68e-8f46-4c0d-b28f-9ec582a3a976;1;Okay, I'd like a large cheese burger with mayonnaise and ketchup and with a large order of fries. Do they have appetizers like cheese sticks?;Do they have cheese sticks?
+flights-e0ee39e4-c6be-4fe5-ae1f-b3f33b8041d7;0;Could you say that again?;What else?
+movies-bd0f0f1b-ccff-481b-90f2-f91ad78a7fa8;1;traffic app for my far is location?;How far is the movie theater from my location?
+movies-043b6547-fc0c-40e2-8c7e-4f2fc186bb3b;0;Yes.;Rotten Tomatoes.
+restaurant-123a71dc-5925-4b5b-b30a-73242c92e0a5;1;Journey attractions nearby.;Yeah, beach in general.
+flights-8ede5b9c-6c74-4a4c-b90b-5875741bb799;1;What type of ticket would you like to book?;What class of ticket would you like to book?
+food-84d4020c-a0e5-4240-b268-ee81bd548f7d;1;Hi, I'd like to order 3 burritos.;Yes.
+restaurant-4ef8d6e8-07e5-4308-b0a9-b5c18da9cbf7;0;Please find a restaurant with more than four stars on Yelp.;Does the restaurant have any churros?
+flights-a2376ccb-4666-4ef4-b121-16b399d7b2f6;1;Great, shall I repeat your itinerary or email it to you or do both?;What are you ready for?
+movies-448ac84e-d103-4d8f-a0cf-cf0595ec29df;1;I think I'd like to see the movie called Moonlight.;Yes, I think I'd like to see the movie titled Moonlight.
+restaurant-1c8e27d6-0f94-42a6-bbae-ebd66c71ace2;0;Thank you.;That's it. Have a great day.
+movies-0718d578-e20e-4bd5-83a5-c4f75bd27345;0;Oh, good. No, not necessarily. What's out in the comedy?;What is Monster Trucks about?
+movies-42dd7834-ae67-4785-ae2a-f0a05f246c24;1;How much it costs for an adult ticket?;How much does it cost?
+flights-e11de364-0a20-46dc-9ee7-fcf9aa4ca5b8;0;Can I see my options just based on those parameters?;Thank you.
+flights-287db94d-7e75-4c97-a38f-b31d68d2c8db;1;I am sorry, there is no nonstop flight.;There is a One-Stop flight.
+flights-cb55f0dd-be89-461b-ad72-5493b009f32b;0;Clear back in a week to the 27th.;And what's the prices? I'm looking just for the cheapest of the economy for the whole package, round flight.
+flights-83662c6b-47a0-4ec3-baf3-cdf07792370c;0;Okay, no problem would you prefer at least expensive or Non-Stop?;The least expensive trip is $564 with United leaving at 2:55 PM, it has one stop for two hours.
+flights-3cda9e0e-2597-4121-8579-d1b6ef0c76a3;0;I can't think of anything offhand.;Excellent, thank you for your help.
+flights-a48a0067-0ffa-49e5-85d6-ef7596e5ec0e;0;I will prefer to go with United Airlines at 11:35 p.m.;That's fine.
+flights-21cfebdf-1c66-4d24-997c-39069db54a09;1;Yes. I would like a nonstop flight.;I would like a non-stop flight.
+movies-a8fe5c01-a094-49d1-9ceb-41eba7e3415a;1;Playing at 5:45, 8:30, 9:30 and 11:30 pm.;Sorry about that sometimes I get loose.
+flights-e0e46813-b2b9-4d84-8343-2b991dcdd2cb;1;I'm okay with that.;That's fine.
+flights-3d3155d2-099d-4b74-922b-d6e8d66f8d05;0;How much is the ticket?;That sounds good. Go ahead and book it.
+movies-65b2a49f-ea27-4c9d-b37e-d3df3abce966;1;The movie timings are 7 PM and 10 PM, the price is $12. At century cinemas 16.;What was that? At what time?
+movies-7adae3ff-a8e1-4a6c-9d63-1f9c150f2c63;1;Okay, you want an IMDb review to be above what?;How high?
+flights-42392247-3179-437e-a3d9-07bbb8a4317b;1;Just not first class.;Yes.
+movies-01f6fb00-f372-49eb-b1d7-d53479da0f06;0;I will watch La La Land. Where it is playing?;Good. Could you get us two tickets for that?
+flights-63e664c9-3af9-483a-8893-630dca1e3951;1;Okay. Then forget about the layover. I need to fly out on the 14th. I want to fly back on the 4th. And the lowest cost flight, please.;Want to fly out on 14th of March and return on 4th of April. I'd like to leave early in the morning, too, anytime after 6:00 a.m.
+restaurant-d422c8d7-0c23-4eb8-8484-7ef3f2ca5830;0;Yes, that's correct.;Thank you.
+movies-09542fab-6dec-45bf-a512-c7e8f52dfef3;1;Yeah.;Raees. Second movie.
+movies-430a6eff-d49e-4949-b786-0aef16f36dd7;0;There are a lot of action movies out right now: XXX, Monster Trucks, Rogue One, Sleepless, Underworld, Passengers and Assassin's creed.;Sure thing. The highest rated film is Rogue One.
+restaurant-21536787-2f76-43d7-aedd-f8b2556a6e5d;1;I'd like help finding a restaurant in Chicago, Which is near by a beach.;In Chicago.
+movies-f4937356-70f2-40d9-83cb-08c3283c346e;1;Something in animation would be great.;Yeah, I love animations and especially ones that are not mainstream.
+movies-dee729a3-d94e-415c-955a-2700f962d70b;1;On IMDB? or Rotten tomatoes?;Which one?
+movies-2fc5ddba-aaf4-439e-8591-f0d78e008361;0;The suspense and thriller movies playing in your area right now is The Circle. Would you like to hear more about it?;Hold on just a second. The Circle is a gripping modern thriller starring Emma Watson (Harry Potter), Tom Hanks (Sully) and John Boyega (Star Wars: The Force Awakens). When Mae (Emma Watson) is hired to work for the world's largest and most powerful tech & social media company, she sees it as an opportunity of a lifetime. As she rises through the ranks, she is encouraged by the company's founder, Eamon Bailey (Tom Hanks), to engage in a groundbreaking experiment that pushes the boundaries of privacy, ethics and ultimately her personal freedom.
+movies-d8fe0e72-1eae-4ecb-8509-06955af34382;1;And is either of these available on YouTube?;Are either of them is available on YouTube?
+movies-1194e0d8-fb66-40f0-9c56-cef3d47c0c3d;0;And what else? Okay, the nearest theater is century cinemas. It's 5 miles away.;Standard showtimes are 6p.m, 7:30p.m, 9 p.m, and 10:30 p.m. What did you say?
+movies-5f73309e-d1b0-4af2-bb73-c13d3cdec2e6;0;Okay. Ticket prices?;What was that?
+movies-2fc5ddba-aaf4-439e-8591-f0d78e008361;0;Colossal.;And the ticket prices?
+movies-8de10dc5-fb0a-4ea9-ba5c-43d12d5cfeb5;0;Okay.;Yeah.
+movies-8fdd8bb3-fdb7-4f08-9a8a-4546d6aac808;0;Here is the synopsis for Gold. Kenny Wells, a prospector desperate for a lucky break, teams up with a similarly eager geologist and sets off on an amazing journey to find gold in the uncharted jungle of Indonesia. Getting the gold was hard but keeping it is even more difficult, sparking an adventure through the most powerful boardrooms of Wall Street.;The show timings are 7 pm, 9:50 pm.
+restaurant-10079e55-ec06-473e-9538-cbb7f5c09475;1;Any reviews on the restaurant?;What are the reviews on the particular restaurant?
+flights-cb55f0dd-be89-461b-ad72-5493b009f32b;1;It can be a layover at just a few one way.;It doesn't have to be nonstop.
+movies-63a3c378-a0fa-4e5a-90d6-7ed06ba6d1e6;1;Who's the big guy in propane?;Who's starring the main role?
+movies-b455277c-26b2-4e62-8fcc-d7195266c09e;0;Thanks.;I am looking for in a theater, but I'm not looking for something a little different, not just the big blockbusters.
+restaurant-c97f4ff9-56e0-43e5-9e60-b2216d590cca;1;Any other preferences?;Did you have a food preference?
+flights-3f7caa2a-3893-44a7-9398-b38ede9e9cd6;1;Yes.;Yeah.
+flights-e134e57c-89c9-4e18-82d6-c6c0328f6019;1;That seems fine. It's all okay.;Oh, I was saying it's still okay. Everything there is okay.
+flights-4d3acba1-d6b6-40e2-b16e-fb692b8555ed;0;I would also prefer a non-stop flight in coach class.;Okay. I'll take a layover then.
+restaurant-385b7836-5141-477a-9c38-abfa7cd252ac;0;Okay, And what else can you tell me?;Okay, What else?
+movies-15a24327-42cb-4548-af40-e1fc3bda0aaa;0;Great film.;The story of a middleweight boxer as he rises through ranks to earn his first shot at the middleweight crown. He falls in love with a gorgeous girl from the Bronx. The inability to express his feelings enters into the ring and eventually takes over his life. He eventually is sent into a downward spiral that costs him everything.
+restaurant-8e7acfe2-660f-48fe-81c6-9e7179fe4997;0;That sounds great. Do they deliver?;Can you find me a place that does deliver?
+flights-d1a32bbf-1d30-4eed-8c9f-97ec14067e3b;0;That's fine. How much is the nonstop flight?;Book me that one, then. Thank you.
+movies-c301675a-a11e-4926-aa4f-09f85158204a;1;The one with Richard Gere is playing.;Yes.
+restaurant-38258bde-9496-4ac8-9813-4bd9f79059dc;0;Is there anything else I can look for you?;If that is all I will find your restaurant now.
+restaurant-4ef8d6e8-07e5-4308-b0a9-b5c18da9cbf7;0;Okay and what else?;Yes.
+movies-3e94826c-4c04-4069-9ee4-f652a5ff4a89;0;9:45, this is the last show?;Okay. Great.
+flights-b6b616a4-77c0-41d1-8973-9255191f3acb;1;I'm sorry, what was that?;I wanted to leave today and return in 5 days.
+movies-78fdcd79-eb79-4448-a733-5765f527619f;0;What was that?;Okay, on which platform?
+flights-a19789a3-ce5e-42c2-8e82-3fb5ac4971c0;0;Sure. What else?;Okay, What else?
+flights-4fadf26c-e950-4ac5-9156-d6e9b5e54e2c;0;9:45 AM works.;That'll work.
+movies-87cd75c5-a955-4605-8933-ee35fb7366bf;0;Thank you.;Bye.
+flights-9e4cdfec-cd94-4b9a-a4e2-b011ffc0192a;0;Sure, we shall go by the options?;What dates are you looking at?
+flights-6b71498f-d25f-4856-a495-49c3bb25ea58;1;Yeah, I said I would like to fly out sometime on March 3rd. I would like to fly out sometime before 11:00 a.m. If possible.;I said I would like to fly out sometime March 3rd sometime before 11 a.m. If possible.
+food-bf5457d1-a86a-4bcd-817d-1aa3eda8b7dc;1;I'm looking for Thai food, please. Do you have any suggestions?;Do you have any suggestions for Thai food?
+restaurant-14cd5da3-209c-469a-9c4b-59a1ee177764;1;Yeah, Just a mix of American-style, I guess, food that kids like.;Like medium priced, That's not too not too expensive, Not too not too cheap.
+flights-57cb8d87-3df4-4018-8191-0bfda8469ef2;0;You're welcome. The best deals $900 for one-stop leaving at 7:45 AM and arriving at 6:20 PM with United. Would you like me to book one of this flights for you?;Okay, I'll put that for you and get the details for your return flight.
+flights-e0ee39e4-c6be-4fe5-ae1f-b3f33b8041d7;0;Okay, anything else?;Is that everything?
+flights-5de636ae-1d55-40c5-83e9-1431cc694fb4;1;Okay, would you like to put your return?;Would you like the same preferences for return?
+flights-8ce35f70-60ed-44bf-85e7-865e45ffe00b;0;The earlier one.;Yes.
+movies-fb9b0bf7-5b62-44da-b234-291262e95188;1;Can I watch it on iTunes?;Could I watch this on iTunes?
+movies-7c14ef10-5289-4f51-b1f7-b8bcbd473e99;0;Is it rated R or PG-13?;What time is it playing?
+restaurant-b8b31804-757d-4fcc-8eea-83e5c158a68f;0;Yeah, I need to know when they are open for dinner on Sunday.;Okay, How's the atmosphere there?
+restaurant-358e5d50-4e69-4c9d-bc67-25c96a6b8e50;1;Bye.;Alright, sure.
+flights-a8c8cc2a-a4c4-4e20-9983-132965cc8727;0;Okay. I would like a full bar on the plane.;Oh, I'm sorry. I would like to leave this coming monday.
+flights-344110d8-e667-48c6-a2bc-e418005d5700;0;I found a flight for you.;JetBlue Airlines.
+movies-0feb4079-07e4-437e-8af0-ff8e4b0e56e3;0;Yeah, I'd like to find a movie on Hulu Plus.;Okay, I'm looking for a kid-friendly movie then.
+flights-b66be9d3-fd02-46e6-9baa-17e0271525dd;0;I see that you will have a 50 minute layover in Philadelphia.;And you will arrive back in Seattle at 11 A.M. The total fair for this business class flight is $1462.
+restaurant-34fc06f9-8195-411f-9fc9-966d7de194e5;1;How many are the salads at Larrupin' Cafe?;What kind of salads do they offer at Larrupin' Cafe?
+movies-61cd82c0-8a0a-44ff-884b-73314676eda0;1;I would like it to be a pretty reasonable ticket price, around $10.;I would like it to have a ticket price of around $10.
+movies-661f4b74-ac54-425f-824b-187518b0505f;0;I would be happy to help what type of movie are you interested in seeing?;Do you have any requests about your movie?
+movies-6e991867-4fb8-430a-93ad-855b988b25e3;0;Okay, give me one moment.;Alright, I found 2 movies with at least a 5 rating on IMDb.
+restaurant-c3eab716-eb6c-4a2e-81ac-e3e41cb4c781;0;Do they have vegetarian options?;And what about any other hotel nearby within walking distance?
+flights-7359e742-7d43-4b52-b2e3-7309e1eb39b4;0;United.;Layovers can be in Denver, Chicago, San Francisco, or Houston.
+restaurant-9f46dc32-cf92-49f3-8d2b-2364432fd1ee;1;Can I get seated at 8:00 pm?;Okay, you said they're open. You don't have information on whether there are reservations available at 8:00 p.m. Is that correct?
+movies-1d56a8e0-3134-402b-9de0-4d0230bf038f;1;I'm looking for a comedy that's rated R.;I'm sorry?
+flights-cbfc519d-93e3-404d-9db5-c5fe35a5b765;1;Hi, I need to find a city in Europe.;A city in Europe.
+flights-a2376ccb-4666-4ef4-b121-16b399d7b2f6;0;Would you like premium business class or first class?;Sure. The lowest price of first-class ticket is $1,143 leaving at 7 a.m. to Delta Airlines.
+flights-73ecad62-b458-4ad0-992a-f4ae602e76b1;1;What's the first flight with economy seating?;Yes.
+movies-d07172ad-ccbb-43d9-a357-49c337835061;1;On what? IMDb?;Okay. And what else?
+flights-7dd08d76-05f0-4121-aecb-1c9501512eee;1;Okay, good. Does the flight offers any food for me at the travel time?;Is dinner available in the flight?
+movies-1883ec5d-bdff-4b14-9173-cb65bca255ef;0;The Collide and The Lego Batman movie. What about the Lego Batman?;The Lego Batman has a 7.7 out of 10 on IMDb. It has 91% on rotten tomatoes.
+movies-8e4bec31-e67d-40a3-b67b-6630dc0c1e89;1;How much is the show?;What is the cost?
+restaurant-a188b768-0562-4036-8c1e-d8032cddc76c;1;Great, what's the weather?;What kind of weather supposed to be like there?
+movies-4cda3ce6-da98-4419-b9a3-1b30402cec2e;0;How far is the theater from where I am now?;Okay and how much do tickets cost?
+flights-4c4f48b4-649f-4ba5-b082-c3a9807653a4;1;I would like to choose that airline, so please book the ticket now.;One stop light.
+restaurant-366b057a-e6d8-42b6-93ad-1009c089127a;0;I want to have food in a restaurant, can u help me? Yes, formal and has some organic food.;Yeah, what's the address of that again?
+flights-e11de364-0a20-46dc-9ee7-fcf9aa4ca5b8;1;Yeah, it'll have to be on the 8th and want to find my girlfriend is in Pittsburgh.;I want to find my girlfriend is in Pittsburgh.
+movies-01e76dc2-6292-4d1b-a13a-a48fd359fbff;0;I need that one.;I prefer watching it online.
+movies-db3dab7d-6625-4ce9-8e91-6365eca5031b;0;Sure, here is a trailer for the movie Blade runner 2049.;Sure, you got it. So, around you that times will be 5:05 PM, 8:45 PM and 9:45 PM.
+flights-cb351d56-8800-4150-96dd-9473b574f843;1;Which flight would you like to choose? Least expensive or fastest?;Least expensive or fastest?
+movies-0718d578-e20e-4bd5-83a5-c4f75bd27345;0;Could you say that again? Which theater?;Okay.
+flights-3f7caa2a-3893-44a7-9398-b38ede9e9cd6;0;Could you say that again?;Yes, there are seats available.
+movies-47ea4e37-bf7e-4700-abc2-45011455f3b3;1;Yes, I'm interested in the crime genre.;I love crime movies.
+restaurant-55de441e-e4f0-47e7-bbf8-54c5337e60d3;1;And what's the address?;Where is it located?
+flights-57cb8d87-3df4-4018-8191-0bfda8469ef2;0;Okay.;Okay, that sounds good.
+movies-ee8eb04d-86e4-4351-a30a-076b9a751f02;0;Yep.;I'm looking for an action movie.
+flights-cbfc519d-93e3-404d-9db5-c5fe35a5b765;1;Oh, sure thing. Ok, Sure. What did you need in a flight?;Wait Wait, Which day did you want to fly?
+flights-673c1e74-872b-458f-b227-4a664607b8c7;0;No, I don't think so. I'm going to be flying in coach, I presume. Correct?;Okay. That will work. Can you book the flight for me?
+movies-282b9468-5ab1-4020-a4ee-ca05608f9891;1;I'd like tickets for that at 7:00 P.M.;Is there any movie showing at 7:00 P.M?
+flights-b833870d-b604-4ea0-ac53-0409f87431d9;0;Okay, you will arrive in Ontario at 6:28 PM.;With a 3 hour layover in Pheonix. Is that okay?
+movies-01f6fb00-f372-49eb-b1d7-d53479da0f06;0;Okay.;Alright. Is anyone joining with you?
+movies-8e4bec31-e67d-40a3-b67b-6630dc0c1e89;1;Anything getting high reviews?;Like what?
+movies-25c67efe-057e-49c6-a28d-405683b835e5;1;What is the earliest movie time?;Movie timings?
+movies-c464d272-14c6-4a23-961a-0fe9d01dbd1d;0;Yeah, I was thinking about an action movie. Something with good reviews.;Could you tell me more about War the Planet of the Apes?
+movies-cfeae7b1-d750-483f-9aaf-5b021023e969;1;Okay, great. There is an action-adventure type of genre movie?;Yes action adventure Disney movies.
+restaurant-f533eb18-8eee-499f-94e9-f139b65d945d;0;What's the price of a pizza?;What kind of pizza do you have?
+flights-3497c9f1-3672-4464-800f-45528e9f7ad8;0;I'm sorry. What?;Yes.
+flights-0e6687fa-5af7-4d20-8539-a645fcc80e98;0;I'm going to see which one will work best for you. One moment. Hold on. I found a flight for $960 that leaves Los Angeles at 4:10 PM and arrives in Venice at 9:55 PM. Will that work out for you?;Do you have any specifications for the return home flight?
+flights-16bc9bb3-c60e-4858-8e82-5ba517d9ff84;0;That sounds fine to me.;Nope. That should do it.
+movies-2994a1ec-1d67-4661-8b96-9f4e52613d8c;0;What time? 5:15 P.M. or 8 P.M. Which time do you want?;Could you say that again?
+flights-f4dd3923-5e44-4f2d-81bb-2e97f7e3e526;0;When would you like to return?;Can you give me the specific dates that you would like to leave and return on?
+restaurant-385b7836-5141-477a-9c38-abfa7cd252ac;1;I'd like it to have some signature cocktails.;Cocktails. Drinks.
+flights-66a3b2bf-f380-4690-9da5-d69da0b85bea;0;What seating class?;Do you have a price limit?
+flights-7e73b4de-45f6-4d6c-962c-3cd4d3132e38;0;Can you repeat that please?;$1,491.
+flights-c5207f91-84ae-49d4-b2e1-abcb9ce32c98;1;Okay. 12:40 p.m. is fine.;That's fine.
+movies-3e94826c-4c04-4069-9ee4-f652a5ff4a89;1;Choices as in movies?;Are you asking about other movie choices?
+restaurant-6ecc713c-99d8-4c8a-981a-51d3dd95cf91;1;A restaurant with a lot of reviews and lots of high ratings.;Lots of high ratings.
+movies-c9cf4423-de28-4ca8-bd76-e948723b81b2;1;Ok. One moment. How about the movie Home Alone 4?;How about the movie Home Alone 4?
+flights-01ff0a9f-8602-462a-affc-28039002fe80;0;Yes. It's AA 6185. Is that all?;Alright, goodbye. Enjoy your flight.
+movies-09a5fc15-062c-4b07-95ad-e8b1b83d8db3;0;Yeah, that sounds crazy. And you said this is on YouTube?;Okay. I think I'm going to go ahead and watch it. It sounds pretty interesting to me.
+flights-da6c3827-61b1-4d48-90ac-b4347ab8a8e4;0;Hi.;Sure thing, I can help you with that.
+flights-b66be9d3-fd02-46e6-9baa-17e0271525dd;0;Okay.;Oh, okay. Just pick the earliest.
+movies-78fdcd79-eb79-4448-a733-5765f527619f;0;I'd like something close by within 5 miles.;I'd prefer something that was well rated.
+flights-1450042a-7d3a-463f-9a6b-ff0b8501982c;1;Okay. Can you choose one that's closest to my location?;Yes. Like the closest airport.
+flights-69fb5a60-ebad-4cf6-ae1e-54fa5cdf99bc;0;I have a flight at 5:15 A.M. with one stop in Atlanta or another flight at 12:56 P.M. with one stop in Detroit.;Okay.
+flights-1450042a-7d3a-463f-9a6b-ff0b8501982c;1;Yes. Like the closest airport.;The closest airport to me.
+food-718b4288-8025-434e-8133-27f9d22cbdb6;1;I need to order a large pan of lasagna and a side order of garlic bread.;Side order of garlic bread.
+movies-d0cdfa1b-b2d2-44bc-840e-81183f7721b6;0;What does that mean?;I don't know. What is high?
+restaurant-85a8e322-3591-4836-9fdc-e245be7237b3;1;2 dollar signs.;No.
+food-967c0f62-38c3-4357-bd1e-a56011a60e1c;1;What style of burritos would you prefer?;Okay, Sure thing. Mexican burritos.
+restaurant-ac3e2c96-717a-42e6-be89-3aa9875bd319;0;I'd like you know, just plain old American meals.;A reasonable price, you know, under $30 a plate and evening dinner.
+movies-9cee8c61-f377-435f-9fbe-060487eba83f;0;What's the movie rating?;Who's the director?
+flights-b391bbe3-dc9b-4efd-b7f0-45c46dd052ea;0;Which is the one that's cheapest?;Right. And is that still a 24-hour trip?
+movies-89450314-0457-4c81-b8f2-7c2dfd97f47a;1;Okay, are any of them available on YouTube?;Are any of those available on YouTube?
+movies-15a24327-42cb-4548-af40-e1fc3bda0aaa;1;Hi. Today, I need help finding a movie to rent and watch at home. I have one in mind. I'm looking to find the movie Raging Bull, and I'm hoping that Redbox has it.;I'm looking to find a movie to watch. I'm looking for the movie Raging Bull.
+flights-f59fbddb-c6ea-4780-8afa-fd788d6fc604;0;Great! Thank you.;No, that'll do it.
+movies-dee729a3-d94e-415c-955a-2700f962d70b;0;I would like 4:10 p.m please.;Okay, thank you.
+flights-b6b616a4-77c0-41d1-8973-9255191f3acb;1;Hi assistant. I was wanting to book a round trip flight from Sacramento to Denver leaving today and returning in 5 days. And I'd like both flights in the morning if I can.;I'm sorry, what was that?

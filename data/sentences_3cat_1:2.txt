@@ -1,0 +1,1505 @@
+What was that?	1
+Sorry?	1
+Just to confirm you would like to order two large bacon, egg and cheese breakfast burritos and the side of guacamole. Is that correct?	3
+American.	0
+I mean like can I have a kid's menu as well.	3
+Oh, I'm sorry. Yeah, I need a flight. A round trip flight from LA to London leaving this evening and returning in the evening 5 days later.	3
+I'm sorry there are no flights for less than a $5,315.	3
+How about American airlines?	0
+Could you say that again please?	1
+You know what? I changed my mind. I'd like to go to a Mexican restaurant instead.	3
+Three people for 8:30 p.m.	0
+Hold on, one moment. So to confirm your order. I have two hot dogs. The first hot dog has sauerkraut and mustard. The second hot dog has mustard, sauerkraut, relish and onion and an order of french fries on the side and 2 Diet Cokes. Is that correct?	3
+Yes, please.	0
+Please speak English.	1
+Okay. Can you confirm the date?	3
+Just to confirm, Would you like to order a large cheeseburger with tomatoes, Pickles, Cheese, Lettuce?	3
+What do you mean Valeria? Chinese. Okay, Orlando.	3
+Could you say that again please?	1
+Sorry. I thought you were saying that was the title for just one movie, the first one.	3
+Tv rating, you mean?	1
+Just to confirm you would like to order beef shish kebabs. Chicken tandoori. And green chicken curry.	3
+I didn't quite catch that.	1
+What?	1
+Yes, it is available on iTunes from $4.99.	0
+April 1st until the 15th and just to confirm you are flying from Los Angeles, Is that correct?	3
+Could I just confirm the dates?	3
+Okay, my understanding was that you wanted a kid-friendly animated movie with Denzel Washington as the voice-over. Are you changing your mind now?	3
+Alright.	0
+Okay, any other preferences?	0
+Okay, what movie was that again?	3
+On Rotten Tomatoes.	0
+That's awesome. But I have a change of plans for the type of food if you don't mind changing that. I'm sorry about that. I want to look for an Italian restaurant to eat.	3
+I'm looking for some Thai food.	0
+Alright. Alright, You need what?	1
+Please repeat that.	1
+Could you say that again?	1
+I mean they sound good to go to these restaurants, do they have the ratings of some kind?	3
+What?	1
+What?	1
+Yes, please.	0
+Any what?	1
+Could you say that again?	1
+Pizza.	0
+I am sorry, there is no nonstop flight.	1
+Let me check. I'm sorry but Big is not on Xfinity. Let me see. Big is available on iTunes, Google Play and Starz.	3
+Please, repeat that?	1
+You will leave Houston at 8:30 A.M. and arrive in Orlando at 11:43 A.M. Do you mean Mar 27?	1
+And what restaurant was that one for, I mean address?	3
+Drama type movie.	0
+Can you please repeat that?	1
+Let me just confirm your order. You would like to order two Large Pepperoni & Sausage pizza, Fettuccine Alfredo, three House salad with Ranch dressing, two regular Cokes and one Diet Coke. Is that correct?	3
+Let me see what I can find.	0
+This movie looks interesting. Is there any showtimes for tonight?	0
+Just to confirm you would like to order one medium pizza make chicken sausage, pepperoni and jalapeno peppers and one large water bottle.	3
+Okay. I'll take them. Show me your direction.	0
+Yes, I'd like to travel in business class, please.	0
+Okay, anything else?	0
+I apologize, can you repeat that?	1
+Okay, can you repeat the dates again?	3
+May 8th or May 9th?	1
+Hi. I'm looking for a movie to watch tonight. I'm in Tacoma, Washington near the University of Puget Sound.	0
+Just to confirm your order once again it would be three bacon breakfast burritos with three large hot coffee.	3
+Just to confirm you would like to order three large beef burritos with white cheese. Is that correct?	3
+Yes. That'll be great. Thank you. Can you confirm when it'll be ready for pickup, please?	3
+For the return, how about 8:05 PM?	0
+Okay.	0
+There is a few recipes available.	0
+You are welcome, enjoy your day.	0
+Can you give me some specifications?	0
+Before she was wonder woman (Gal Gadot), she was Diana, princess of the Amazons, trained to be an unconquerable warrior. Raised on a sheltered island paradise, Diana meets an American pilot (Chris Pine) who tells her about the massive conflict that's raging in the outside world. Convinced that she can stop the threat, Diana leaves her home for the first time. Fighting alongside men in a war to end all wars, she finally discovers her full powers and true destiny.	0
+Also, I would like economy.	0
+Can you confirm the number of adults that would be traveling along with you?	3
+I understand what you stated, but let me work on one leg at a time.	3
+Thank you so much.	0
+Okay. Enjoy. Bye. Until next time.	0
+How can I help you?	0
+Jerry movie? is that what you said?	1
+Can I see a trailer for District 9?	0
+Can you repeat that?	1
+Would you mind repeating that?	1
+Okay you are flying to Maryland and just to confirm your flying from Seattle is that correct?	3
+Just one moment. To confirm your order. I have one sausage breakfast burrito, one vegetarian breakfast burrito and one bacon breakfast burrito. Is that correct?	3
+Yeah, I need to leave today and return on the 24th.	0
+Signature what?	1
+Hi, how may I assist you? Sure. What are those dates?	0
+Okay.	0
+Okay, just to confirm we're looking for flights from Houston to Berlin. Is that correct?	3
+So just to confirm you would like to leave Saturday February 18th and come home Monday February 20th.	3
+Let me confirm your order. You would like to order one clam chowder soup; chicken noodle soup and the side of grilled cheese sandwich?	3
+Just to confirm you would like to order hot dogs for three people.	3
+Hi, I'm looking to rent a movie at home.	0
+Yes.	0
+Like what?	1
+What was that?	1
+Could you say that again?	1
+Sorry could you please repeat?	1
+I'm sorry can you repeat what days you will be traveling?	1
+Non stop and a First class ticket.	0
+What?	1
+Sorry, I’m not sure how to help with that yet. You can ask about runtime, plot or showtimes or, you can just choose one of the movies.	3
+I'm sorry, did you say $8,000?	1
+And that's pretty much all I needed today. Thank you. Take care.	0
+I'm sorry.	1
+The Picnic Basket. Counter-serve cafe near the Santa Cruz Boardwalk offers locally sourced American eats and a patio.	0
+You know what? I changed my mind. Can you find me a nice sushi place?	3
+Just to confirm. You would like to order two medium breakfast burritos with sausage, egg and cheese.	3
+I'm sorry repeat that one more time.	1
+I like action based movies.	0
+Great. If you could confirm what flight is the trip for me, that's probably the flight I will be booking.	3
+I'm looking for a restaurant in La Jolla Beach in California.	0
+Ok sure. Just to confirm you are looking for flights out from Houston to Paris.	3
+What type of food were you looking for?	0
+Okay, let me confirm what you have: 1 turkey-avocado crepe with cheddar and 1 Greek Delight crepe with one brownie.	3
+Modern choice for fresh-ground sliders with all the trimmings, 50+ craft brews & alcoholic shakes.	0
+Could you repeat that?	1
+Which one do you want? I'm sorry, could you say that again?	1
+I would like to confirm my return time to be 5:30 p.m. Can I have the total and flight details, please?	3
+Okay, let me see what I can find for you.	0
+Just to confirm, you would like to order two chicken pasta salad with a side of Italian dressing and 1 bottle of red wine.	3
+5? Say those times again.	1
+Book me a ticket.	0
+The two movies seems pretty good. Just to confirm, may I know if The Magnificent seven or The Duel are available on iTunes?	3
+Goodbye.	0
+I would like to watch a horror movie.	1
+That sounds good. How much was the cost again?	1
+Yes.	1
+Sorry. Leaving from San Francisco and flying to Jamaica.	1
+Yes, the ratings about that movie.	1
+That sounds fine. Can you go ahead and make a reservation for me?	0
+Could you say that again?	1
+For the second hot dog, can I have honey, I'm sorry, mustard, ketchup, and relish? And for the third hot dog, could I have ketchup, relish, and sauerkraut?	3
+I'm sorry, I do not have that information at this time, But their menu change based on seasonality.	3
+Could you say that again?	1
+How can I help you?	0
+Just to confirm, you would like to order 2 soups.	3
+But what should I do. I mean, like what's good in my area?	3
+Indian, and just to confirm you are located in Austin, Texas. Correct?	3
+Can you repeat that, Please?	1
+Can I get a Chicken Gyros? Let's see and You know what? And two more chicken gyros and that'll be it.	3
+Like what?	1
+Thank you.	0
+I'm sorry, can you repeat that?	1
+Okay, let me confirm what you have: two burgers well done with everything on them and sweet potato fries with both burgers and a house salad with house dressing, 1 turkey-avocado crepe with cheddar and 1 Greek Delight crepe and a house salad with house dressing.	3
+Thank you.	0
+Okay. Well, you know what? I will take that flight.	3
+I'm sorry, first do you want to leave at 12:30 AM, 5:45 AM or 12:08 PM?	3
+Okay, take care and drive safe.	0
+Just to confirm you would like to order one chicken gyro and one lamb gyro with Tzatziki sauce and 2 iced teas. Is that correct?	3
+You mean to say Arrival, is that correct?	3
+Friday morning I understand and when were you hoping to come home?	3
+Just to confirm, you would like to order three large chicken sandwiches with mayonnaise, ketchup, cheese, pickles, cucumbers, vinegar, lettuce, tomatoes and jalapenos mustard.	3
+Okay, if I understand you correctly you want the restaurant to be open at 6 p.m, so you're looking for dinner times.	3
+Excuse me, could you clarify?	1
+Sure, where are you?	0
+Sorry, what was that?	1
+Okay enjoy.	0
+Just to confirm you would like to order vegetable romaine and chicken chowmein.	3
+Let me see if I can locate that for you. Hold on just a second. Sorry, I do not find a New York style sandwich shop in Santa Cruz.	3
+Okay, that was hard to understand. Let's add another factor: I'd like to keep the price under $10. Maybe that'll restrict my choices here. I'm willing to go early, though.	3
+You mean like theme parks or just the beach in general.	1
+Sorry, it is not available on Hulu Plus.	3
+What?	1
+Can you please repeat that?	1
+Yes, meatballs will be nice, mini meatballs.	1
+Goodbye.	0
+Could you please repeat those dates for me? I apologize.	1
+What was that again?	1
+Sorry, could you say that again?	1
+Okay. Let me confirm what you have.	3
+Just to confirm your order is 2 eggs rolls, Moo goo gai pan, beef and brococlli, kung pao chicekn, steamed rice for 3 people.	3
+Please, slow down.	1
+Just to confirm, You would like to order one burrito with eggs, potatoes, onions, tomatoes and bacon.	3
+Thank you.	0
+Have a great night and take care. Enjoy your movie.	0
+Chicago Illinois?	1
+$2 for a per dish?	1
+Would you mind saying that again?	1
+Do you mean tomorrow morning?	1
+I'm sorry what was the last order?	1
+Would you mind repeating that once again, please?	1
+What seating class do you prefer?	0
+Sorry, actually my algorithm messed up.	3
+I'd prefer morning for both leaving and coming back.	0
+Okay, is there a business class nonstop?	1
+What would you like to order for take out and for how many people?	1
+Let me get one lamb biryani and one sweet kabab. One sweet kebab.	0
+No, thank you. That's all.	0
+Could you say that again please?	1
+Okay, BBQ.	0
+Great, Okay. And could you tell me how long the drive is from?	0
+Yes.	0
+Just to confirm your order, it would be thin crust large size pepperoni pizza with extra cheese and 1 liter Pepsi?	3
+Sorry, I’m not sure how to help with that yet. You can ask about run-time, plot or showtimes. Or, you can just choose one of the movies.	3
+Hello, How can I help you? Sorry, What?	3
+Formal and live music, please.	0
+How much was the price again? I'm sorry.	1
+I'm sorry, did you say $250 roundtrip?	1
+Just to confirm, you would like to order one BLT, one chip buddy, 2 Ruben's.	3
+Okay, just to confirm you would like to order the following.	3
+Please repeat that.	1
+Okay. Let me look for you. Hold on just a second. I found a couple of places for you. Wu Chow and Hoa-Hoa Restaurant. Did you want any more information?	0
+It's a 9 hour and 20 minute flight from 6:20 PM	1
+Okay. Anything else?	0
+Something uplifting. Okay.	0
+Oh wait, I'm sorry, I was incorrect, it is available for rent on Amazon for $2.99 or you could buy it off Amazon for a digital copy at $12.99.	3
+Hi. Yeah, I'm looking for an Indian food restaurant. I'm located in Boise, Indiana.	0
+They didn't have any United airlines flights for tomorrow.	0
+Correct. I need to leave today and return in 3 days. Earliest flights possible, please. Please make sure they're the cheapest flights you can find and I need Wi-Fi on both.	0
+Send me the address.	0
+Google or Rotten Tomatoes.	1
+That's absolutely perfect. Go ahead and send me the info.	0
+Great. I would like to select the 5:40 p.m. afternoon departure. Can we confirm the flight details?	3
+Can you repeat that, please?	1
+Do you mean 7:05?	1
+Okay, Thank you.	0
+Okay, one second, let me check. Sorry, there are no nonstop flights for this route.	3
+Let me confirm your order. Let me confirm your order. You would like to order 3 hot dogs with relish mustard and onions. Is that correct? Is that correct?	3
+Okay let me find your flight. Hold on just a second.	0
+I'm sorry what was that?	1
+You know what? I like that what time is it playing tonight?	3
+Thank you.	0
+All right, I think that will do it.	0
+Just to confirm you would like to order 2 liter bottle of coke and 3 spicy ahi poke dishes.	3
+Just to confirm, your order is 3 hot dogs with ketchup and mustard.	3
+What was that?	1
+Can you confirm the number of people travelling along with you?	3
+Seattle. And I mean first-class.	3
+Sorry, I misspoke. I got it and I will send you the information.	3
+Hi. How can I help you?	0
+Just to confirm you would like to order one large and one small white rice with oyster sauce and moo goo gai pan.	3
+I'm sorry can you repeat that order again.	1
+All right, when are they open for dinner on Sundays?	0
+Could you say that again?	1
+Which one, the non-stop flight or the 1 stop flight?	1
+Could you repeat that please?	1
+Just to confirm your order is Chicken soup with extra chicken, carrots, tomatoes and, rice.	3
+Can you repeat the date please?	1
+I'm planning a dinner at Mother Restaurant in Sacramento, California. Could you look up some information for me?	0
+Okay. let me confirm what you have: two burgers well done with everything on them and sweet potato fries with both burgers. And one brownie.	3
+What kind of food are you looking for?	0
+I'm sorry. Say that again.	1
+I understand, let me see what I can find for you.	3
+Have a nice day, bye.	0
+What?	1
+Just to confirm you would like to order 1 regular poke salad. Is that correct?	3
+Just to confirm you would like to order; one order of fettuccine alfredo pasta, one order of shrimp with linguine sauc and one order of linguine and white clam sauce. Is that correct?	3
+Sure thing, here are the synopsis of King Arthur. After the murder of his father, young Arthur's power-hungry uncle Vortigern seizes control of the crown. Robbed of his birthright, he grows up the hard way in the back alleys of the city, not knowing who he truly is. When fate leads him to pull the excalibur sword from stone, Arthur embraces his true destiny to become a legendary fighter and leader.	0
+Anything else?	0
+Can you please repeat that?	1
+You need what?	1
+Hi, I was wondering if you can help me find a movie to go see tonight. I mean, Seattle near the University of Washington.	3
+Sorry, rating not available on Rotten Tomatoes. Star Wars: The Last Jedi has a rating of 7.5 out of 10 on IMDb.	3
+Just to confirm, you would like to order three clam chowder with some drinks.	3
+I don't understand why there's a day difference there. There shouldn't be. If I leave at 1:00 in the afternoon Well, let's say 2:00 in the afternoon, and spend an hour in Dallas, that would put me at like maybe 3:00 or 4:00. And then it's only from Dallas to Baltimore. Should only be about 2 hours flight time. And then give, you know, 3 hours difference in in time. That's not enough time to put it into the next day I don't think. and why there's a date understand difference there shouldn't be that one afternoon say 2 o'clock and noon Dallas and spend an hour and would put me at like me there for	1
+Want to cook at home.	0
+Could you repeat that?	1
+That sounds perfect.	0
+Can you confirm the dates of the travel?	3
+Okay, I understand. Just one moment. How about this one? Trailer of movie directed by Steven Stillberger. This is Schindler's list. Just one moment. How about this one? Trailer of movie directed by Steven Stillberger. This is Schindler's list.	3
+Got it. Anything else?	0
+Let's see what movies are playing near Fenway Park. Do you have any genres in mind?	0
+Movie theater.	1
+There are no flights available?	1
+Can you repeat that please?	1
+Okay. May I suggest the movie The Hitman's Bodyguard?	0
+Okay, Let me check into that for you.	0
+I'm sorry there's no information on that but it is available on YouTube Amazon video, Vudu Google Play movie and iTunes.	3
+First class and with Wi-Fi. Okay.	0
+Horror movie.	1
+Okay.	0
+Sorry, what were you saying?	1
+Hello. I need to get a flight.	0
+What?	1
+Could you say that again?	1
+Eriks deli or Zoccolis delicatessen or Togos.	0
+Just to confirm you would like to order one chicken quesadilla?	3
+Do you like comedy?	0
+Yes, they take reservations.	0
+It will fly out at 9:25 PM and arrives at 5:55 AM.	0
+What are we sorting?	1
+I'm sorry, can you repeat the question?	1
+Say that again?	1
+I will send you the details now.	0
+I understand, let me see what I can find for you. Please hold for a moment. Well, I have found Parts and Labor.	3
+Ok enjoy.Bye.	0
+I'm having technical difficulties. Sorry, I can't help you.	3
+Just to confirm you would like to order hot dog for yourself.	3
+Just to confirm, you would like to order mustard chili and spaghetti with meatballs. 2 diet cokes and extra parmesan on the side. Is that correct?	3
+What?	1
+Okay, sorry. My girlfriend just told me she's not in the mood for Thai. Could you find me some Chinese restaurants with the same parameters?	3
+$300 for a movie?	1
+Just to confirm your order would be 3 bacon breakfast burritos and three large cokes.	3
+You need what?	1
+Can you confirm the dates of your travel?	3
+It is not available on Xfinity, I'm sorry.	3
+I was hoping I could find a formal restaurant that has vegetarian dishes.	0
+I'm sorry you said take out or go out?	1
+I understand flights for less than $800.	3
+Thank you.	0
+Sorry?	1
+Sure. is this for dinner tonight?	0
+Which one sounds good?	1
+I'm sorry, I did not catch that.	1
+Just to confirm you would like to order three hot dogs with everything on it, three large fries and three Cherry Cokes.	3
+What else? Is there anything else you need?	0
+What?	1
+The Trailer is unavailable, sorry.	3
+Who stars in that?	1
+Please wait for a moment. What else? Okay, Got it, Please list your preferences again.	3
+Sorry, but there are no non-stop flights available in the morning. The earliest business class flight is 6:35 PM.	3
+Theater district. Do you mean like a restaurant near a theater?	1
+What is your price limit?	0
+The first show at 3:40 p.m. then 6:40 p.m. and 9:40 p.m.	0
+I'm sorry?	1
+Just to confirm, Chicken with cashew nuts. Is that correct?	3
+Sure thing.	0
+There are two times for 9. 9:30 p.m. Or 9:50 p.m	0
+Just to confirm you would like to order two sandwiches.	3
+And we would like a casual restaurant.	0
+Sorry, could you say that again?	1
+Can you confirm the dates of your travel?	3
+Just to confirm, you would like to order three orders of pad thai?	3
+I'm looking for a family atmosphere to be sitting in, that is rated four to five stars and one that is primarily cozy and relaxing.	0
+Okay, can I confirm your location?	3
+Hi Assistant, I would like help in finding a movie to go see in a theater.	0
+At $16. $16,000 is my price. I mean, I'd like the restaurant to feature Margarita's specials and I can order at the Kansas.	3
+Okay, I'll take two tickets for that.	0
+I'm sorry, it seems that movie is unavailable in your area.	3
+Enjoy your meal.	0
+I mean Davis, California.	3
+Sure. I can help you with that. I have a highly recommended seafood restaurant called the Hog Island Oyster Company. Would you like to hear more details about that one?	0
+Okay. Can you confirm the travel dates?	3
+Just to confirm you would like to order one BLT sandwich without pickles.	3
+Could you say that again? Did you say 4:00 p.m.?	1
+Is that round-trip for both tickets?	0
+I want to get an order of rice, singular Mexican fried rice.	0
+Can you please confirm the dates of your travel?	3
+There aren't any google descriptions, so sorry about that.	3
+Can you please repeat that?	1
+I understand that. How many stops or do you prefer a nonstop?	3
+What?	1
+Could you say that again?	1
+Great. Any layovers?	0
+I understand. Let me see what I can find. I have found a few movies for you, Get out, Split, Rings, Underworld Blood Wars, The Shallows, The Conjuring 2.	3
+Can you please repeat the question?	1
+You know what? I think I'd rather have a seafood place.	3
+Okay. Let me confirm what you have. 1 large pizza with one half Pepperoni and one half Mushroom and a salad with house dressing.	3
+Okay, can I have one with egg, cheese and ham? The other with bacon, sausage and ham.	0
+A bar? No, more of like a family sit-down restaurant.	1
+The other is called alien covenant.	0
+$965 leaving at 7:15 PM with one stop.	0
+Yes this is for Hd.	0
+Side order of what?	1
+Okay, Sorry about that. It should be fixed now.	3
+Okay, that ticket is now $451 that leaves at 8:35 AM and arrives at 12:12 PM, it is only 6 hours and 37 minutes, which is less than the 11-hours flight before. Would you like me to book this now?	0
+One second. Can you please repeat your order?	1
+Here’s another​.​ Togo’s Sandwiches, a counter-service chain offering made-to-order hot & cold sandwiches in straightforward surroundings.​​ Last one. The Picnic Basket, a counter-serve cafe near the Santa Cruz Boardwalk offers locally sourced American eats and a patio.​ ​​ What sounds good?​	0
+I'm sorry, what's that again?	1
+Okay.	0
+Okay. So, tell me again. Which one was five?	3
+You meant business class?	1
+He is playing at 12:50 p.m., 1:35 p.m., 7:30 p.m. and 10:50 p.m. in 3D.	0
+I'm not sure what you mean.	1
+Just to confirm, you are looking for a restaurant which is located in downtown La Jolla, California, is that correct?	3
+Would you like to see the trailer?	0
+4.4 stars out of 5 with a hundred and twenty nine Google reviews so far. Would you like me to reach you everything on the menu?	0
+Do you mean economy class?	1
+Let me confirm your order.	3
+Okay, could you repeat everything back to me so I want to make sure I have it all correct?	3
+Okay, I understand. I will send you the flight details now.	3
+What was that?	1
+Thank you.	0
+Sorry?	1
+Please repeat?	1
+Let me check. I'm sorry but The Shining is not available on Xfinity, it is available on Netflix, Amazon, iTunes and Google Play.	3
+Your total with American airlines is $2689. I'll send you the flight details.	0
+So, you mean February?	1
+Bye.	0
+Yeah, you're right. You know what? Make it three. I'm glad I made it three.	3
+Please repeat that.	1
+I'm hungry.	0
+Let me check some options for you.	0
+I have none, thank you.	0
+I was thinking pizza. I would like to have sinking two pepperoni and bacon pizzas with light sauce and that should be up for me.	0
+You know what? Actually, I'd rather have Italian food, please.	3
+When would you like to go and when would you like to come back?	0
+Would you mind saying that again?	1
+Could you repeat that?	1
+Could you say that again please?	1
+Hi. How can I help you? Okay, Midtown Sacramento.	0
+I'm so sorry. Give me a second, I will check that for you. I have found a flight which departs Sacramento at "6:45 p.m." that arrives at Salt Lake City at "9:27 p.m.".	3
+That is what I said, sorry about my accent.	3
+Same what?	1
+I'm sorry, there are no non-stop flights available.	3
+Does Larrupin have vegetarian options?	0
+What is the atmosphere like in Dominica's?Bierleichen Atmos Dominica.What I mean is, is Dominica's family-friendly?	3
+How much do you want to pay for your meal?	1
+Okay, 7:45.	0
+I understand in what class of ticket would you like to book.	3
+So, to confirm your order that was one large pepperoni pizza with mushroom and a two liter bottle of coke, is that correct?	3
+Is the first movie available on Netflix, the girls?	1
+Just to confirm you would like to order 3 gyros, Three Sprite and a side of octopus. Is that correct? Is that correct?	3
+Okay, let me look. I'm sorry, but there are no morning flights.	3
+Okay, that one sounds good. What are the showtimes again?	3
+Can you repeat that, please?	1
+I understand. Let me see what I can find for you. Let me see what I can find for you.	3
+OK. Let me confirm what you have. 1 large pizza with one half pepperoni and one half mushroom. One salad with house dressing.	3
+5227 Fort Caroline Road, Jacksonville, FL 32277.	0
+Thank you.	0
+Sorry, how much?	1
+Let me find those flights for you. I just want to confirm you are leaving from Seattle Washington. Is that correct?	3
+Yes, they are both open at 8 pm, one closes at 9:00 and other at 10:00.	1
+Hello.	0
+When?	0
+I'll take that. Sorry, what was the second one?	1
+Okay, Great. So, just to confirm, you said it was at 8:00 again?	3
+Can you repeat that, please?	1
+Okay.	0
+Okay let me see what I can find for you. Hold on. I'm sorry but I'm having trouble finding mystery movies directed by a female director.	3
+Tuesday 21st.	1
+Alright, I've got those details and let me confirm you want this to be business class, is that correct?	3
+Excellent, I can help you find a place to eat, what type of cuisine sounds good to you?	1
+Could you say that again?	1
+IMAX theater grade and I would like to know is there a family movie showing tonight?	0
+Huh what?	1
+Alright I found 2 restaurants for you to choose from.	0
+Okay, great. I would like to purchase two tickets for the 5:30 movie.	0
+Could you say that again?	1
+Okay, Quite Amazing Frontier is the airlines.	0
+You will come up with this for you and send you the itinerary now.	0
+Just to confirm, you would like to order beef lasagna with extra cheese and a caesar salad with breadsticks, is that correct?	3
+Just to confirm your order would be black fries, Small Greek salad with no tomatoes but with extra Tzatziki sauce?	3
+When do you want to leave?	0
+Okay. Let me confirm what you have. 1 market burrito with black beans and spicy salsa and 1 chicken taco platter with refried beans and 1 salad with house dressing.	3
+For lunch or dinner?	0
+Could you repeat that?	1
+Just to confirm you would like to order one medium pizza with chicken sausage, pepperoni and jalapeno peppers.	3
+That is the latest flight available.	0
+Okay. It's possible.	0
+I'm looking for a movie theater playing near my location.	0
+Are they open for Sunday?	0
+Nozomi's it is. Great, enjoy your food.	0
+Okay. Is there anything else?	0
+Just a good one.	0
+Just to confirm breakfast burritos for 2 people?	3
+Seattle?	1
+Sorry, I’m not sure how to help with that yet. You can ask about ratings, plot, or showtimes. Or, you can just choose one of the movies.	3
+Can you confirm the number of adults that would be traveling?	3
+I'm sorry?	1
+Yes.	0
+Let's go with Chef Prudhomme's. That sounds great. What's the average price for a meal there? Let's go with Chef Prudhomme's. That sounds great. What's the average price for a meal there?	0
+Just to confirm you would like to order three large bowls of chicken noodle soup and 3 Diet Cokes.	3
+Okay, a new released movie. Is that right?	1
+And also can you confirm the dates of your travel?	3
+What was that?	1
+What was that?	1
+Just to confirm your order, 1 beef lasagna additional meatball, One veg lasagna and 4 pieces of sourdough bread and two cannolis?	3
+Just to confirm you would like to order three different kinds of soup.	3
+Okay, I will add that to the order. To confirm your order is two burgers sweet potatoes on them, fries with both and a house salad with house dressing, is that correct?	3
+Just to confirm you would like to order chicken fettuccine alfredo and spaghetti with meatballs.	3
+Tell me the first one again. The first one again, please.	1
+Could you repeat that please?	1
+On Sunday, dinner hours are from 5:00 PM - 9:00 PM.	0
+Let me confirm that once again.	3
+I can help you with that I'm sorry but I'm having a hard time finding a fantasy movie that is based on a true story.	3
+Oh, I'm sorry, there was nothing that was 2014.	3
+That would work. The 9:00 A.M. one was good. It's good timing for me there. I mean for me to be there.	3
+Can you get me two adult tickets for the latest showing?	0
+I'm sorry, I've searched, I do not find an exact date for you.	3
+Could you say that again please?	1
+Let me confirm the details of this flight.	3
+Is there any way that I can get a flight that goes out in the morning? And, then the one that comes back, it could be any time. And, I'm hoping to get either Delta, United I don't know if Southwest goes.	0
+Can you remind me of the actors that are in Dunkirk?	0
+Just to confirm, your order would be 3 regular hot dogs and fries.	3
+Molly's Game sounds good. What time is it showing? Fill me in, please. Thank you.	0
+Just to confirm you're flying out of New York City, is that correct?	3
+Okay. Let me confirm what you have.	3
+What do you mean?	1
+What?	1
+Awesome. That's actually pretty good.	0
+I'd like to go and watch it in the standard. What is that time again?	1
+Just to confirm you would like to order 2 Alfredo chicken pasta.	3
+Can you repeat that?	1
+Awesome.	0
+Okay and can you tell me the name of it again?	3
+What?	1
+March 25 or March 24?	0
+What?	1
+Say that last part again?	1
+Okay, thanks.	0
+I'm sorry, what did you say about the tickets?	1
+Just to confirm you would like to have one large beef burrito with a side of guacamole, is that correct?	3
+2:30 p.m. You've got it. I will book the tickets for you and email them to you. Enjoy your movie! Enjoy your movie!	0
+Could you please repeat that?	1
+Can you please confirm your location?	3
+Sorry, I didn't catch that.	1
+Okay. I just want to confirm you leaving from New York City is that correct?	3
+Okay. Let me confirm what you have: two burgers well done with everything on them and sweet potato fries with both burgers and one brownie?	3
+You know what? I have changed my mind. Can you find me an Italian restaurant instead?	3
+Okay, that's what I want.	0
+Okay. Okay, That will work. On the way back what? On the way back what?	3
+Can you please repeat the third one?	1
+Can you repeat that?	1
+Sorry, could you say that again?	1
+What was that?	1
+There's no nonstop flight, right?	1
+Can you repeat the question, please?	1
+I understand, would you prefer a nonstop flight?	3
+Is there a particular thing that is most important to you when searching for restaurants?	0
+Yes, but actually, I need a round trip. Sorry about that.	3
+It sounds good.	0
+Just to confirm you would like to order to Chicago-style hot dogs. Is that correct?	3
+Yes, I'm ready.	1
+Can you repeat the question, please?	1
+Do you mean movies?	1
+Sorry about that. I put you on too loud. Does Park Winters serve cocktails?	3
+Can you repeat that please?	1
+Which one would you like or would you like more options?	1
+No. Even at 8 hours then, starting at 2:00 in the afternoon, that's only 10 hours. It would have to be 12 hours or more.	1
+Please, repeat that.	1
+Hi. How can I help you?	0
+Just to confirm you would like to order one chicken thai curry with brown rice and mixed vegetables.	3
+Okay. Let me confirm what you have.	3
+Could you ask that question again?	1
+Are they kid-friendly?	0
+Can you repeat your question?	1
+Like what?	1
+Can you repeat the question?	1
+8 out of 10 on what?	1
+it's a 4 hour flight time from dallas to seattle	1
+Can you confirm with me where you are flying out from ?	3
+Sorry, You lost me at where?	1
+Okay. Where are you right now? I have found a couple of options for Thai Cuisine. Would you like me to save them for you? The first is Ketmoree Thai Restaurant and Bar, a Hopping eatery & nightclub featuring traditional Thai cooking, live music, DJ nights & cocktails. The second is Sophia’s Thai Kitchen, a Snug, enduring bar & eatery with a tropical feel offering country-style Thai fare & live folk music.	0
+The Picnic Basket is located at 125 Beach Street.​​ What sounds good?	0
+Yeah, Mexican burritos. Is that what you mean? I didn't know there was more than one style.	1
+Okay and what else can you tell me?	0
+Let me confirm your order once again.	3
+I understand this is for a family reunion. Are you going to be having a return flight?	3
+What?	1
+Action, got it. One moment. How about Black Panther, or Samson, or Hostiles?	0
+Do you want showtimes?	1
+Okay, just to confirm you're looking for a flight from Houston to Rome Italy.	3
+Sorry, what was that?	1
+Okay, that sounds pretty good. Is it near downtown and does it have table service?	0
+Could you tell me what more about them? I mean each one.	3
+What?	1
+What did you say?	1
+What does that mean?	1
+Okay, $939 leaving at 9:25 P.M with one-stop with WiFi.	0
+Just to confirm you would like to order one order of Chicken Masala, Butter Chicken and a side order of Samosa. Is that correct?	3
+Great. Thank you for the information.	0
+Okay, thank you.	0
+Hey, I'm headed out to dinner for one at Seasons in Seasons, California. Oh, I'm sorry Seasons in Davis, California. And I want to head out this Sunday but I don't know when they're open for dinner?	3
+I can search for pizza nearby, can you confirm your location for me, please?	3
+Did you said 22nd of March?	1
+Okay, let me confirm what you have. 1 market burrito with black beans and spicy salsa and 1 chicken taco platter with refried beans and 2 ice teas.	3
+Hi, How can I help you? Sure thing, just to confirm you need the flight form Seattle to New York?	3
+Just to confirm you would like to order one thin crust large pizza with Mushroom Pepperoni and Olives, 2 litres of diet coke. Is that correct?	3
+Repeat.	1
+It should be romantic comedy movie.	0
+I'm sorry but it looks like none of the recommendations are available on Netflix.	3
+Hi, I'm hungry, I would like to eat something.	0
+Like $8 or less.	0
+Okay, do you want me to repeat the restaurants?	3
+Hold on Just a moment. For your takeout order, I have one butter chicken, they're special one non bread and one side salad. Is that correct?	0
+Just one moment. Hold on. To confirm your order, I have three hot dogs with everything with a 3 sides of fries and 3 large Cokes. Is that correct?	3
+Earliest showing is 4:30 p.m. AMC Mercado 20.	0
+You know what? I changed my mind. I think we'd like pizza.	3
+Okay, great. Thank you so much for your help today.	0
+Sorry, I’m not sure how to help with that yet. You can ask about runtime, plot or showtimes. Or, you can just choose one of the movies.	3
+Can you repeat that for me, please?	1
+Let me confirm your order.	3
+I'm sorry? Say that again. Two Greek coffees? Are you asking me if I want Greek coffee?	1
+Could you say that again?	1
+Okay. I'd prefer if it was a box-office hit.	0
+Could you say that again?	1
+I cannot confirm.	3
+May 27th, I meant.	3
+Up to $12. I would also like to clarify that I want a slice of pizza not the whole pie.	3
+Sorry, What did you say?	1
+Okay, I understand.	3
+Sorry, we can only give you this information for now.	3
+Dog.	0
+Could you say that again?	1
+Do you mean the price?	1
+Could you repeat that please?	1
+Okay, Let me confirm what you have: 1 large pizza with one half pepperoni and one half mushroom and brownie. Your order will be ready for pick-up in about 20 minutes.	3
+I'm sorry Baby driver isn't available. None of them are on Netflix but you can rent them from Google Play or YouTube or Amazon.	3
+You know what? I changed my mind. I think I'd rather have sushi.	3
+Hi. I would like to find a round-trip flight from Seattle to New York City. Can you help me with that?	0
+I understand let me see what I can find for you. This will just be a second. I found a flight departing this evening at 6:51 PM will that work? This will just be a second. I found a flight departing this evening at 6:51 PM will that work?	3
+Can it be a Carne Asada breakfast burrito, please?	0
+Okay just to confirm you're looking for a flight out from Houston to Paris correct?	3
+Sorry could you say that again?	1
+Alright. I'll look that up for you.	0
+Okay, perfect. Let's go with that one. That's all I needed.	0
+Thank you.	0
+Not particularly. It's sushi. I understand that it's going to be expensive.	3
+What kind of soup would you prefer? Just to confirm you would like to have a large clam chowder with some crispy bread crumbs.	3
+11:00 P.M.	1
+Can you tell me about the the second restaurant again, please? Okay.	3
+Can you repeat that, please?	1
+What?	1
+Thank you.	0
+I'd like it to be sit-down. And then lastly, I'd like the price per person to be under $15.	0
+A certain what?	1
+Horror.	0
+And, what kind of?	0
+Okay, only one time to fly with American at 8:20 a.m.	0
+What was that?	1
+Okay, give me the address, please.	0
+Would you mind saying that again?	1
+410 First St SE, Washington, DC 20003.	0
+Round-trip?	1
+Could you say that again?	1
+What?	1
+What was that?	1
+Sorry, I mean 2 layovers at least. For 2 hours.	3
+Would you mind saying that again?	1
+There are 10 non-stop flights to choose from.	0
+Please repeat that.	1
+Yes, please. Go ahead.	0
+One second. I'm sorry but I wasn't able to find any locations with those hours.	3
+I'm sorry, did you have a question?	1
+And just to confirm, are you flying out of Seattle?	3
+I'm sorry, I misspoke up Stiles switch.	3
+How do you mean?	1
+I understand. I have found a flight departing LAX at 7:30 PM, this is a nonstop flight.	3
+Hello.	0
+Okay. Let me confirm what you have. 1 large pizza with one half pepperoni and one half mushroom and 2 Iced teas.	3
+Just to confirm your order, you would like to order 2 pad Thai, one Drunken Noodles and three Water bottles. Is that correct?	3
+Yes, Cafe Beaujolais does do reservations you would have to call them by their phone number or on their website.	0
+Okay. That sounds good. I understand there's no nonstop.	3
+Could you ask that again?	1
+I think I like to cook at home.	0
+Okay. Yeah, I think the Erik's Deli will be best. Thanks.	0
+I'm sorry did you say three burritos?	1
+Excellent. Please, hold.	0
+Let me find out information for you. Damien Chazelle has directed 10 Cloverfield Lane, Whiplash Grand Piano and The Last Exorcism Part 2.	0
+Okay. I will take the 5:00 p.m. for two people.	0
+Come again?	1
+There are, but do you mean playing now?	1
+John Wick: Chapter 2, how do you mean crowd favorite?	1
+Alright, sure thing you're all set.	0
+How can I help you? Just to confirm, you want to order breakfast burritos?	3
+Sorry I can't understand you.	1
+Okay, sure thing. Chinese takeout and anything else?	0
+I'm sorry, what did you say?	1
+What do you mean?	1
+Please repeat.	1
+What was that?	1
+Come again.	1
+I understand. I have found two places you may be interested in. Taqueria Guadalajara Grill. Long-running restaurant serving home-style Mexican dishes & beer in a casual setting and Chuy's Taqueria Good food, reasonably priced, nice folks. Which place would you prefer?	3
+Hi. Could you help me get some information about Park Winters in Winters, California? The restaurant I mean.	3
+Tell me more about it.	0
+I understand let me see what is available for departure today? Do you have a plan return day or is this a one-way trip for now?	3
+Come again.	1
+From where?	1
+Bye.	0
+Did you say that is not okay?	1
+Okay, Would you like me to make a reservation?	0
+Does that mean Friday or Saturday?	1
+Okay. And ratings? Greater than 5 on what? And ratings? Greater than 5 on what?	3
+Just to confirm, You would like to order one chicken gyro with extra sauce, Fries and one diet coke.	3
+Thriller.	0
+How about the hole in the wall or Sequoia Burger or handline Coastal California?	0
+Any genre.	0
+It is showing in 3D IMAX.	0
+Preferably what?	1
+Oh yeah, give me the synopsis.	0
+From Us? I'm sorry. Could you repeat where you are coming from?	1
+Just to confirm you would like to order 1 Falafel platter, 1 Souvlaki platter with Big Greek salad on the side. Is that correct?	3
+I'm in downtown Davis, California.	0
+Sorry, I didn't catch that.	1
+Nonstop?	1
+Just to confirm one poke with tuna, soy sauce, sesame oil and chili peppers.	3
+No, about that movie's ratings.	1
+Just to confirm that you would like to order 3 Polish Boy hot dogs. Is that correct?	3
+I'm sorry, February 14th 6 pm. Is that right?	3
+Sorry, I do not have that information yet.	3
+Sure.	0
+Hey. I'd like help finding a restaurant.	0
+Okay.	0
+Okay, depending on what?	3
+Okay, cool. What are the showtimes for that tonight? By the way, I meant Davis, California.	3
+Yeah, I mean for both flights. Coming back on the 20th.	3
+Okay. That sounds okay. What time is the flight leaving again?	3
+I am sorry to say, all flight have at least 1 layover. Is that okay?	3
+Got it.	0
+Okay, what kind of burritos did you want? Could you repeat that please?	3
+Could you tell me about it?	0
+No problem.	0
+What do you mean by platform?	1
+I didn't know there were two of them. Can you say them again?	1
+Okay. Where are you? What would you like to eat?	0
+Just give me a moment. So I found a few movies. Do you want me to list 3 out of them?	0
+Go back to the third choice.	0
+Yeah, could you send me a link of the trailer?	0
+Okay. Taco Surf the same restaurant. Could you tell me about the first one again?	3
+I just like to confirm that that is the latest possible flight, That is the cheapest possible flight, And that the flights in those likes have inbound Wi-Fi. Can you confirm those for me, Please?	3
+Can I know for how many people? For two people?	0
+Can you give me those dates again?	1
+Can you please confirm the dates of your travel?	3
+Total is $228. I'll send you the details.	0
+Can you clarify that question?	1
+What was that?	1
+Yes, they serve cocktails.	0
+Yes, let me check that for you. Can you confirm the dates of your travel?	3
+Okay I looked at for you would you like me to repeat your itinerary to you right now or just email it to you?	3
+Alright. Enjoy your meal there!	0
+What was that?	1
+Would you repeat that please?	1
+From your current location the movie theater is 4.5 miles away.	0
+Please let me first get your first request, I will need to ask you when you wanted to come back, sorry I did not catch that?	1
+The least expensive flight is $574 leaving at 5:38 P.M. with two stops.	0
+Then, you will arrive in seattle at 9:39 PM.	0
+They cost around $2000 for an economy seat.	0
+Can I do Before I Fall?	0
+You, Too.	0
+You know what? I changed my mind. I want sushi.	3
+Yes.	0
+I'm sorry. Actually, I'd rather have American food tonight. Is that okay?	3
+Great. Is there anything else I can do for you today?	0
+Just to confirm you would like to order pastrami sandwich and an egg sandwich and 2 coffees.	3
+Just to confirm you would like to order white rice Teriyaki Thai with two liters Coca cola?	3
+The dress code is classy.	0
+Sorry, can you please repeat?	1
+Oh, great! That's awesome. Thank you so much. I'm going to rent that one.	0
+Let me check. This will just be a second. I'm sorry Apollo 13 is not available on Xfinity but it is available on Amazon iTunes and Google Play. This will just be a second. I'm sorry Apollo 13 is not available on Xfinity but it is available on Amazon iTunes and Google Play.	3
+Say that again.	1
+I'm sorry, I meant to say the best price or the shortest flight time.	3
+Okay, so just to confirm you're looking for a flight from Houston to Prague.	3
+Hi. How can I help you?	0
+Is The Hangover available on Spectrum? I mean, is it available on Amazon?	3
+Okay no problem, I'll find you an expensive ticket in an economy class. Sorry about that.	3
+Hi. I need help in planning a special dinner at Seasons in Davis, California. Could you tell me what time they open for dinner on Sundays?	0
+Thank you.	0
+Okay. Yeah. I mean, I wasn't supposed to have to give you a location. Yeah, I'd like to order pad thai with beef.	3
+I'm sorry, what?	1
+I would like for it to be under $1,000.	0
+Could you ask that again?	1
+Okay. Let me confirm what you have: 1 market burrito with black beans and spicy salsa and 1 chicken taco platter with refried beans and 2 ice teas.	3
+One with what?	1
+Sorry, I did not catch that.	1
+Okay just to confirm that you're looking for flights from Houston to London on February 20. Is it right?	3
+Is there no non-stop flights to Rome?	1
+Oh, Okay. Let's go with the earliest, 3:00 one. And you know what? I prefer round trip, So yeah, Do the first two you mentioned.	3
+What?	1
+Let me repeat the order. So it's 1 chili cheese dog, one large Chicago-style dog extra relish, One jumbo New York dog and three waffle fries. Is that correct?	3
+Would you mind saying that again?	1
+Alright. Thank you.	0
+Sorry about that. Erik’s DeliCafe. Casual cafe chain serving gourmet deli sandwiches, house made soups, salads & baked goods. There you go.	3
+Like what?	1
+Yes.	0
+Will you please repeat what you just said?	1
+This sound's perfect, what is the airport?	0
+What is the theater's phone number?	0
+Could you say that again?	1
+Yes, I can, let me go get that for you. Can you confirm my order.	3
+I'll take that flight.	1
+Sorry, I’m not sure how to help with that yet. You can ask about ratings, runtime or showtimes. Or you can just choose one of the movies.	3
+The burger is 1 dollar sign.	1
+You know what? I understand that's probably a pretty a long list, maybe, we could narrow it down a little bit more. Could you find me a place that's got outdoor sitting?	3
+okay Okay, What else?	0
+Do they take reservations?	0
+Alright.	0
+I'm sorry actually. I asked my partner and she said she'd rather have Mexican tonight not Italian, I apologize. Do you have a suggestion still?	3
+I'm sorry, it is a stage show. Let me find a film.	3
+Just to confirm you would like to order Eggplant Parmesan and Chicken Milanese?	3
+Okay.	0
+I'm sorry this film is only in theaters. Let me find something you can watch at home.	3
+Okay. And what's the address? Sorry, if you already told me.	3
+Hi, how can I help you? Do you have a specific type of dessert mind?	0
+Okay. Can I confirm your location?	3
+Is it on Google Play?	0
+2813 Fulton Ave, Sacramento, CA 95821.	0
+Perfect. I think that's everything.	0
+I'd like a non-stop.	0
+Okay, you like to go to New York City. Just to confirm you are leaving from Seattle, Washington. Right?	3
+Repeat, sir.	1
+Can you, Please repeat the question?	1
+Just to confirm you would like to order Pad Thai which is not too spicy.	3
+I'm sorry, that information is unavailable.	3
+Hey. What's happening?	0
+Have you ever heard of Burger Republic, it is a hip local chain serving Gourmet Burgers spice shakes and beer and tater tot Fondue in a Sleek space has 244 reviews and gets 4.4 stars out of 5. And it has both organic choices and table service and it's in Nashville. Will you choose it?	0
+Sorry, That information isn't available.	3
+Can you repeat the question please?	1
+The latest showing looks like it is 9:20 p.m.	0
+I'm sorry can you repeat that?	1
+Alright.	0
+Thanks.	0
+I'm flying from Los Angeles International Airport to Madrid, Spain.	0
+Alright. You know what? I just want to get that place. That's going to be the easiest for me.	3
+What was that? Could you say that again.	1
+The show times are Standard at 3:30 PM and 3-D at 6:30 PM.	0
+Well, I'm looking for a place with some organic options and I'm looking for a place ideally with outdoor seating, patio, backyard, some place to sit outdoors. Does that steak house have those things?	0
+Just to confirm, you would like to order large bowl of potato soup with bacon, cheese and, bits of steak on it.	3
+I'm sorry, can you repeat that?	1
+Sorry, what was that?	1
+What was that?	1
+I will take that.	0
+Okay. I got it. Let me search that again for you with this preference.	3
+I can help you with that. Can you please confirm the dates of your travel?	3
+5 miles outside of Davis, California. I mean outside of Downtown area.	3
+Sorry, I’m not sure how to help with that yet. You can ask about runtime, plot or showtimes. Or you can just choose one of the movies.	3
+I understand.	3
+What was that?	1
+Sorry, I don't understand. Am I getting a meal or not?	1
+Hello. How may I help you?	0
+I'm sorry, can you repeat the question?	1
+Okay, just to confirm you would like to order 4 fried wantons, a seafood cop and a side of rice.	3
+Any favorite actor/actress?	0
+Hi, how can I help you?	0
+For which dates when are you trying to leave?	0
+I want it to have a casual atmosphere.	0
+Okay, what would you like me to order for you?	0
+7 PM and 10:10 PM.	0
+Just to confirm you would like to order chicken parmesan with panna cotta.	3
+Awesome! you are all set.	0
+So, just to confirm you would like to order a large family size spaghetti with meatballs and a side of garlic bread.	3
+I'm sorry?	1
+Okay, where would you like to fly so that I can help you with that.	0
+The movie name is suicide squad?	1
+Do they serve cocktails?	0
+Yes, could I get one Lobster Ravioli? One chicken Parmesan and one serving Tuscan minestrone soup. Sorry, Tucson.	3
+Okay, I booked a flight for you, enjoy your vacation.	0
+Could you say that again please?	1
+Let me confirm. I don't see Peking Duck on their menu.	3
+Can you repeat that, please?	1
+I can help you with your movie search, let me see what I can find.	0
+Mondavi Maestro ‘13 80, Rodney Strong Symmetry ‘12 75, Duckhorn Paraduxx ‘13.	0
+Could you repeat that once again, please?	1
+Would you mind repeating that?	1
+Okay, how about their desserts? Do any of them have good desserts? Say that again.	3
+How can I help you? I can help you with your flight search.	0
+Bye.	0
+I'm sorry, what was that?	1
+Sorry. Yes, please.	3
+Yes, I'm looking for a movie to watch at the home tonight, please. Something in Redbox.	0
+Okay. Well, we're going to get to a piece of the total six. So four with mustard and sour kraut, two with mustard and relish. I'm sorry, I'm talking to my wife.	3
+There's no non-stop flights anytime in March?	0
+Hi, I'm trying to order food for takeout.	0
+Could you repeat that?	1
+AMC Cupertino is showing at 9:30 PM.	0
+I am sorry it is 63 degree not 630 degrees.	3
+Can you confirm the dates of your travel from San Francisco to Denver? Do you have any other preferences? Do you have any other preferences?	3
+Could you ask that again?	1
+I'm looking for something with a historical genre, please. Something new release but not too really not too nothing fairly recent on theaters but somewhat new if you know what I mean.	3
+Would you mind repeating that?	1
+There are no reservations right now.	0
+Could you say that again please?	1
+You're welcome.	0
+I'm sorry, can you repeat the question?	1
+Just to confirm you would like to order an 18 inch pepperoni pizza. Is that correct?	3
+Okay, Thank you. I'm looking for one that has a lot of organic choices, And has table service. I'm looking for one that has a lot of organic choices, and has table service.	0
+Could you say that again?	1
+Okay, what is the average entry for that and could you repeat the name, please?	3
+What was that?	1
+Either you say it again, or can you show me a trailer?	1
+8 PM one sounds good. Sorry 8:15 PM one.	3
+Can you repeat that?	1
+Sorry, but there are currently no non-stop flights available for the date range.	3
+What?	1
+Okay, that sounds promising. Where is that located?	0
+You meant an action-adventure movie?	1
+And just to confirm are you flying out of Seattle?	3
+Sorry, what was that?	1
+Hi, how can I help you?	0
+I can help you with that. Would you like to order in, go out or cook at home?	0
+I'm sorry, can you please repeat that?	1
+Okay, I'll book it for you and send you the itinerary, would you like me to repeat the itinerary to you now?	3
+Repeat that, please.	1
+There will be five of us. I'm sorry. Five guests, six people in total.	3
+April 7th.	0
+War of the Planet of the Apes sounds great. Can I see the trailer?	0
+Sure.	0
+Just to confirm, you would like to order one chicken gyro and a side of spinach spanakopita. Is that correct?	3
+Could you say that again?	1
+Okay, that's sounds pretty good. Can I get the synopsis for the movie The Princess Bride?	0
+Just to confirm ribs and large order of fries for all three, 2 large cokes and 1 Dr. pepper.	3
+Okay. Anything else?	0
+1-hour layover in France?	0
+Can you please confirm the dates of your travel?	3
+I will be sending you the flight details now. Goodbye.	0
+Can you confirm the dates of the travel from Seattle to Denver?	3
+Sorry about that, should be good now.	3
+What was that?	1
+That is understandable, do you have more preferences?	3
+Okay and that's all I needed to know.	0
+I'm sorry, could you say that again?	1
+Okay, let me confirm what you have: two burgers well done with everything on them and sweet potato fries with both burgers and a salad with house dressing. Is that right?	3
+Sorry, what did you say?	1
+A meal? Like eating?	1
+Hello, how can I help you? Sure I can help you with that. It looks like the Lego Batman Movie, a box office hit, is playing nearby.	0
+Please repeat that.	1
+Just to confirm your first order would be lasagna with salad that has no tomatoes but has Italian dressing.	3
+Repeat.	1
+Yeah, you know what? I'd like to add two iced teas, as well.	3
+Okay, that's sounds pretty good. I think I'll go for that one.	0
+Would you mind saying that again?	1
+Time of that day?	0
+Okay, got it. I was going to say, you won't believe this, there is a round-trip nonstop flight for $477 but it is on economy class. Is that okay for you?	0
+Yes, I'm looking for Italian food. And, I am looking for something if there is dining outside, I mean, like in the patio, or something.	3
+So, just to confirm you would like to order one tuna poke. Is it right?	3
+Could you say that again?	1
+Sorry, they are closed on Sundays.	3
+We need a fourth one at 9:00 p.m. 4:29 P.M.	0
+This restaurant has 4.4 stars and is moderately priced or 2 dollar signs. It is located within the Ferry Building on the waters of the San Francisco bay. Local oysters and clams are washed down with craft beer at this popular waterside seafood eatery.	0
+What?	1
+Sorry, what was that?	1
+9:45, this is the last show?	1
+The atmosphere is what?	1
+Please, repeat that.	1
+Could you repeat that?	1
+Dates, pricing, seats.	1
+I understand, let me see what I can find.	3
+Could you say that again?	1
+Okay, and do you want to know the ratings too?	0
+Kid-friendly, please.	0
+Would you please repeat the movie times once again?	1
+What type of food were you looking for?	0
+Have a good evening.	0
+I need a city on the west coast to travel to.	0
+I want to get Mexican food.	0
+Could you say that again?	1
+Hi, how can I help you?	0
+Overnight? Is that not nonstop? What do you mean by overnight?	1
+Those are all highly rated by the critics?	0
+Just one moment. To confirm your order. I have one chicken Caesar wrap. One tuna salad wrap and a roast beef fry, is that correct?	3
+Could you say that again?	1
+Sounds great.	0
+Great, thank you.	0
+Would you mind saying that again?	1
+Okay. Let me confirm what you have 1 Turkey-avocado crepe with cheddar and 1 Greek Delight Crepe and 2 iced teas.	3
+Could you say that again?	1
+Actually that movie is still in theaters, not out for rent just yet. Sorry about that.	3
+Could you say that again?	1
+Yes, I'd like a flight to Hamburg, Germany.	1
+What else can you tell me?	0
+Is it 23rd of February or March?	1
+Hello. How can I help you?	0
+Let me confirm your order once again.	3
+I'd like to have not more than one layover. I'm looking for Wi-Fi available.	0
+I don't understand.	1
+Okay. What else?	0
+Yes.	0
+Just to confirm, you would like to order two sausage breakfast burritos. Is that correct?	3
+Okay, I like Chris Pine. He played Captain Kirk in the Star Trek movie. Isn't that right?	0
+Just to confirm you would like to order one Tuna Poke Bowl. Is that correct?	3
+Here's the trailer for Brokeback Mountain.	0
+Give me first-class, please. You know what? Economy, I'm looking to be the cheapest here. I've just checked my budget.	3
+Okay. I want to clarify that I want a slice of pizza.	3
+That would be Emack and Bolio's.	0
+What?	1
+And could you confirm the details of the return flight, please?	3
+What?	1
+Okay, I can help you with that.	0
+Can you please repeat that?	1
+Okay, where's the location again?	3
+I'm sorry, there are no jet blue flights available for that time.	3
+Hi, I was looking to order some Thai food for two people. I'm sorry. For three people.	3
+Just to confirm you would like to order 2 soups. They are one large broccoli and cheese, one large chicken noodle soup and sourdough bread.	3
+Okay. And you will arrive back at you. 6:35 p.m. next day.	0
+You mean there is no nonstops?	1
+I'm looking for a drama.	0
+June 1st, no excuse me I mean that's leaving this Thursday coming back to First.	3
+And is that nonstop? A monster.	1
+Okay, very cool. So, that sounds terrific. Could you just confirm that the movie Everything Everything is playing in Boston?	3
+In Tracy, the top-recommended are M&J Bistro, The Texas Roadhouse and Four Corner.	0
+Please repeat that.	1
+Oh, that sounds great, what is the address?	0
+No, thank you.	0
+I'm sorry, could you repeat that one more time?	1
+Just to confirm, do you want to leave Rome at 9 AM?	3
+Okay, let me check that for you. I found a couple of movies. Did you want me to list the top 3 by ratings? I found a couple of movies. Did you want me to list the top 3 by ratings?	0
+How about the movie called the Snowman?	0
+Okay. Let me confirm what you have. 1 market burrito with black beans and spicy salsa and 1 chicken taco platter with refried beans and a house salad with house dressing.	3
+Okay so you don't want to be expensive I understand. Is that all? Is that all?	3
+Would you mind repeating that?	1
+Could you say that again please?	1
+Say that again.	1
+Excellent, thank you for your assistance.	0
+Okay. Please repeat the address.	3
+Hi, I'd like help finding a restaurant.	0
+Any price limit?	0
+70 degree Fahrenheit on Saturday and Sunday.	0
+Hello, looking for a commercial air flight please, round trip.	0
+Could you say that again?	1
+Just to confirm, you would like to order two chicken pasta salad with a side of Italian dressing. Is that correct?	3
+Sorry, what was that?	1
+Okay, I understand.	3
+What about flight times?	0
+Hi, I'm looking to eat and I am in Albany, New York. I was thinking of something with sushi.	0
+Are you saying the total fare in $990? Or that's in addition to the 769$.	1
+I'm sorry, what was the appetizer?	1
+Yes, I can confirm that for you. Tiramisu is on the menu and it costs $7.95.	3
+I understand.	3
+Okay. Let me confirm what you have one large pizza with one-half pepperoni and one-half mushroom and one brownie.	3
+Thank you, that would be all.	0
+Could you say that again?	1
+Could you say that again? I didn't catch that.	1
+Main library?	3
+I'm sorry. I could not find a movie with Christopher Lee directed by Wes Craven.	3
+Fried chicken is a great choice, do you have preferences that you want me to search for?	0
+I like the first one. I mean, it's called Lobster Me, so that's the one.	3
+Is that the movie you like to watch?	0
+Hi, how can I help you? Okay, just to confirm you are in Baltimore near John Hopkins, is it correct?	3
+Just to confirm, you would like to order 5 egg rolls, 5 egg noodles, 5 sweet and sour chicken Melt fish with soup sauce, 5 fortune cookies. Is that correct?	3
+Can you come again?	1
+Now, I understand that this will not be a nonstop. I don't imagine there are any non-stops from Houston.	3
+Okay, great. Could you repeat the first option once again?	3
+Sorry, I’m not sure how to help with that yet. You can ask about runtime, plot or showtimes. Or, you can just choose one of the movies.	3
+I understand, let me see what I can find for you. Just a moment.	3
+Just to confirm, you would like to order one turkey sandwich with Swiss cheese bacon, lettuce and tomatoes?	3
+Okay, that's all I needed to know.	0
+That's all.	0
+I'm sorry.	1
+I'm sorry. What was that?	1
+Sorry, my algorithm messed up again. XXX: Return of Xander Cage has 43 % on on rotten tomatoes. The only movie is left right now is Rogue One.	3
+Any particular dishes?	0
+The Mexican restaurant okay and just to confirm you are in Austin, Texas. Is that right?	3
+Please repeat those dates.	1
+Okay, I found your ticket that's one stop for $570 or there's a non-stop for $180. Sorry, that was $880. Sorry, that was $880.	3
+Window seating, okay what else?	0
+Goodbye.	0
+Could you repeat that please?	1
+$787, Okay.	1
+Can you confirm the dates of your travel?	3
+I can help when I see you are in Laguna Beach California.	0
+Okay and are you okay with economy?	0
+What was that?	1
+Sorry, I’m not sure how to help with that yet. You can ask about run time, plot or showtimes. Or, you can just choose one of the movies.	3
+Great. Can we confirm both flights, please?	3
+I'm sorry I missed that what did you say?	1
+Hold on. Sorry, I do not have that information yet.	3
+That sounds perfect.	0
+In fact it is.	0
+I'll go with Pizza.	0
+Thank you. I'd like to see a movie directed by William del Toro. I'm sorry. Make that Guillermo del Toro.	3
+Okay. I'm sorry. Did you get everything?	3
+Okay. I'll take that.	0
+Okay. I can help you find a flight for Miami. Just to confirm you're leaving from Seattle, Washington. Is that correct?	3
+Sure, what are you in the mood for?	0
+No, February 21st to February 28th.	1
+Just to confirm you are located in Austin, Texas correct.	3
+Sorry, I’m not sure how to help with that yet. You can ask about runtime, plot or showtimes. Or, You can just choose one of the movies.	3
+Okay. The address is 450 South Coast Highway.	0
+Okay.	0
+And can you please confirm the return end of the trip, please?	3
+I need it to be on Hulu Plus because that is definitely what I want it to be on. That's just how it goes.	0
+Alright. Thank you.	0
+How about this Friday? I'm sorry. I mean next Friday.	3
+Say that again.	1
+Can you repeat that?	1
+I'm sorry, did you say Richard Gere?	1
+No to what?	1
+Could you say that again?	1
+Bye, enjoy your movie.	0
+Could you say that again?	1
+What was that?	1
+I'm sorry. Could you give me the address to the theater?	1
+So just to confirm you would like to order three porks.	3
+New York?	1
+I found one seat in business class for $4,107.	0
+You also have? I'm sorry.	1
+Can you call in again?	1
+Does that mean the cheapest?	1
+I can help you with your takeout order. Okay. Just to confirm. You wanted BBQ chicken with sweet and sour sauce. Is that correct? Okay. Just to confirm. You wanted BBQ chicken with sweet and sour sauce. Is that correct?	3
+And I'll be going there at about 7:00 so it should be open till at least 9:00, I guess.	0
+Leaving May 25th, returning June 7th.	0
+Could you say that again?	1
+What?	1
+The flight to Paris is 10 hours and 45 minutes. Is that what you mean?	1
+What was that?	1
+Yeah.	0
+What was that?	1
+Can you please tell me where the nearest location would be? I mean Cook-Out near. I mean Cook-Out near.	3
+Sorry?	1
+Please, repeat that.	1
+Well, I mean I can't imagine spending more than 25 bucks for a hamburger and that's fine. So price person like roughly $30 to $35.	3
+Also can you confirm the number of people that are traveling along with you?	3
+Can you repeat that please?	1
+I would like to do something in Davis I mean Davis, California, I'd like to see a good partner movie.	3
+That sounds good. You can actually leave in 40 minutes. Do you think you have time to make that? It is a very cheap price ticket to only $307 on American Airlines.	0
+What do you mean by connecting?	1
+For dinner.	0
+Can you repeat what days you will be traveling?	1
+Could you go back to the first choice?	0
+I'm sorry. What?	1
+Okay.	0
+I'm sorry what was that?	1
+Could you repeat that?	1
+What did you say? Can you say that again?	1
+Okay. I got it. So how does 8:25 a.m. sound for departing Salt Lake City?	0
+I didn't understand that but I want ratings.	1
+Yes.	1
+What?	1
+Let me confirm what you have, one turkey-avocado crepe with cheddar and one Greek Delight crepe and one salad with house dressing.	3
+I understand, Let me check on this for you.	3
+What should I do for dinner tonight?	0
+535 16th St, Denver, CO 80202. I'm sorry, I don't have that info.	3
+When Harry Met Sally and All in the Family are one of the oldest movies. I'm sorry about that.	3
+There is a first class flight with Alaska Airlines at 7:10 a.m. that is business class and the cost is $1,246 and it's nonstop. I'm sorry, I misspoke that is a first class. Absolutely, can book that ticket for you. I'll do that now if you have any preferences for the return flight.	3
+I'm sorry, what?	1
+Just to confirm, you would like to order two large double cheeseburgers.	3
+Yeah, cool. That sounds great. Okay. So, what time is it playing again? Sorry. And where?	3
+Just to confirm you would like to order one mushroom cheeseburger, bacon cheeseburger and hamburger. Is that correct?	3
+What was that?	1
+Can you repeat that please?	1
+I understand. And what type of flight do you prefer, a Non-Stop or a flight that has subs?	3
+Thank you. Can you tell me how long the drive is from Fairfield, California to the restaurant?	0
+I would like help in finding a movie to watch in a theater.	0
+A pair of what?	1
+Choose what?	1
+Just to confirm, you would like to order 2 chicken euros.	3
+I'm sorry can you repeat that answer.	1
+You know what? I think I'm going to pass. I'm going to have to look for an Italian restaurant.	3
+That's right.	0
+Thank you. And I would like to have three Pepsis and French Fries a side. That's all I want.	0
+Okay, can you repeat that last part for me?	3
+One way? So not round trip, you don't need to come back on March 15th. Is that what you mean?	1
+I apologize, can you repeat that?	1
+I'm sorry, what was the last order?	1
+I asked about vegetarian options. I mean, you mentioned salad but, is that the only vegetarian option?	3
+Okay. Alright. That sounds excellent. What's the name of the place again?	3
+Would you mind repeating that?	1
+Could you say that again?	1
+Let me confirm what you have, 1 turkey-avocado crepe with cheddar and 1 Greek Delight crepe and a brownie.	3
+Hi, Do you know where is the Larripin' Cafe in Trinidad, California, what are their hours for dinner on Sunday?	0
+I understand, let me see what I can find for you. Hold on, just a second please.	3
+Come again.	1
+Sorry, I can’t help with that. What type of movie would you like?	3
+What was that?	1
+Okay. Let me confirm what you have. 1 large pizza with one half pepperoni and one half mushroom and a chocolate brownie. Is that right?	3
+Let me confirm for you, hold on. Goodfellas is still playing on Netflix.	3
+Just to confirm, you would like to book a flight from Houston to Amsterdam?	3
+I want to go to the movie.	0
+What, could you please repeat?	1
+Would you mind saying that again?	1
+No more than two layovers. I want to fly on American Airlines and I'll be flying coach.	0
+You want to leave on Mar 20 or Mar 19?	1
+What?	1
+Chicago?	1
+Okay. Can you please tell me the name of the movie?	0
+I mean what time?	3
+Hello. One order of rigatoni with vodka. I'm sorry. It's spicy rigatoni vodka.	3
+Pinot Noir, Merlot,Cabernet Sauvignon are few of the wines on their red wine list.	0
+Yes.	1
+Oh, I see. Okay. Alright, let's make it then February, I mean February 20th.	3
+3 or higher on what?	1
+What was that?	1
+18th of which month?	0
+I'm sorry, can you please repeat that?	1
+I have found a place for you.	0
+I'm sorry can you repeat that?	1
+Perfect. You're all set. Can I help you with anything else today?	0
+You would like to find American in the morning again?	1
+I'd like it to be vegetarian sushi.	0
+Hello, How can I help you? Hello. I can help with that.	0
+Could you say that again?	1
+The closest theater playing Pitch Perfect 3 is Regal Stadium 5. There are several showtimes today. The first one is at 3:15 p.m. Would that work for you?	0
+Wait, what do you mean?	1
+Just to confirm, you are flying out of Seattle right.	3
+Hi. I'm looking for a movie to watch tomorrow evening.	0
+Hold on. Sorry, I do not have that information yet.	3
+Could you say that again?	1
+Could you repeat that?	1
+Hi assistant. I'm looking for a movie to watch on Hulu Plus tonight from home.	0
+You know what? I'm going to change my mind. I want to have Kosher food. Kosher food.	3
+You are looking for what?	1
+Orlando to LA is on 20th. Sorry about that.	3
+Could you say that again?	1
+Excellent! Can I help you with anything else?	0
+Say that again, sorry.	1
+Just to confirm you would like to order 1 Lasagne.	3
+Okay. That sounds good.	0
+Okay, one of my favorite actors is Seth Rogen. I really like his comedy stuff so I mean it doesn't have to be him but i would like that type of genre of a movie, I would like to see in rent.	3
+Italian food.	0
+What date are you flying out from Houston to Orlando?	0
+Okay, I found two choices, I have Arirang Korean restaurant or Chosun Korean BBQ?	0
+Okay. I found 2 sushi places for you. I found 2 sushi places for you. The first is called xian sushi and noodle. It has 4.3 stars. Asian eatery serving hand-pulled Chinese noodles & signature sushi rolls in a comfy, casual setting. It has 4.3 stars. Asian eatery serving hand-pulled Chinese noodles & signature sushi rolls in a comfy, casual setting. The second is called Lucky Robot, it has 4.3 stars. Hip option for Tokyo-inspired street fare including Asian tacos, Sushi & dumplings, Plus sake punch. Those are the two options. Which one? Hip option for Tokyo-inspired street fare including Asian tacos, sushi & dumplings, plus sake punch. Those are the two options. Which one?	0
+Can you please repeat that?	1
+No no. I would like to watch Star War movie. Thank you so much for your help.	1
+Oh. I understand. Okay. That'll work.	3
+Okay, thank you. I think I would like to try Shigezo. Can you let me know the location again?	3
+I can help you with your flight search, can you confirm your return date from Jamaica?	3
+Is that what you mean for economy?	1
+Okay, and that's leaving May 25th?	0
+Thanks.	0
+How can I help you?	0
+Rochelle Vet sounds good.	0
+That sounds pretty good, Can I see the trailer for that movie?	1
+I'm sorry could you do that one by one.	1
+Could you say that again please?	1
+Please repeat.	1
+June 14th.	0
+What?	1
+Yes. Just one moment. Kurver Kreme. Soft serve cones are the specialty at this ice cream stand with outside tables. Open seasonally.	0
+Would you repeat that please?	1
+Hello. How can I help you?	0
+I'm sorry but I'm having trouble finding a movie with those preferences.	3
+Are they open for dinner on Sunday?	0
+Just to confirm, you would like one BLT on French bread with a side of potato chips and a coke to drink, is that correct?	3
+Hello, I'm playing a movie night out and I'm in Seattle near the University of Washington.	0
+Can you tell me what that means?	1
+Okay. Book it for me.	0
+For the second order, I'd like a Reuben on rye. And let me get fries for that. Thank you.	0
+Okay, what are your questions?	0
+Yes.	0
+And. How many stops do you prefer?	0
+Yeah, I mean that's it. All good.	3
+Okay.	0
+Yes, I'm looking for a sandwich shop in Santa Cruz, California.	0
+I'm sorry, could you repeat what you just said?	1
+Could you say that again?	1
+Okay. What are the airlines of those two?	0
+Could you say that again?	1
+I'm sorry. What was that?	1
+Okay, great. Have you heard of American Assassin, or American-made starring Tom Cruise?	0
+Leaving in the afternoon?	0
+I can help you with that. Can you please confirm the dates of your travel?	3
+Okay, thank you.	0
+Could you say that again?	1
+Okay, Let me confirm what you have? 1 large pizza with one half pepperoni and one half mushroom and one salad with house dressing.	3
+Do you have any preferences about the flight?	0
+Yes, Mother is a vegetarian restaurant.	0
+Just to confirm, you would like to order two tandoori chicken and one butter chicken.	3
+Okay, just to confirm you would like one large order of spaghetti and meatballs and garlic bread, would you like to add anything to drink?	3
+Just to confirm, you would like to order pineapple fried rice, small chicken wonton soup and two fresh rolls. Is that correct?	3
+Okay. Let me confirm what you have been ordered. You have ordered 1 large pizza with one half pepperoni and one half mushroom and one salad with house dressing. Is it right?	3
+Yeah, it offers an outdoor seating.	0
+The first one. Can I get the address?	0
+What?	1
+Sorry, what did you say?	1
+I'm sorry, but The Departed does not seem to be available on Netflix.	3
+You know what? Actually I'm more in the mood for Indian food.	3
+Alright.	0
+Let's do evening on the return flight. Sorry about that.	3
+Could you say that again?	1
+What is a crisis? I'd like to go see this movie.	1
+Please repeat that.	1
+Is there anything in particular you're looking for in this fight?	0
+You have found one or have not?	1
+I'm sorry but Metropolis is not available on Redbox, the only service I see it available on is Google Play.	3
+Can you confirm the dates of your travel?	3
+Okay, and just to confirm, you are flying out of Seattle, is that correct?	3
+Just to confirm, you would like to order 3 sandwiches?	3
+The show timings are around 6, that is 6:15 p.m. or at 7:30 p.m.	0
+AMC Empire 25.	0
+I understand.	3
+I mean reviews like on IMDb, Rotten Tomatoes, Google. Which one do you like?	3
+I can help you with that. Can you confirm your location?	3
+How can I help you?	0
+Could you say that again?	1
+Could you say that last part again?	1
+Just to confirm you are flying from Seattle right?	3
+Could you say that again?	1
+Departs at 7:25 AM – arrives at 10:54 AM. Delta Airlines from Orlando to Los Angeles.	0
+Just to confirm you would like to order two hot dogs with relish , 2 small fries and 2 pepsis.	3
+Something what?	1
+There is a horror movie entitled get out that is available to watch on Amazon. Would you be interested in this title?	0
+Just to confirm you would like to order can Khanom Chin Nam ngiao, Khanom Chin Nam ya and some cow fat kai. Is that correct?	3
+I am in Sausalito, California.	0
+I'm sorry, what was that?	1
+Let me confirm that for you.	3
+Just to confirm you would like to order thin crust pizza with barbecue sauce, chicken, red onions, Gouda cheese and Cliantro as toppings, is that correct?	3
+And I want to leave the latest possible flight for both leaving the departure and coming back.	0
+Could you say that again?	1
+Just to confirm, you would like to order one extra large pizza with sausage mushroom and green peppers as toppings. Is that correct?	3
+Garden salad, papaya salad.	0
+I'm sorry, did you say night flight?	1
+Okay. The Book Of Eli and Safe House and 2 Guns.	0
+Just to confirm, you would like to order breakfast burrito?	3
+What was that?	1
+Could you say that again?	1
+Okay, I think I can manage that. What time does that flight leave from here?	0
+Legislators debate legislation that allows for adult charges for juvenile offenders.	0
+Perfect, thank you for your help.	0
+Repeat.	1
+Would you mind repeating that?	1
+Okay, that sounds fun like cultural misunderstanding between families and so forth. May I know the stars in the movie?	3
+Oh, very nice. Where is the weather forecast for this weekend in Winters, California? Okay, thank you very much.	0
+I'm not looking for anything fancy. But you know what? I want a good variety for you to search, so $100 a plate or less. For desserts $200 a plate or less.	3
+Come again.	1
+We both like action, thrillers and dramas. I mean, if you could combine those, that'll be amazing.	3
+I have from 10:20 AM and 10:30 AM.	0
+You want to what?	1
+Hi.	0
+Do you have a sit-down restaurant? I mean Ella restaurant?	3
+Ok, which type of movie are you in mood for?	0
+No, I can find it myself. Thank you so much for your help.	1
+Sci-fi, please.	0
+Three or above.	0
+I want it to be at IMAX and within 15 miles from my current location.	0
+I'd like a flight from LaGuardia Airport to San Francisco.	0
+They have shows at 8 pm and 10:35 pm.	0
+Can you repeat that please?	1
+Goodbye. I think I want that first one, that sounds pretty good run by Bleacher. Could you give me the address to that one?	0
+I want the lead female actor.	1
+Just to confirm, you would like to order one yellowfin tuna variety poke. Is that correct?	3
+Xfinity.	0
+I see that there is $939 leaving at 8:15 A.M with one-stop.	0
+Sorry, what is the other timing in the late night shows?	1
+What does that mean?	1
+Have a good day.	0
+So to review order I have three quesadillas with a side of beans and rice, one large Spanish rice and 6 beef tacos. Is that correct?	0
+I'm sorry, I do not have that information. But it's available on Amazon Video, Vudu, YouTube, iTunes and Google Play Movies.	3
+Okay, sorry about that, was looking for the cheapest price ticket, if you'd like to leave in the morning you can leave at 7:05 a.m. and arrived in Madrid at 8:30 a.m. the next day	3
+Hello, I'm in Tracy, California right now looking for a place to eat dinner tonight.	0
+Hi, How can I help you?	0
+I see that it is Jumanji: Welcome to the Jungle.	0
+Just to confirm you would like to order white rice Teriyaki Thai with beef?	3
+Just to confirm you would like to order 2 orders of Khao pad fried rice, one pad Thai and 3 Coca-Cola.	3
+Sorry, how did you get from Houston to Orlando?	1
+Could you please repeat the dates including the month?	1
+Sorry that movie isn't showing anymore.	3
+Pardon?	1
+I need help finding a flight from New York City to London. I need to fly out Sunday, September 3rd and return on Sunday sorry, September 9th. Earliest time as possible.	3
+Okay. Can you please inform me of the latest run time?	0
+What?	1
+Sorry, Could you repeat that again?	1
+Pastitsio, got it. Let me confirm your order once again.	3
+Wow. Alright. So, I think I'm going to go to Zocalo's. What's the address again?	1
+What kind of movie?	1
+How many tickets do you need?	0
+Would you mind repeating that?	1
+Okay and for the departure? Or for the return flight, I mean?	3
+I understand that. Give me a moment.	3
+Okay.	0
+I don't understand what you mean by the third choice.	1
+Please repeat.	1
+Great! Let me reserve that for you and get your return flight details. One second. Your return flight has two stop that leaves at 8 AM and arrives at 9:30 PM, However for $15,192. I can get you a non-stop flight back home. Okay, I just want to confirm you that, You want me to book the return flight for $12,000 at total flight time of 22 hours and 30 minutes. Okay, I just want to confirm you that, you want me to book the return flight for $12,000 at total flight time of 22 hours and 30 minutes.	3
+What is the cheapest flight flying on Sunday, and what was that other price, once again?	1
+Sure.	1
+So, just to confirm you would like both the burgers as beef burgers. Is that correct?	3
+Enjoy your afternoon meal. Goodbye.	0
+Please repeat the dates of departure and arrival?	1
+I'm sorry, what was that?	1
+Sure thing, so looks like you want to be flying on United Airlines again, is that correct?	3
+Yes, I'd like to find a flight to Brussels, please.	0
+Okay I understand do you have any specific food you were in the mood for?	3
+The IMDb rating is 8.6 out of 10.	0
+Mexican food.	0
+Just to confirm the 2nd one will be with egg, potato, onions, sausage.	3
+Can you please confirm the date of your travel?	3
+I apologize, could you please repeat what you just said?	1
+Preferably what? could you say that again?	1
+Sorry, that information is not available.	3
+Could you please confirm the order for me?	3
+You mean non-stop?	1
+How long's the flight again?	1
+Just to confirm. You would like to order fettuccine alfredo garlic bread extra salad with ranch dressing.	3
+Awesome, thank you.	0
+I'm sorry the second order was that pad Thai?	1
+And I'd like to have a sit-down meal.	0
+Well, I'm going to be with a friend, and she's feeling kind of low these days, sort of depressed, so we're looking for something that's going to be action packed, but also a bit uplifting. Nothing too depressing if you know what I mean.	3
+Would you like me to book that for you?	0
+I'm planning to leave after 5:00 p.m.	0
+Come again.	1
+You mean for reviews?	1
+Sure, let me check that for you. Ok, I found five places.	0
+Just to confirm you would like to depart on July 12th and return by July 18th. Is that correct?	3
+Nice. The options I have for you are Taste of Thai and Thai Canteen. I am sorry to say, none of these have outdoor seating.	3
+You will arrive back to JFK at 11:46 p.m.	0
+Can you repeat my itinerary, please?	3
+Just to confirm the first one will be barbecue sauce onions and mustard.	3
+Sorry about that.	3
+Sorry, I didn't catch that, what was your question?	1
+Sorry, come again.	1
+I'll give that a try. When's the soonest I could see that movie tonight, and where?	0
+The other part really sounds intriguing. I like it. Just to reconfirm, is this available on my app for watching service of Netflix?	3
+Sorry, I don't have that information.	3
+Okay. Let me confirm you have 1 large pizza with one half pepperoni and one half mushroom and a salad with house dressing. Is that right?	3
+Yeah, that looks pretty good. Can I get that on iTunes?	0
+Great, can we confirm both flights on the flight plates? This is the flight that I'd like to select.	3
+Sorry, that is a rated R movie let me keep searching for you.	3
+At what time in the theaters, I mean?	3
+Can you confirm the number of breakfast burritos?	3
+Oh, okay. I misunderstood you. 6:50 AM, did you say?	3
+Hi, I'm looking for a restaurant in Austin, Texas.	0
+Okay and what else?	0
+Come again?	1
+Okay, I understand. Let me find something that will work best for you.	3
+Do you want to leave in the morning again?	1
+Okay.	0
+No?	1
+See you later. Bye.	0
+Thank you very much. Would you be able to book us a table for two later?	0
+What was that?	1
+The show times are 6:05 PM and 9:00 PM.	0
+Okay, I understand. Can you tell me the name of the first one again? I think I'll go to that one.	3
+Just to confirm you would like to order the following. Barbecue spare ribs, barbecue pork ribs, ice tea and a can of Coca-Cola .	3
+Say again?	1
+Sorry, can you repeat again?	1
+Sounds great. What time is the movie playing?	0
+Okay, just to confirm. You would like to order one spaghetti with garlic toast and a Coca-Cola, is that correct?	3
+I like the first option, the Italian sandwich shop one.	0
+No.	1
+Could you repeat that? What time does it leave and what time does it arrive?	1
+It's okay it will be with Amber. Please confirm. Please confirm.	3
+Do you have a 3-D movie?	0
+Sure. That would be great.	0
+Okay, tell me a little bit more about number one again.	3
+Less than three layovers, I understand. Is that it?	3
+Is it american food?	1
+I understand. I have found a few flights that are nonstop.	3
+Sure. I mean, I would like to get something that has favorable ratings if you could suggest two or three places. Something like burger.	3
+Okay, please confirm. That sounds correct, thank you.	3
+So, there are no afternoon flights? Is that what I'm to understand?	1
+Thank you, goodbye.	0
+It's $12. And only in standard regular format.	0
+Okay, that one sounds good. Let me get the address for you.	0
+I want to leave on August 12th. And then I want to come back on August 19th.	0
+So, just to confirm you would like to order two medium pizzas one with Anchovies. Is that your order?	3
+Is it sit-down? Casual sit-down?	0
+Okay Okay.Hold on. I'm sorry, go a head. I'm sorry, go ahead.	3
+Just a moment. I do not have that available information, I'm sorry.	3
+Once again there will be 2 stops.	1
+Can you repeat the question?	1
+Can you repeat that?	1
+I am sorry, I am not sure of the hours to be certain about.	3
+Something casual. I mean, I'd like to sit down as well.	3
+Can you please repeat that once again?	1
+Thank you very much. You have a great and wonderful day, and I mean that.	3
+Just to confirm, your order is OC, chicken teriyaki, eggroll and miso soup.	3
+Well, You know what? I also want to go economical. So, Coach will be fine. I'm looking for the cheapest option.	3
+How about Argo or the Manchurian Candidate or Munich?	0
+Yes.	0
+Okay. Let me confirm you have two burgers well done with everything on them. Sweet potato fries with both. And a house salad.	3
+Tell me the first one again please?	1
+I need help finding a flight from New York City to the Bahamas.	0
+12:05 P.M, 9:30 A.M, 12:50 P.M?	1
+I am looking for an Italian restaurant and I need sit-down restaurant.	0
+Where?	1
+Okay, I understood. Let me find some good restaurants. Here are two great places I found. The second is Taqueria Guadalajara, they offer Burritos, tortas, tacos & other filling Mexican grub served up in a simple setting. The first is Taqueria Davis, a small, local Taqueria with friendly staff, and a diverse menu. Which restaurant would you prefer?	3
+Can you repeat that slowly please?	1
+Could you say that again please?	1
+Sorry, could you please repeat that?	1
+What movie? can you repeat that? Okay. Do you have any preferences for reviews?	3
+Alright.	0
+I'm sorry. I do not have that information at this time as their menu is subject to change based on seasonality.	3
+What was that? At what time?	1
+Can you repeat that please?	1
+I'd like to have a taco and enchilada salad, five enchiladas and fried rice.	0
+I'd like to stay at home.	0
+I'm sorry, but The circle is not available on Xfinity, it is available for purchase on iTunes and Vudu and Google Play.	3
+Just to confirm you would like to order one beef Lasagna.	3
+Let me check. I'm sorry, their wine menu is not available online.	3
+What?	1
+Do you have a genre or anything in particular like a director, actor?	0
+I'm sorry, can you repeat the question?	1
+I'm sorry, do you want a layover or direct flight?	1
+Do you want a one-stop flight?	1
+Sorry, I'm not able to find any place called Downtown, California, can you please provide me a with a specific city? Okay, I found a couple options to you. The first is Dos Coyotes Border Cafe, an authentic Mexican Taqueria, with a great atmosphere and outdoor seating.	3
+Please repeat that?	1
+What kind of food are you hungry for?	0
+I'm sorry I do not have that information but it is available on Netflix.	3
+Trailer not available, I'm sorry.	3
+Sorry, could you say that again?	1
+I can help you with that. Can you please confirm the dates of your travel?	3
+You're welcome! Enjoy your movie! Bye.	0
+Hi, how can I help you today? What kind of movie are you looking for?	0
+Just to confirm you would like to order three breakfast burritos.	3
+Say that again.	1
+I'm sorry, can you repeat that?	1
+Great. I will find a flight for you from Houston to Paris on March 1st and coming back on March 15th. Hold on. How many fights for you have any preferences about the flight? I'm sorry, I misspoke. I have found many flights.	3
+I'm sorry, can you repeat that?	1
+Okay. Let me confirm what you have, two burgers well done with everything on them and sweet potato fries with both burgers and 2 iced teas.	3
+Just to confirm your order large pork fried, small spare rib and 2 egg rolls.	3
+Just regular American food.	0
+Yes.	0
+Can you repeat the question?	1
+Yes.	0
+Okay. Let me confirm what you have, two burgers well done with everything on them, Sweet potato fries with both and 2 iced teas.	3
+Okay. Let me confirm what you have. 1 turkey-avocado crepe with cheddar and 1 greek delight crepe.	3
+Sorry, could you say that again?	1
+Excuse me, I meant to ask which airport you would like to fly from in New York City?	3
+Can you confirm the departure and arrival dates?	3
+Then you will arrive in Barcelona at 8:50 AM the next day.	0
+I apologize. I didn't get that. Could you please repeat what you said?	1
+I'm sorry what did you say?	1
+What?	1
+On Sunday, they're open from 5 to 9 PM.	0
+I'm sorry, I realized Franklin Barbecue was only lunch how about Terry's Black's BBQ.	3
+Sorry, we can only give you this information for now.	3
+Okay. Let me confirm what you have: 1 market burrito with black beans and spicy salsa and 1 chicken taco platter with refried beans with a salad with house dressing.	3
+Children's movie?	1
+Okay, what else would you like to know?	0
+And I want some timings after evening like 7:00 p.m. and reaching there, I mean like, before like 11:00 p.m. at night.	3
+Would you mind saying that again?	1
+One moment. I'm sorry, which city were you flying to again?	1
+You got it.	0
+What was that?	1
+I'll look for you. Hold one second. I found a few restaurants with over 4 stars. How does that sound?	0
+Okay, sorry I could not stop talking. Once I set up the narrative it does not stop. I will look for hamburgers.	3
+Could you say that again?	1
+Sorry, I’m not sure how to help with that yet. You can ask about runtime or showtimes. Or, you can just choose one of the movies.	3
+What was that could you say that again?	1
+So you told me you want to leave Los Angeles to Houston June 2nd then you told me again you want to leave from Los Angeles to Houston the next day, that is impossible.	1
+Do they have a hotel accommodations nearby within walking distance?	0
+I don't know. Whatever rents things out. Redbox or something.	0
+Hi. Could you say that again?	1
+Great, Can you tell me anything else about the Sandwich Shop? Or I'm sorry, The Sandwich Spot.	3
+Okay. And what were the two names again?	3
+Okay. Do they have dinner on Sundays?	0

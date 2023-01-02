@@ -1,0 +1,126 @@
+restaurant-0eaca968-eb11-47a9-b8fc-6e62d0f87ed0	1	How can i help you?	0
+restaurant-0eaca968-eb11-47a9-b8fc-6e62d0f87ed0	2	Hello? How are you doing?	0
+restaurant-0eaca968-eb11-47a9-b8fc-6e62d0f87ed0	3	How can i help you?	0
+restaurant-0eaca968-eb11-47a9-b8fc-6e62d0f87ed0	4	What should I do for dinner tonight?	0
+restaurant-0eaca968-eb11-47a9-b8fc-6e62d0f87ed0	5	I can help with that. Would you like to order in, Go out or cook at home?	0
+restaurant-0eaca968-eb11-47a9-b8fc-6e62d0f87ed0	6	Repeat that, please.	1
+restaurant-0eaca968-eb11-47a9-b8fc-6e62d0f87ed0	7	Would you like to order in, Go out or cook at home?	0
+restaurant-0eaca968-eb11-47a9-b8fc-6e62d0f87ed0	8	No, What's a good meal?	0
+restaurant-0eaca968-eb11-47a9-b8fc-6e62d0f87ed0	9	You said you would like to cook at home?	0
+restaurant-0eaca968-eb11-47a9-b8fc-6e62d0f87ed0	10	Yes, What you can find me eight?	0
+restaurant-0eaca968-eb11-47a9-b8fc-6e62d0f87ed0	11	What would you like to cook at home and for how many people?	0
+restaurant-0eaca968-eb11-47a9-b8fc-6e62d0f87ed0	12	Meatloaf.	0
+restaurant-0eaca968-eb11-47a9-b8fc-6e62d0f87ed0	13	Would you like me to email the recipe for meatloaf to you?	0
+restaurant-0eaca968-eb11-47a9-b8fc-6e62d0f87ed0	14	Yes, Please. Thank you.	0
+restaurant-0eaca968-eb11-47a9-b8fc-6e62d0f87ed0	15	The recipe for meatloaf has been emailed to you.	0
+restaurant-0eaca968-eb11-47a9-b8fc-6e62d0f87ed0	16	Well, Thank you very much. You have a great day.	0
+restaurant-0eaca968-eb11-47a9-b8fc-6e62d0f87ed0	17	You're welcome, Enjoy your cooking.	0
+restaurant-0eaca968-eb11-47a9-b8fc-6e62d0f87ed0	18	I sure will. Cooking is good.	0
+restaurant-0eaca968-eb11-47a9-b8fc-6e62d0f87ed0	19	Talk to you next time, Bye.	0
+flights-1161433b-97ae-499a-a951-4ef122d404dd	1	Hi. How can I help you?	0
+flights-1161433b-97ae-499a-a951-4ef122d404dd	2	Hello, Assistant. How are you doing today?	0
+flights-1161433b-97ae-499a-a951-4ef122d404dd	3	Great, how are you?	0
+flights-1161433b-97ae-499a-a951-4ef122d404dd	4	Wonderful. I need to find a round-trip ticket airline flight, please, from San Francisco to Houston, and I'm going to be departing today and return in 3 days, and I would like to leave in the afternoon for the departure and return.	0
+flights-1161433b-97ae-499a-a951-4ef122d404dd	5	One moment. I'm sorry, which city were you flying to again?	1
+flights-1161433b-97ae-499a-a951-4ef122d404dd	6	I'm traveling from San Francisco to Houston, Texas.	0
+flights-1161433b-97ae-499a-a951-4ef122d404dd	7	Great one moment please.	0
+flights-1161433b-97ae-499a-a951-4ef122d404dd	8	Sure. Thank you.	0
+flights-1161433b-97ae-499a-a951-4ef122d404dd	9	What class would you prefer to travel?	0
+flights-1161433b-97ae-499a-a951-4ef122d404dd	10	Oh, business class, please.	0
+flights-1161433b-97ae-499a-a951-4ef122d404dd	11	Would you prefer a nonstop flight?	0
+flights-1161433b-97ae-499a-a951-4ef122d404dd	12	Yes, if that's possible.	0
+flights-1161433b-97ae-499a-a951-4ef122d404dd	13	Okay, I will be right back with you.	0
+flights-1161433b-97ae-499a-a951-4ef122d404dd	14	Thank you.	0
+flights-1161433b-97ae-499a-a951-4ef122d404dd	15	The earliest nonstop flight today is at 7:10 PM arriving in to Houston at 1 AM.	0
+flights-1161433b-97ae-499a-a951-4ef122d404dd	16	Okay, that sounds fine.	0
+flights-1161433b-97ae-499a-a951-4ef122d404dd	17	Okay, let me check the return flights for you.	0
+flights-1161433b-97ae-499a-a951-4ef122d404dd	18	Thank you.	0
+flights-1161433b-97ae-499a-a951-4ef122d404dd	19	Here is a return flight leaving at 3:40 PM and arriving back into San Francisco at 5:56 PM.	0
+flights-1161433b-97ae-499a-a951-4ef122d404dd	20	That sounds great. Thank you. Can you book that one?	0
+flights-1161433b-97ae-499a-a951-4ef122d404dd	21	Yes, one moment. Okay, your flight is booked. I hope you enjoy your trip.	0
+flights-1161433b-97ae-499a-a951-4ef122d404dd	22	Thank you so much.	0
+flights-1161433b-97ae-499a-a951-4ef122d404dd	23	You are welcome. Have a great evening.	0
+flights-1161433b-97ae-499a-a951-4ef122d404dd	24	You, too.	0
+flights-1161433b-97ae-499a-a951-4ef122d404dd	25	Thank you. Goodbye!	0
+flights-1161433b-97ae-499a-a951-4ef122d404dd	26	Good bye.	0
+movies-64f91c94-24f8-404c-8a6a-8bdb74485731	1	I would like help finding a movie to go see in a theater.	0
+movies-64f91c94-24f8-404c-8a6a-8bdb74485731	2	Okay how can I help you narrow down your search?	0
+movies-64f91c94-24f8-404c-8a6a-8bdb74485731	3	I'm looking for a romantic comedy.	0
+movies-64f91c94-24f8-404c-8a6a-8bdb74485731	4	Okay and what else?	0
+movies-64f91c94-24f8-404c-8a6a-8bdb74485731	5	It has to have good rating on Rotten Tomatoes, and it has to have Christian Bale in it.	0
+movies-64f91c94-24f8-404c-8a6a-8bdb74485731	6	I wasn't able to find any christian bale movie.	0
+movies-64f91c94-24f8-404c-8a6a-8bdb74485731	7	I need to find a romantic comedy that has good ratings on Rotten Tomatoes.	0
+movies-64f91c94-24f8-404c-8a6a-8bdb74485731	8	Okay, how high on rotten tomatoes?	0
+movies-64f91c94-24f8-404c-8a6a-8bdb74485731	9	Above an 80%.	0
+movies-64f91c94-24f8-404c-8a6a-8bdb74485731	10	Okay, is that it?	0
+movies-64f91c94-24f8-404c-8a6a-8bdb74485731	11	Also within 20 min of my location.	0
+movies-64f91c94-24f8-404c-8a6a-8bdb74485731	12	Alright, I found one.	0
+movies-64f91c94-24f8-404c-8a6a-8bdb74485731	13	And in 3D.	0
+movies-64f91c94-24f8-404c-8a6a-8bdb74485731	14	Okay there are no 3D romantic comedy movies.	0
+movies-64f91c94-24f8-404c-8a6a-8bdb74485731	15	It doesn't have to be in 3D.	0
+movies-64f91c94-24f8-404c-8a6a-8bdb74485731	16	Okay. The best one I could find is la la land. It has 93% tomatoes.	0
+movies-64f91c94-24f8-404c-8a6a-8bdb74485731	19	Sounds good to me.	0
+movies-64f91c94-24f8-404c-8a6a-8bdb74485731	20	Okay, showtimes at the nearest theater are 4:40 p.m, 6 p.m, 7:40 p.m, 9 p.m and 10:50 p.m.	0
+movies-64f91c94-24f8-404c-8a6a-8bdb74485731	21	4:40 p.m is perfect.	0
+movies-64f91c94-24f8-404c-8a6a-8bdb74485731	22	What was that?	1
+movies-64f91c94-24f8-404c-8a6a-8bdb74485731	23	4:40 p.m is good time to go see movie.	0
+movies-64f91c94-24f8-404c-8a6a-8bdb74485731	24	Okay. Is that all?	0
+movies-64f91c94-24f8-404c-8a6a-8bdb74485731	25	Yes, that's fine.	0
+movies-64f91c94-24f8-404c-8a6a-8bdb74485731	26	Okay.	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	1	Hi.How can I help you?	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	2	Hello. I would like to book a flight to Dublin.	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	3	Dublin Ireland, is that correct?	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	4	Yes.	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	5	Okay, I can help you with booking a flight from Houston to Dublin Ireland.	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	6	Thanks.	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	7	What dates will you be traveling to Dublin.	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	8	Can it be April 11th?	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	9	Okay departure about April 11th. Do you have a return date or is this the one way trip?	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	10	The return date may be it will be on the 22nd. The 22nd of April.	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	11	Ok got it. Do you have any preferences for flights.	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	12	I would like it to be on a business class and I don't want to have any layovers.	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	13	Let me check to see if there are any non-stop flights to Dublin and business class.	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	14	Thank you.	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	15	Hold on just a second. I'm sorry but I can't see any non-stop flights and economy business or first class.	3
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	16	There are no flights available?	1
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	17	There are no non-stop flights to Dublin.	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	18	So it can be with a stop or a layover. That will be good.	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	19	Okay, do you have a time you wish to leave Houston Texas?	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	20	Preferably morning maybe around 9:00 to 10:00 a.m.	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	21	I found a flight departing Houston at 9:25 a.m. This flight has a five hour and 25 minutes layover.	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	22	That's okay. Thank you. Let's book that.	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	23	Okay outbound flight has been booked. What time did you wish to leave Dublin Ireland?	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	24	The same time frame in the morning.	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	25	Okay I found a flight that departs 9 a.m. from Dublin. This flight has a 1 hour and 55 minutes stopover in Newyork.	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	26	All right, that's great.	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	27	Would you like to know the price for this roundtrip flight?	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	28	Yes, please.	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	29	The price if you book with United is $2,907.	0
+flights-b0499f94-49e7-4858-8289-7f836bc81c36	30	All right, that's within my price range. Thank you.	0
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf	1	Hi! What's your idea for dinner tonight?	0
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf	2	Hello! Would you like to order take-out, cook at home or go out?	0
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf	3	No, I think we want to go out.	0
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf	4	What kind of food do you like?	0
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf	5	Italian food.	0
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf	6	Trattoria Contadina Restaurant.	0
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf	7	Okay, tell me a little more about it.	0
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf	8	Cozy, unpretentious fixture for classic Italian fare such as pasta, meatballs & gnocchi.	0
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf	9	Okay, anywhere else?	0
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf	10	Seven Hills.	0
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf	11	Okay, just tell me more about it.	0
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf	12	Lively Italian eatery serving farm-to-table Roman fare with an inventive twist in a candlelit space.	0
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf	13	Okay, that sounds pretty good. What's the actual price range?	0
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf	14	High priced.	0
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf	15	Okay, anywhere else?	0
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf	16	E Tutto Qua.	0
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf	17	Okay. Could you tell me a little more about it?	0
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf	18	Creative Italian dishes made from scratch are served in a warm & lively location with large windows.	0
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf	19	Okay. Does that one serve alcohol?	0
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf	20	Could you say that again please?	1
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf	21	Yes, do they serve alcohol?	0
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf	22	Yes, full bar.	0
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf	23	Okay. And what's price range on that one?	0
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf	24	Medium price range.	0
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf	25	Okay, that sound's good. Could you give me the address location alone?	0
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf	26	: 270 Columbus Ave, San Francisco, CA 94133.	0
+restaurant-f32f18e3-b4b7-4cf1-85fd-8d36eb687ccf	27	Okay, that's what I want. Thank you and bye.	0
